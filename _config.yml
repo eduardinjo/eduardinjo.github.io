@@ -3,5 +3,10 @@ description: '"Vieta dziļdomīgai sarkastiskai piezīmei, kura klejo pa interne
 show_downloads: true
 google_analytics: UA-105382955-1
 theme: jekyll-theme-cayman
-gems:
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+plugins:
   - jekyll-feed

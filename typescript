@@ -1,2165 +1,0 @@
-Script started on ceturtdiena, 2017. gada 15. jūnijs, plkst. 23 un 41
-]0;eduards@Esuba: /media/eduards/Data/Programming/Jekyll/caymaneduards@Esuba:/media/eduards/Data/Programming/Jekyll/cayman$ bash script
-script: script: is a directory
-]0;eduards@Esuba: /media/eduards/Data/Programming/Jekyll/caymaneduards@Esuba:/media/eduards/Data/Programming/Jekyll/cayman$ cd script
-]0;eduards@Esuba: /media/eduards/Data/Programming/Jekyll/cayman/scripteduards@Esuba:/media/eduards/Data/Programming/Jekyll/cayman/script$ ls
-bootstrap  cibuild  release  server
-]0;eduards@Esuba: /media/eduards/Data/Programming/Jekyll/cayman/scripteduards@Esuba:/media/eduards/Data/Programming/Jekyll/cayman/script$ bootstrap
-No command 'bootstrap' found, did you mean:
- Command 'rootstrap' from package 'rootstrap' (universe)
-bootstrap: command not found
-]0;eduards@Esuba: /media/eduards/Data/Programming/Jekyll/cayman/scripteduards@Esuba:/media/eduards/Data/Programming/Jekyll/cayman/script$ bash s[Kbootstr ap
-Successfully installed bundler-1.15.1
-Parsing documentation for bundler-1.15.1
-Done installing documentation for bundler after 5 seconds
-1 gem installed
-Fetching gem metadata from https://rubygems.org/...........
-Fetching version metadata from https://rubygems.org/..
-Fetching dependency metadata from https://rubygems.org/.
-Resolving dependencies...
-[32mFetching public_suffix 2.0.5[0m
-[32mInstalling public_suffix 2.0.5[0m
-[32mFetching colorator 1.1.0[0m
-[32mInstalling colorator 1.1.0[0m
-[32mFetching sass 3.4.24[0m
-[32mInstalling sass 3.4.24[0m
-[32mFetching rb-fsevent 0.9.8[0m
-[32mInstalling rb-fsevent 0.9.8[0m
-[32mFetching ffi 1.9.18[0m
-[32mInstalling ffi 1.9.18 with native extensions[0m
-[32mFetching kramdown 1.13.2[0m
-[32mInstalling kramdown 1.13.2[0m
-[32mFetching liquid 3.0.6[0m
-[32mInstalling liquid 3.0.6[0m
-[32mFetching mercenary 0.3.6[0m
-[32mInstalling mercenary 0.3.6[0m
-[32mFetching forwardable-extended 2.6.0[0m
-[32mInstalling forwardable-extended 2.6.0[0m
-[32mFetching rouge 1.11.1[0m
-[32mInstalling rouge 1.11.1[0m
-[32mFetching safe_yaml 1.0.4[0m
-[32mInstalling safe_yaml 1.0.4[0m
-Using bundler 1.15.1
-[32mFetching addressable 2.5.1[0m
-[32mInstalling addressable 2.5.1[0m
-[32mFetching jekyll-sass-converter 1.5.0[0m
-[32mInstalling jekyll-sass-converter 1.5.0[0m
-[32mFetching rb-inotify 0.9.8[0m
-[32mInstalling rb-inotify 0.9.8[0m
-[32mFetching pathutil 0.14.0[0m
-[32mInstalling pathutil 0.14.0[0m
-[32mFetching listen 3.0.8[0m
-[32mInstalling listen 3.0.8[0m
-[32mFetching jekyll-watch 1.5.0[0m
-[32mInstalling jekyll-watch 1.5.0[0m
-[32mFetching jekyll 3.4.3[0m
-[32mInstalling jekyll 3.4.3[0m
-Using jekyll-theme-cayman 0.0.4 from source at `.`
-[32mBundle complete! 1 Gemfile dependency, 20 gems now installed.[0m
-[32mUse `bundle info [gemname]` to see where a bundled gem is installed.[0m
-]0;eduards@Esuba: /media/eduards/Data/Programming/Jekyll/cayman/scripteduards@Esuba:/media/eduards/Data/Programming/Jekyll/cayman/script$ bundle exec  jekyll serve
-[33mConfiguration file: none[0m
-[33mConfiguration file: none[0m
-            Source: /media/eduards/Data/Programming/Jekyll/cayman/script
-       Destination: /media/eduards/Data/Programming/Jekyll/cayman/script/_site
- Incremental build: disabled. Enable with --incremental
-      Generating... 
-                    done in 0.013 seconds.
- Auto-regeneration: enabled for '/media/eduards/Data/Programming/Jekyll/cayman/script'
-[33mConfiguration file: none[0m
-    Server address: http://127.0.0.1:4000/
-  Server running... press ctrl-c to stop.
-^C]0;eduards@Esuba: /media/eduards/Data/Programming/Jekyll/cayman/scripteduards@Esuba:/media/eduards/Data/Programming/Jekyll/cayman/script$ cd ../..
-]0;eduards@Esuba: /media/eduards/Data/Programming/Jekylleduards@Esuba:/media/eduards/Data/Programming/Jekyll$ cd ../
-]0;eduards@Esuba: /media/eduards/Data/Programmingeduards@Esuba:/media/eduards/Data/Programming$ ls
-[0m[01;34mAssembly[0m  [01;34meduardinjo.github.io[0m  [01;34mJekyll[0m   [01;34mMatlab[0m  [01;34mPython[0m
-[01;34mC[0m         [01;34mHaskell[0m               [01;34mLTspice[0m  [01;34mMyBlog[0m
-]0;eduards@Esuba: /media/eduards/Data/Programmingeduards@Esuba:/media/eduards/Data/Programming$ cd eduardinjo.github.io/ed
-bash: cd: eduardinjo.github.io/ed: No such file or directory
-]0;eduards@Esuba: /media/eduards/Data/Programmingeduards@Esuba:/media/eduards/Data/Programming$ cd eduardinjo.github.io/eduardinjoo.github.io/
-]0;eduards@Esuba: /media/eduards/Data/Programming/eduardinjo.github.io/eduardinjo.github.ioeduards@Esuba:/media/eduards/Data/Programming/eduardinjo.github.io/eduardinjo.gitthub.io$ cd eduardinjo.github.io/eduardinjo.github.io/[K[C[C[C[C[C[C[C[C[Cls[Kcd ../..bundle exec jekyll serve
-[31mCould not locate Gemfile or .bundle/ directory[0m
-]0;eduards@Esuba: /media/eduards/Data/Programming/eduardinjo.github.io/eduardinjo.github.ioeduards@Esuba:/media/eduards/Data/Programming/eduardinjo.github.io/eduardinjo.gitthub.io$ jekyll serve
-Configuration file: /media/eduards/Data/Programming/eduardinjo.github.io/eduardinjo.github.io/_config.yml
-            Source: /media/eduards/Data/Programming/eduardinjo.github.io/eduardinjo.github.io
-       Destination: /media/eduards/Data/Programming/eduardinjo.github.io/eduardinjo.github.io/_site
- Incremental build: disabled. Enable with --incremental
-      Generating... 
-[33m     Build Warning: Layout 'default' requested in index.md does not exist.[0m
-                    done in 0.061 seconds.
- Auto-regeneration: enabled for '/media/eduards/Data/Programming/eduardinjo.github.io/eduardinjo.github.io'
-Configuration file: /media/eduards/Data/Programming/eduardinjo.github.io/eduardinjo.github.io/_config.yml
-    Server address: http://127.0.0.1:4000/
-  Server running... press ctrl-c to stop.
-^C]0;eduards@Esuba: /media/eduards/Data/Programming/eduardinjo.github.io/eduardinjo.github.ioeduards@Esuba:/media/eduards/Data/Programming/eduardinjo.github.io/eduardinjo.gitthub.io$ jekyll serve[C[C[C[C[C[C[C[C[C[12@bundle exec [C[C[C[C[C[C[C[C[C[C[C[C
-[31mCould not locate Gemfile or .bundle/ directory[0m
-]0;eduards@Esuba: /media/eduards/Data/Programming/eduardinjo.github.io/eduardinjo.github.ioeduards@Esuba:/media/eduards/Data/Programming/eduardinjo.github.io/eduardinjo.gitthub.io$ bundle exec jekyll serve[C[C[C[C[C[C[C[C[C[12P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[12@bundle exec [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd eduardinjo.github.io/eduardinjo.github.io/[K[C[C[C[C[C[C[C[C[Cls[Kcd ../..bundle exec jekyll serve[C[C[C[C[C[C[C[C[C[C[10Pash bootstrap[C[C[C[C[C[C[C[C[C[C[5Pootstrapls[Kcd script[2@bash[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cjekyll serve[C[C[C[C[C[C[C[C[Ccd eduardinjo.github.io/eduardinjo.github.io/[C[C[C[C[C[C[C[C[Cls[Kcd ../jekyll serve[C[C[C[C[C[C[C[C[C[12@bundle exec [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csudo apt-get install bundler[C[C[C[C[C[C[C[C[C[4Pbundle exec jekyll serve[C[C[C[C[C[C[C[C[C[12P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd /media/eduards/Data/Programming/MyBlog/[C[C[C[C[C[C[C[C[Cjekyll serve[K[C[C[C[C[C[C[C[C[Cpython -m ipykernel install --user --name=tensorflow_cpu_py_2.7[C[C[C[C[C[C[C[C[C[Cip install ipykernel[K[C[C[C[C[C[C[C[C[C[8@sudo pip2.7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3@2.7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[8Ppip[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cython -m ipykernel install --user --name=tensorflow_cpu_py_2.7[C[C[C[C[C[C[C[C[Cjekyll serve[K[C[C[C[C[C[C[C[C[Ccd /media/eduards/Data/Programming/MyBlog/[C[C[C[C[C[C[C[C[Cjekyll serve[K[C[C[C[C[C[C[C[C[C[12@bundle exec [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csudo apt-get install bundler[C[C[C[C[C[C[C[C[C[4Pbundle exec jekyll serve[C[C[C[C[C[C[C[C[C[12P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[6Pcd ../[4Plscd eduardinjo.github.io/eduardinjo.github.io/[C[C[C[C[C[C[C[C[Cjekyll serve[K[C[C[C[C[C[C[C[C[C[1Pbash script[C[C[C[C[C[C[C[C[C[2Pcd[C[C[C[C[C[C[Cls[Kbootstrapash bootstrap[C[C[C[C[C[C[C[C[C[Cundle exec jekyll serve[C[C[C[C[C[C[C[C[C[16Pcd ../..[K[4Plscd eduardinjo.github.io/eduardinjo.github.io/[C[C[C[C[C[C[C[C[C[21Pbundle exec jekyll serve[C[C[C[C[C[C[C[C[C[12P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[12@bundle exec [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kbundle exec jekyll serve[C[C[C[C[C[C[C[C[C[12P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[12@bundle exec [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd eduardinjo.github.io/eduardinjo.github.io/[K[C[C[C[C[C[C[C[C[Cls[Kcd ../..bundle exec jekyll serve[C[C[C[C[C[C[C[C[C[C[10Pash bootstrap[C[C[C[C[C[C[C[C[C[C[5Pootstrapls[Kcd script[2@bash[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cjekyll serve[C[C[C[C[C[C[C[C[Ccd eduardinjo.github.io/eduardinjo.github.io/[C[C[C[C[C[C[C[C[Cls[Kcd ../jekyll serve[C[C[C[C[C[C[C[C[C[12@bundle exec [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csudo apt-get install bundler[C[C[C[C[C[C[C[C[C[4Pbundle exec jekyll serve[C[C[C[C[C[C[C[C[C[12P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd /media/eduards/Data/Programming/MyBlog/[C[C[C[C[C[C[C[C[Cjekyll serve[K[C[C[C[C[C[C[C[C[Cpython -m ipykernel install --user --name=tensorflow_cpu_py_2.7[C[C[C[C[C[C[C[C[C[Cip install ipykernel[K[C[C[C[C[C[C[C[C[C[Cython -m ipykernel install --user --name=tensorflow_cpu_py_2.7[C[C[C[C[C[C[C[C[Cjekyll serve[K[C[C[C[C[C[C[C[C[Ccd /media/eduards/Data/Programming/MyBlog/[C[C[C[C[C[C[C[C[Cjekyll serve[K[C[C[C[C[C[C[C[C[C[12@bundle exec [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csudo apt-get install bundler[C[C[C[C[C[C[C[C[C[4Pbundle exec jekyll serve[C[C[C[C[C[C[C[C[C[12P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[6Pcd ../[4Plscd eduardinjo.github.io/eduardinjo.github.io/[C[C[C[C[C[C[C[C[Cjekyll serve[K[C[C[C[C[C[C[C[C[C[1Pbash script[C[C[C[C[C[C[C[C[C[2Pcd[C[C[C[C[C[C[Cls[Kbootstrapash bootstrap[C[C[C[C[C[C[C[C[C[Cundle exec jekyll serve[C[C[C[C[C[C[C[C[C[16Pcd ../..[K[4Plscd eduardinjo.github.io/eduardinjo.github.io/[C[C[C[C[C[C[C[C[C[21Pbundle exec jekyll serve[C[C[C[C[C[C[C[C[C[12P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[12@bundle exec [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kgit clone https://github.com/pages-themes/cayman
-Cloning into 'cayman'...
-remote: Counting objects: 409, done.[K
-Receiving objects:   0% (1/409)   Receiving objects:   1% (5/409)   Receiving objects:   2% (9/409)   Receiving objects:   3% (13/409)   Receiving objects:   4% (17/409)   Receiving objects:   5% (21/409)   Receiving objects:   6% (25/409)   Receiving objects:   7% (29/409)   Receiving objects:   8% (33/409)   Receiving objects:   9% (37/409)   Receiving objects:  10% (41/409)   Receiving objects:  11% (45/409)   Receiving objects:  12% (50/409)   Receiving objects:  13% (54/409)   Receiving objects:  14% (58/409)   Receiving objects:  15% (62/409)   Receiving objects:  16% (66/409)   Receiving objects:  17% (70/409)   Receiving objects:  18% (74/409)   Receiving objects:  19% (78/409)   Receiving objects:  20% (82/409)   Receiving objects:  21% (86/409)   Receiving objects:  22% (90/409)   Receiving objects:  23% (95/409)   Receiving objects:  24% (99/409)   Receiving objects:  25% (103/409)   Receiving objects:  26% (107/409)   Receiving objects:  27% (111/409)   Receiving objects:  28% (115/409)   Receiving objects:  29% (119/409)   Receiving objects:  30% (123/409)   Receiving objects:  31% (127/409)   Receiving objects:  32% (131/409)   Receiving objects:  33% (135/409)   Receiving objects:  34% (140/409)   Receiving objects:  35% (144/409)   Receiving objects:  36% (148/409)   Receiving objects:  37% (152/409)   Receiving objects:  38% (156/409)   Receiving objects:  39% (160/409)   Receiving objects:  40% (164/409)   Receiving objects:  41% (168/409)   Receiving objects:  42% (172/409)   Receiving objects:  43% (176/409)   Receiving objects:  44% (180/409)   Receiving objects:  45% (185/409)   Receiving objects:  46% (189/409)   Receiving objects:  47% (193/409)   Receiving objects:  48% (197/409)   Receiving objects:  49% (201/409)   Receiving objects:  50% (205/409)   Receiving objects:  51% (209/409)   Receiving objects:  52% (213/409)   Receiving objects:  53% (217/409)   Receiving objects:  54% (221/409)   Receiving objects:  55% (225/409)   Receiving objects:  56% (230/409)   Receiving objects:  57% (234/409)   Receiving objects:  58% (238/409)   Receiving objects:  59% (242/409)   Receiving objects:  60% (246/409)   Receiving objects:  61% (250/409)   Receiving objects:  62% (254/409)   Receiving objects:  63% (258/409)   Receiving objects:  64% (262/409)   Receiving objects:  65% (266/409)   Receiving objects:  66% (270/409)   Receiving objects:  67% (275/409)   Receiving objects:  68% (279/409)   remote: Total 409 (delta 0), reused 0 (delta 0), pack-reused 409[K
-Receiving objects:  69% (283/409)   Receiving objects:  70% (287/409)   Receiving objects:  71% (291/409)   Receiving objects:  72% (295/409)   Receiving objects:  73% (299/409)   Receiving objects:  74% (303/409)   Receiving objects:  75% (307/409)   Receiving objects:  76% (311/409)   Receiving objects:  77% (315/409)   Receiving objects:  78% (320/409)   Receiving objects:  79% (324/409)   Receiving objects:  80% (328/409)   Receiving objects:  81% (332/409)   Receiving objects:  82% (336/409)   Receiving objects:  83% (340/409)   Receiving objects:  84% (344/409)   Receiving objects:  85% (348/409)   Receiving objects:  86% (352/409)   Receiving objects:  87% (356/409)   Receiving objects:  88% (360/409)   Receiving objects:  89% (365/409)   Receiving objects:  90% (369/409)   Receiving objects:  91% (373/409)   Receiving objects:  92% (377/409)   Receiving objects:  93% (381/409)   Receiving objects:  94% (385/409)   Receiving objects:  95% (389/409)   Receiving objects:  96% (393/409)   Receiving objects:  97% (397/409)   Receiving objects:  98% (401/409)   Receiving objects:  99% (405/409)   Receiving objects: 100% (409/409)   Receiving objects: 100% (409/409), 130.30 KiB | 0 bytes/s, done.
-Resolving deltas:   0% (0/186)   Resolving deltas:   1% (2/186)   Resolving deltas:   2% (4/186)   Resolving deltas:   3% (6/186)   Resolving deltas:   4% (8/186)   Resolving deltas:   5% (11/186)   Resolving deltas:   8% (16/186)   Resolving deltas:  11% (21/186)   Resolving deltas:  12% (24/186)   Resolving deltas:  17% (32/186)   Resolving deltas:  31% (59/186)   Resolving deltas:  33% (62/186)   Resolving deltas:  43% (80/186)   Resolving deltas:  49% (92/186)   Resolving deltas:  52% (98/186)   Resolving deltas:  56% (105/186)   Resolving deltas:  58% (108/186)   Resolving deltas:  69% (130/186)   Resolving deltas:  77% (145/186)   Resolving deltas:  79% (148/186)   Resolving deltas:  80% (149/186)   Resolving deltas:  81% (151/186)   Resolving deltas:  82% (153/186)   Resolving deltas:  83% (155/186)   Resolving deltas:  91% (170/186)   Resolving deltas:  93% (173/186)   Resolving deltas: 100% (186/186)   Resolving deltas: 100% (186/186), done.
-Checking connectivity... done.
-]0;eduards@Esuba: /media/eduards/Data/Programming/eduardinjo.github.io/eduardinjo.github.ioeduards@Esuba:/media/eduards/Data/Programming/eduardinjo.github.io/eduardinjo.gitthub.io$ ls
-[0m[01;34mcayman[0m  _config.yml  _config.yml~  index.md  LICENSE  README.md  [01;34m_site[0m
-]0;eduards@Esuba: /media/eduards/Data/Programming/eduardinjo.github.io/eduardinjo.github.ioeduards@Esuba:/media/eduards/Data/Programming/eduardinjo.github.io/eduardinjo.gitthub.io$ cd cayman
-]0;eduards@Esuba: /media/eduards/Data/Programming/eduardinjo.github.io/eduardinjo.github.io/caymaneduards@Esuba:/media/eduards/Data/Programming/eduardinjo.github.io/eduardinjo.gitthub.io/cayman$ ls
-another-page.md     CONTRIBUTING.md              [0m[01;34m_layouts[0m   [01;34mscript[0m
-[01;34massets[0m              Gemfile                      LICENSE    [01;35mthumbnail.png[0m
-CODE_OF_CONDUCT.md  index.md                     README.md
-_config.yml         jekyll-theme-cayman.gemspec  [01;34m_sass[0m
-]0;eduards@Esuba: /media/eduards/Data/Programming/eduardinjo.github.io/eduardinjo.github.io/caymaneduards@Esuba:/media/eduards/Data/Programming/eduardinjo.github.io/eduardinjo.gitthub.io/cayman$ cd c[Kscripy[Kt
-]0;eduards@Esuba: /media/eduards/Data/Programming/eduardinjo.github.io/eduardinjo.github.io/cayman/scripteduards@Esuba:/media/eduards/Data/Programming/eduardinjo.github.io/eduardinjo.gitthub.io/cayman/script$ ls
-bootstrap  cibuild  release  server
-]0;eduards@Esuba: /media/eduards/Data/Programming/eduardinjo.github.io/eduardinjo.github.io/cayman/scripteduards@Esuba:/media/eduards/Data/Programming/eduardinjo.github.io/eduardinjo.gitthub.io/cayman/script$ bash bootstrap
-Successfully installed bundler-1.15.1
-Parsing documentation for bundler-1.15.1
-Done installing documentation for bundler after 5 seconds
-1 gem installed
-Fetching gem metadata from https://rubygems.org/...........
-Fetching version metadata from https://rubygems.org/..
-Fetching dependency metadata from https://rubygems.org/.
-Resolving dependencies...
-Using public_suffix 2.0.5
-Using colorator 1.1.0
-Using sass 3.4.24
-Using rb-fsevent 0.9.8
-Using ffi 1.9.18
-Using kramdown 1.13.2
-Using liquid 3.0.6
-Using mercenary 0.3.6
-Using forwardable-extended 2.6.0
-Using rouge 1.11.1
-Using safe_yaml 1.0.4
-Using bundler 1.15.1
-Using addressable 2.5.1
-Using jekyll-sass-converter 1.5.0
-Using rb-inotify 0.9.8
-Using pathutil 0.14.0
-Using listen 3.0.8
-Using jekyll-watch 1.5.0
-Using jekyll 3.4.3
-Using jekyll-theme-cayman 0.0.4 from source at `.`
-[32mBundle complete! 1 Gemfile dependency, 20 gems now installed.[0m
-[32mUse `bundle info [gemname]` to see where a bundled gem is installed.[0m
-]0;eduards@Esuba: /media/eduards/Data/Programming/eduardinjo.github.io/eduardinjo.github.io/cayman/scripteduards@Esuba:/media/eduards/Data/Programming/eduardinjo.github.io/eduardinjo.gitthub.io/cayman/script$ cd ../../
-]0;eduards@Esuba: /media/eduards/Data/Programming/eduardinjo.github.io/eduardinjo.github.ioeduards@Esuba:/media/eduards/Data/Programming/eduardinjo.github.io/eduardinjo.gitthub.io$ ls
-[0m[01;34mcayman[0m  _config.yml  _config.yml~  index.md  LICENSE  README.md  [01;34m_site[0m
-]0;eduards@Esuba: /media/eduards/Data/Programming/eduardinjo.github.io/eduardinjo.github.ioeduards@Esuba:/media/eduards/Data/Programming/eduardinjo.github.io/eduardinjo.gitthub.io$ bundle exec jeku[Kyll serve
-[31mCould not locate Gemfile or .bundle/ directory[0m
-]0;eduards@Esuba: /media/eduards/Data/Programming/eduardinjo.github.io/eduardinjo.github.ioeduards@Esuba:/media/eduards/Data/Programming/eduardinjo.github.io/eduardinjo.gitthub.io$ ls
-[0m[01;34mcayman[0m  _config.yml  _config.yml~  index.md  LICENSE  README.md  [01;34m_site[0m
-]0;eduards@Esuba: /media/eduards/Data/Programming/eduardinjo.github.io/eduardinjo.github.ioeduards@Esuba:/media/eduards/Data/Programming/eduardinjo.github.io/eduardinjo.gitthub.io$ jekyll sere[Kve
-Configuration file: /media/eduards/Data/Programming/eduardinjo.github.io/eduardinjo.github.io/_config.yml
-            Source: /media/eduards/Data/Programming/eduardinjo.github.io/eduardinjo.github.io
-       Destination: /media/eduards/Data/Programming/eduardinjo.github.io/eduardinjo.github.io/_site
- Incremental build: disabled. Enable with --incremental
-      Generating... 
-[33m     Build Warning: Layout 'default' requested in cayman/another-page.md does not exist.[0m
-[33m     Build Warning: Layout 'default' requested in cayman/index.md does not exist.[0m
-[33m     Build Warning: Layout 'default' requested in index.md does not exist.[0m
-[31m  Conversion error: Jekyll::Converters::Scss encountered an error while converting 'cayman/assets/css/style.scss':[0m
-[31m                    File to import not found or unreadable: jekyll-theme-cayman. on line 1[0m
-jekyll 3.0.2 | Error:  File to import not found or unreadable: jekyll-theme-cayman. on line 1
-]0;eduards@Esuba: /media/eduards/Data/Programming/eduardinjo.github.io/eduardinjo.github.ioeduards@Esuba:/media/eduards/Data/Programming/eduardinjo.github.io/eduardinjo.gitthub.io$ gem "jekyll [K-theme-cayman"
-ERROR:  While executing gem ... (Gem::CommandLineError)
-    Unknown command jekyll-theme-cayman
-]0;eduards@Esuba: /media/eduards/Data/Programming/eduardinjo.github.io/eduardinjo.github.ioeduards@Esuba:/media/eduards/Data/Programming/eduardinjo.github.io/eduardinjo.gitthub.io$ gem jekyll-theme-awesome[C[C"jekyll-theme-awesome[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C"l[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcd ../
-]0;eduards@Esuba: /media/eduards/Data/Programming/eduardinjo.github.ioeduards@Esuba:/media/eduards/Data/Programming/eduardinjo.github.io$ ls
-[0m[01;34meduardinjo.github.io[0m
-]0;eduards@Esuba: /media/eduards/Data/Programming/eduardinjo.github.ioeduards@Esuba:/media/eduards/Data/Programming/eduardinjo.github.io$ cd ../
-]0;eduards@Esuba: /media/eduards/Data/Programmingeduards@Esuba:/media/eduards/Data/Programming$ ls
-[0m[01;34mAssembly[0m  [01;34meduardinjo.github.io[0m  [01;34mJekyll[0m   [01;34mMatlab[0m  [01;34mPython[0m
-[01;34mC[0m         [01;34mHaskell[0m               [01;34mLTspice[0m  [01;34mMyBlog[0m
-]0;eduards@Esuba: /media/eduards/Data/Programmingeduards@Esuba:/media/eduards/Data/Programming$ jekyll new test_suite
-New jekyll site installed in /media/eduards/Data/Programming/test_suite. 
-]0;eduards@Esuba: /media/eduards/Data/Programmingeduards@Esuba:/media/eduards/Data/Programming$ ls
-[0m[01;34mAssembly[0m  [01;34meduardinjo.github.io[0m  [01;34mJekyll[0m   [01;34mMatlab[0m  [01;34mPython[0m
-[01;34mC[0m         [01;34mHaskell[0m               [01;34mLTspice[0m  [01;34mMyBlog[0m  [01;34mtest_suite[0m
-]0;eduards@Esuba: /media/eduards/Data/Programmingeduards@Esuba:/media/eduards/Data/Programming$ cd test_suite/
-]0;eduards@Esuba: /media/eduards/Data/Programming/test_suiteeduards@Esuba:/media/eduards/Data/Programming/test_suite$ ls
-about.md     [0m[01;34mcss[0m       [01;34m_includes[0m   [01;34m_layouts[0m  [01;34m_sass[0m
-_config.yml  feed.xml  index.html  [01;34m_posts[0m
-]0;eduards@Esuba: /media/eduards/Data/Programming/test_suiteeduards@Esuba:/media/eduards/Data/Programming/test_suite$ bundle exec jekyll ser ve
-[31mCould not locate Gemfile or .bundle/ directory[0m
-]0;eduards@Esuba: /media/eduards/Data/Programming/test_suiteeduards@Esuba:/media/eduards/Data/Programming/test_suite$ sudo apt-get install r uby ruby-all-dev
-[sudo] password for eduards: 
-Sorry, try again.
-[sudo] password for eduards: 
-Sorry, try again.
-[sudo] password for eduards: 
-Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
-Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree       
-Reading state information... 0%Reading state information... 0%Reading state information... Done
-ruby is already the newest version.
-ruby set to manually installed.
-The following packages were automatically installed and are no longer required:
-  gdebi-core libgconf2-4 libmbim-glib0 libpython3-dev libpython3.4-dev
-  libqmi-glib0 linux-headers-4.4.0-53 linux-headers-4.4.0-53-generic
-  linux-headers-4.4.0-66 linux-headers-4.4.0-66-generic linux-headers-4.4.0-67
-  linux-headers-4.4.0-67-generic linux-headers-4.4.0-70
-  linux-headers-4.4.0-70-generic linux-headers-4.4.0-72
-  linux-headers-4.4.0-72-generic linux-headers-4.4.0-75
-  linux-headers-4.4.0-75-generic linux-image-4.4.0-53-generic
-  linux-image-4.4.0-66-generic linux-image-4.4.0-67-generic
-  linux-image-4.4.0-70-generic linux-image-4.4.0-72-generic
-  linux-image-4.4.0-75-generic linux-image-extra-4.4.0-53-generic
-  linux-image-extra-4.4.0-66-generic linux-image-extra-4.4.0-67-generic
-  linux-image-extra-4.4.0-70-generic linux-image-extra-4.4.0-72-generic
-  linux-image-extra-4.4.0-75-generic linux-signed-image-4.4.0-53-generic
-  linux-signed-image-4.4.0-66-generic linux-signed-image-4.4.0-67-generic
-  linux-signed-image-4.4.0-70-generic linux-signed-image-4.4.0-72-generic
-  linux-signed-image-4.4.0-75-generic packagekit-backend-aptcc
-  packagekit-tools python-pycurl python3-packagekit usb-modeswitch
-  usb-modeswitch-data
-Use 'apt-get autoremove' to remove them.
-The following extra packages will be installed:
-  libruby2.0 ruby2.0 ruby2.0-dev
-The following NEW packages will be installed:
-  libruby2.0 ruby-all-dev ruby2.0 ruby2.0-dev
-0 upgraded, 4 newly installed, 0 to remove and 16 not upgraded.
-Need to get 3 794 kB of archives.
-After this operation, 17,9 MB of additional disk space will be used.
-Do you want to continue? [Y/n] y
-0% [Working]            Get:1 http://ppa.launchpad.net/brightbox/ruby-ng/ubuntu/ trusty/main libruby2.0 amd64 2.0.0.648-1bbox1~trusty1 [2 809 kB]
-            0% [1 libruby2.0 765 B/2 809 kB 0%] [Waiting for headers]                                                          Get:2 http://lv.archive.ubuntu.com/ubuntu/ trusty/main ruby-all-dev all 1:1.9.3.4 [4 976 B]
-                                                          0% [1 libruby2.0 9 873 B/2 809 kB 0%] [2 ruby-all-dev 4 976 B/4 976 B 100%]                                                                               0% [1 libruby2.0 9 873 B/2 809 kB 0%]                                       29% [1 libruby2.0 1 109 kB/2 809 kB 39%]57% [1 libruby2.0 2 153 kB/2 809 kB 77%]                                          74% [Working]             Get:3 http://ppa.launchpad.net/brightbox/ruby-ng/ubuntu/ trusty/main ruby2.0 amd64 2.0.0.648-1bbox1~trusty1 [68,3 kB]
-             74% [3 ruby2.0 768 B/68,3 kB 1%]                                76% [Working]             Get:4 http://ppa.launchpad.net/brightbox/ruby-ng/ubuntu/ trusty/main ruby2.0-dev amd64 2.0.0.648-1bbox1~trusty1 [912 kB]
-             76% [4 ruby2.0-dev 767 B/912 kB 0%]                                   99% [4 ruby2.0-dev 872 kB/912 kB 96%]                                     100% [Working]              Fetched 3 794 kB in 2s (1 681 kB/s)
-Selecting previously unselected package libruby2.0:amd64.
-(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 696921 files and directories currently installed.)
-Preparing to unpack .../libruby2.0_2.0.0.648-1bbox1~trusty1_amd64.deb ...
-Unpacking libruby2.0:amd64 (2.0.0.648-1bbox1~trusty1) ...
-Selecting previously unselected package ruby2.0.
-Preparing to unpack .../ruby2.0_2.0.0.648-1bbox1~trusty1_amd64.deb ...
-Unpacking ruby2.0 (2.0.0.648-1bbox1~trusty1) ...
-Selecting previously unselected package ruby2.0-dev:amd64.
-Preparing to unpack .../ruby2.0-dev_2.0.0.648-1bbox1~trusty1_amd64.deb ...
-Unpacking ruby2.0-dev:amd64 (2.0.0.648-1bbox1~trusty1) ...
-Selecting previously unselected package ruby-all-dev.
-Preparing to unpack .../ruby-all-dev_1%3a1.9.3.4_all.deb ...
-Unpacking ruby-all-dev (1:1.9.3.4) ...
-Processing triggers for man-db (2.6.7.1-1ubuntu1) ...
-Setting up ruby2.0-dev:amd64 (2.0.0.648-1bbox1~trusty1) ...
-Setting up libruby2.0:amd64 (2.0.0.648-1bbox1~trusty1) ...
-Setting up ruby2.0 (2.0.0.648-1bbox1~trusty1) ...
-Setting up ruby-all-dev (1:1.9.3.4) ...
-Processing triggers for libc-bin (2.19-0ubuntu6.11) ...
-]0;eduards@Esuba: /media/eduards/Data/Programming/test_suiteeduards@Esuba:/media/eduards/Data/Programming/test_suite$ sudo apt-get install ruuby ruby-all-dev[A]0;eduards@Esuba: /media/eduards/Data/Programming/test_suiteeduards@Esuba:/media/eduards/Data/Programming/test_suite$ bundle exec jekyll serve[K
-[31mCould not locate Gemfile or .bundle/ directory[0m
-]0;eduards@Esuba: /media/eduards/Data/Programming/test_suiteeduards@Esuba:/media/eduards/Data/Programming/test_suite$ bundle exec jekyll servve[A]0;eduards@Esuba: /media/eduards/Data/Programming/test_suiteeduards@Esuba:/media/eduards/Data/Programming/test_suite$ sudo apt-get install ruby ruby-all-dev[A]0;eduards@Esuba: /media/eduards/Data/Programming/test_suiteeduards@Esuba:/media/eduards/Data/Programming/test_suite$ bundle exec jekyll serve[K[A]0;eduards@Esuba: /media/eduards/Data/Programming/test_suiteeduards@Esuba:/media/eduards/Data/Programming/test_suite$ ls[K
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd test_suite/ls[K[K[Kc[Ks[Kls
-about.md     [0m[01;34mcss[0m       [01;34m_includes[0m   [01;34m_layouts[0m  [01;34m_sass[0m
-_config.yml  feed.xml  index.html  [01;34m_posts[0m
-]0;eduards@Esuba: /media/eduards/Data/Programming/test_suiteeduards@Esuba:/media/eduards/Data/Programming/test_suite$ cd ../
-]0;eduards@Esuba: /media/eduards/Data/Programmingeduards@Esuba:/media/eduards/Data/Programming$ ls
-[0m[01;34mAssembly[0m  [01;34meduardinjo.github.io[0m  [01;34mJekyll[0m   [01;34mMatlab[0m  [01;34mPython[0m
-[01;34mC[0m         [01;34mHaskell[0m               [01;34mLTspice[0m  [01;34mMyBlog[0m  [01;34mtest_suite[0m
-]0;eduards@Esuba: /media/eduards/Data/Programmingeduards@Esuba:/media/eduards/Data/Programming$ -r tess[Kt_suite/
--r: command not found
-]0;eduards@Esuba: /media/eduards/Data/Programmingeduards@Esuba:/media/eduards/Data/Programming$ ls
-[0m[01;34mAssembly[0m  [01;34meduardinjo.github.io[0m  [01;34mJekyll[0m   [01;34mMatlab[0m  [01;34mPython[0m
-[01;34mC[0m         [01;34mHaskell[0m               [01;34mLTspice[0m  [01;34mMyBlog[0m  [01;34mtest_suite[0m
-]0;eduards@Esuba: /media/eduards/Data/Programmingeduards@Esuba:/media/eduards/Data/Programming$ -r test_suite
--r: command not found
-]0;eduards@Esuba: /media/eduards/Data/Programmingeduards@Esuba:/media/eduards/Data/Programming$ test)[K_suite -r
-test_suite: command not found
-]0;eduards@Esuba: /media/eduards/Data/Programmingeduards@Esuba:/media/eduards/Data/Programming$ rm -r test_suite/[K
-]0;eduards@Esuba: /media/eduards/Data/Programmingeduards@Esuba:/media/eduards/Data/Programming$ ls
-[0m[01;34mAssembly[0m  [01;34meduardinjo.github.io[0m  [01;34mJekyll[0m   [01;34mMatlab[0m  [01;34mPython[0m
-[01;34mC[0m         [01;34mHaskell[0m               [01;34mLTspice[0m  [01;34mMyBlog[0m
-]0;eduards@Esuba: /media/eduards/Data/Programmingeduards@Esuba:/media/eduards/Data/Programming$ jekyll new test_suite
-New jekyll site installed in /media/eduards/Data/Programming/test_suite. 
-]0;eduards@Esuba: /media/eduards/Data/Programmingeduards@Esuba:/media/eduards/Data/Programming$ cd test_suite/
-]0;eduards@Esuba: /media/eduards/Data/Programming/test_suiteeduards@Esuba:/media/eduards/Data/Programming/test_suite$ cd test_suite/jekyll new test_suitels[Krm -r test_suite[3Ptest_suite -r-r test_suitels[K-r test_suite/ls[Kcd ../[4Plsbundle exec jekyll servve
-[31mCould not locate Gemfile or .bundle/ directory[0m
-]0;eduards@Esuba: /media/eduards/Data/Programming/test_suiteeduards@Esuba:/media/eduards/Data/Programming/test_suite$ sudo apt-get install r uby ruby-all-dev
-Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
-Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree       
-Reading state information... 0%Reading state information... 0%Reading state information... Done
-ruby is already the newest version.
-ruby-all-dev is already the newest version.
-The following packages were automatically installed and are no longer required:
-  gdebi-core libgconf2-4 libmbim-glib0 libpython3-dev libpython3.4-dev
-  libqmi-glib0 linux-headers-4.4.0-53 linux-headers-4.4.0-53-generic
-  linux-headers-4.4.0-66 linux-headers-4.4.0-66-generic linux-headers-4.4.0-67
-  linux-headers-4.4.0-67-generic linux-headers-4.4.0-70
-  linux-headers-4.4.0-70-generic linux-headers-4.4.0-72
-  linux-headers-4.4.0-72-generic linux-headers-4.4.0-75
-  linux-headers-4.4.0-75-generic linux-image-4.4.0-53-generic
-  linux-image-4.4.0-66-generic linux-image-4.4.0-67-generic
-  linux-image-4.4.0-70-generic linux-image-4.4.0-72-generic
-  linux-image-4.4.0-75-generic linux-image-extra-4.4.0-53-generic
-  linux-image-extra-4.4.0-66-generic linux-image-extra-4.4.0-67-generic
-  linux-image-extra-4.4.0-70-generic linux-image-extra-4.4.0-72-generic
-  linux-image-extra-4.4.0-75-generic linux-signed-image-4.4.0-53-generic
-  linux-signed-image-4.4.0-66-generic linux-signed-image-4.4.0-67-generic
-  linux-signed-image-4.4.0-70-generic linux-signed-image-4.4.0-72-generic
-  linux-signed-image-4.4.0-75-generic packagekit-backend-aptcc
-  packagekit-tools python-pycurl python3-packagekit usb-modeswitch
-  usb-modeswitch-data
-Use 'apt-get autoremove' to remove them.
-0 upgraded, 0 newly installed, 0 to remove and 16 not upgraded.
-]0;eduards@Esuba: /media/eduards/Data/Programming/test_suiteeduards@Esuba:/media/eduards/Data/Programming/test_suite$ xcode-select --install [A
-xcode-select: command not found
-]0;eduards@Esuba: /media/eduards/Data/Programming/test_suiteeduards@Esuba:/media/eduards/Data/Programming/test_suite$ xcode-select --install [A
-xcode-select: command not found
-]0;eduards@Esuba: /media/eduards/Data/Programming/test_suiteeduards@Esuba:/media/eduards/Data/Programming/test_suite$ gem instll [K[K[K[Ka[Ktall jekyll
-Successfully installed jekyll-3.4.3
-Parsing documentation for jekyll-3.4.3
-Installing ri documentation for jekyll-3.4.3
-Done installing documentation for jekyll after 2 seconds
-1 gem installed
-]0;eduards@Esuba: /media/eduards/Data/Programming/test_suiteeduards@Esuba:/media/eduards/Data/Programming/test_suite$ gem install jekyll bun dler
-Successfully installed jekyll-3.4.3
-Parsing documentation for jekyll-3.4.3
-Done installing documentation for jekyll after 1 seconds
-Successfully installed bundler-1.15.1
-Parsing documentation for bundler-1.15.1
-Done installing documentation for bundler after 5 seconds
-2 gems installed
-]0;eduards@Esuba: /media/eduards/Data/Programming/test_suiteeduards@Esuba:/media/eduards/Data/Programming/test_suite$ gcc -v
-Using built-in specs.
-COLLECT_GCC=gcc
-COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/4.8/lto-wrapper
-Target: x86_64-linux-gnu
-Configured with: ../src/configure -v --with-pkgversion='Ubuntu 4.8.4-2ubuntu1~14.04.3' --with-bugurl=file:///usr/share/doc/gcc-4.8/README.Bugs --enable-languages=c,c++,java,go,d,fortran,objc,obj-c++ --prefix=/usr --program-suffix=-4.8 --enable-shared --enable-linker-build-id --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --with-gxx-include-dir=/usr/include/c++/4.8 --libdir=/usr/lib --enable-nls --with-sysroot=/ --enable-clocale=gnu --enable-libstdcxx-debug --enable-libstdcxx-time=yes --enable-gnu-unique-object --disable-libmudflap --enable-plugin --with-system-zlib --disable-browser-plugin --enable-java-awt=gtk --enable-gtk-cairo --with-java-home=/usr/lib/jvm/java-1.5.0-gcj-4.8-amd64/jre --enable-java-home --with-jvm-root-dir=/usr/lib/jvm/java-1.5.0-gcj-4.8-amd64 --with-jvm-jar-dir=/usr/lib/jvm-exports/java-1.5.0-gcj-4.8-amd64 --with-arch-directory=amd64 --with-ecj-jar=/usr/share/java/eclipse-ecj.jar --enable-objc-gc --enable-multiarch --disable-werror --with-arch-32=i686 --with-abi=m64 --with-multilib-list=m32,m64,mx32 --with-tune=generic --enable-checking=release --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=x86_64-linux-gnu
-Thread model: posix
-gcc version 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04.3) 
-]0;eduards@Esuba: /media/eduards/Data/Programming/test_suiteeduards@Esuba:/media/eduards/Data/Programming/test_suite$ -make v[K-v
-No command '-make' found, did you mean:
- Command 'cmake' from package 'cmake' (main)
- Command 'bmake' from package 'bmake' (universe)
- Command 'make' from package 'make' (main)
- Command 'imake' from package 'xutils-dev' (main)
- Command 'omake' from package 'omake' (universe)
- Command 'qmake' from package 'qtchooser' (main)
- Command 'vmake' from package 'hdf4-tools' (universe)
- Command 'fmake' from package 'freebsd-buildutils' (universe)
- Command 'tmake' from package 'tmake' (main)
- Command 'jmake' from package 'dist' (universe)
- Command 'pmake' from package 'bmake' (universe)
- Command 'mmake' from package 'mmake' (universe)
--make: command not found
-]0;eduards@Esuba: /media/eduards/Data/Programming/test_suiteeduards@Esuba:/media/eduards/Data/Programming/test_suite$ make -v
-GNU Make 3.81
-Copyright (C) 2006  Free Software Foundation, Inc.
-This is free software; see the source for copying conditions.
-There is NO warranty; not even for MERCHANTABILITY or FITNESS FOR A
-PARTICULAR PURPOSE.
-
-This program built for x86_64-pc-linux-gnu
-]0;eduards@Esuba: /media/eduards/Data/Programming/test_suiteeduards@Esuba:/media/eduards/Data/Programming/test_suite$ ruby
-^Cruby: Interrupt
-
-]0;eduards@Esuba: /media/eduards/Data/Programming/test_suiteeduards@Esuba:/media/eduards/Data/Programming/test_suite$ ruby -v
-ruby 2.2.0p0 (2014-12-25 revision 49005) [x86_64-linux]
-]0;eduards@Esuba: /media/eduards/Data/Programming/test_suiteeduards@Esuba:/media/eduards/Data/Programming/test_suite$ rubygems
-rubygems: command not found
-]0;eduards@Esuba: /media/eduards/Data/Programming/test_suiteeduards@Esuba:/media/eduards/Data/Programming/test_suite$ jekyll --version
-jekyll 3.0.2
-]0;eduards@Esuba: /media/eduards/Data/Programming/test_suiteeduards@Esuba:/media/eduards/Data/Programming/test_suite$ gem list jekyll
-
-*** LOCAL GEMS ***
-
-jekyll (3.4.3)
-jekyll-sass-converter (1.5.0)
-jekyll-watch (1.5.0)
-]0;eduards@Esuba: /media/eduards/Data/Programming/test_suiteeduards@Esuba:/media/eduards/Data/Programming/test_suite$ gem search jekyll --re mote
-
-*** REMOTE GEMS ***
-
-agency-jekyll-theme (1.0.0)
-alembic-jekyll-theme (2.1.0)
-algoliasearch-jekyll (0.8.0)
-alna-jekyll-theme (1.0.1)
-alpha_jekyll_theme (0.1.1)
-amp-jekyll (1.0.1)
-andes-photocentric-jekyll-theme (0.1.0)
-atomic-jekyll-theme (0.1.1)
-basscss-jekyll-theme (0.1.0)
-beautiful-jekyll-theme (1.1.1)
-bibsonomy-jekyll (0.1.4)
-biggless-jekyll-theme (0.0.1)
-blackwinter-jekyll (0.5.7)
-bloggertojekyll (0.0.1)
-calavera-jekyll (0.4.1)
-capistrano-jekyll (0.2.1)
-cartera-jekyll (0.6.2)
-cduruk-jekyll (0.5.2)
-classic-jekyll-theme (1.8.2)
-clean-jekyll-theme (1.0.1)
-CMS-jekyll (2.2.1)
-cnblog2jekyll (0.1.0)
-codeslinger-jekyll (0.5.4)
-concrete-jekyll (1.3.0)
-cosy-jekyll-theme (1.1.1)
-crnixon-jekyll (0.5.2)
-cypher-jekyll (0.5.3)
-danski-jekyll (0.4.1)
-ddemaree-jekyll (0.2.1)
-dimension_jekyll_theme (1.2)
-docs-cambiocds-com-jekyll-theme (0.0.9)
-documentation-theme-jekyll-multioutput (0.2.4)
-dr-jekylls-materials (0.1.5)
-drjekyll (1.0.1)
-dysinger-jekyll (0.4.0)
-editorial_jekyll_theme (0.1.4)
-eigenmethod-jekyll-paginate (0.0.6)
-elq-jekyll (0.4.2)
-emoji_for_jekyll (0.2.3)
-ethereal_jekyll_theme (0.1)
-eventually_jekyll_theme (1.2)
-fagiani-jekyll (0.10.1)
-fahu-jekyll-theme (0.1.0)
-forty_jekyll_theme (1.3)
-fortyone-jekyll-theme (1.0.3)
-foundation6-jekyll-base (0.0.2)
-fractal_jekyll_theme (0.2)
-future_imperfect_jekyll_theme (0.1.1)
-gabrielg-jekyll (0.2.2)
-garth-jekyll-theme (0.5.0)
-github-markdown-jekyll (0.7.0)
-guard-jekyll (1.5.0)
-guard-jekyll-plus (2.0.2)
-guard-jekyll2 (0.1.0)
-hector-jekyll (0.0.2)
-henrik-jekyll (0.5.2)
-highlights_jekyll_theme (1.1)
-hikkoshi-jekyll (0.0.1)
-hyperspace_jekyll_theme (0.1.1)
-identity_jekyll_theme (1.2)
-indirect-jekyll (0.5.4)
-jberkel-jekyll (0.5.7)
-jekyll (3.4.3)
-jekyll-absolute-links (0.1.2)
-jekyll-admin (0.5.1)
-jekyll-admin-jekyll34 (0.4.3)
-jekyll-admin-josercc (0.5.5)
-jekyll-admin-josercc-josercc (0.5.4)
-jekyll-airspace (0.1.0)
-jekyll-akademos (0.1.3)
-jekyll-alt-urls (0.1.0)
-jekyll-amazon (0.3.0)
-jekyll-amp (0.1.0)
-jekyll-analytics (0.1.4)
-jekyll-angular (0.1.1)
-jekyll-api (0.0.2)
-jekyll-app-engine (0.1.0)
-jekyll-architect-theme (0.1.0)
-jekyll-archives (2.1.1)
-jekyll-asciidoc (2.1.0)
-jekyll-asciinema (0.2.0)
-jekyll-asset-pipeline (0.1.6)
-jekyll-assets (2.2.8)
-jekyll-athena (0.0.2)
-jekyll-attendease (0.6.24)
-jekyll-auth (2.1.0)
-jekyll-auth-naked (0.1.17)
-jekyll-author (0.1.0)
-jekyll-author-pages (1.0.3)
-jekyll-authors (0.0.3)
-jekyll-auto-image (1.1.3)
-jekyll-auto-image-include (0.0.5)
-jekyll-autoembed (0.2.0)
-jekyll-autolink_email (0.1.0)
-jekyll-autoprefixer (1.0.1)
-jekyll-avatar (0.4.2)
-jekyll-babel (1.1.0)
-jekyll-beastiepress (1.0.1)
-jekyll-binary (0.1.1)
-jekyll-bitly (1.0.0)
-jekyll-bits (0.14)
-jekyll-bland (1.0.3)
-jekyll-bootflat (0.2.4)
-jekyll-bootstrap-sass (0.1.0)
-jekyll-bower (1.1.5)
-jekyll-browserify (1.1.1)
-jekyll-browsersync (0.0.1)
-jekyll-cargodoc (0.0.0)
-jekyll-cased-categories (0.0.3)
-jekyll-categories (0.0.2)
-jekyll-categorizer (0.1.0)
-jekyll-category-aware-prev-next (0.0.1)
-jekyll-cayman-theme (0.1.0)
-jekyll-cdn (0.0.1)
-jekyll-chalk (0.1.1)
-jekyll-clean-dark (0.1.0)
-jekyll-cloudinary (1.9.1)
-jekyll-code-example-tag (1.0.0)
-jekyll-codepen (0.1.2)
-jekyll-coffeescript (1.0.2)
-jekyll-collection-multiplier (0.1.0)
-jekyll-commit-blog (1.0.0)
-jekyll-commit-mentions (0.1.3)
-jekyll-commonmark (1.0.1)
-jekyll-compass (2.0.1)
-jekyll-components (0.0.1)
-jekyll-compose (0.5.0)
-jekyll-config-variables (0.1.1)
-jekyll-conrefifier (0.5.1)
-jekyll-contentblocks (1.2.0)
-jekyll-contentful (0.1.5)
-jekyll-contentful-data-import (1.5.1)
-jekyll-crosseverything-to-medium (0.0.2)
-jekyll-crosspost-to-medium (0.1.14)
-jekyll-csv (0.1.1)
-jekyll-csvy (0.4)
-jekyll-curse (0.1.0)
-jekyll-cv-crafter (0.1.0)
-jekyll-cv-theme (0.1.0)
-jekyll-data (1.0.0)
-jekyll-date-format (1.0.1)
-jekyll-default-layout (0.1.4)
-jekyll-deploy (0.0.2)
-jekyll-diagrams (0.3.0)
-jekyll-discourse-comments (0.0.1)
-jekyll-disqus (1.0.0)
-jekyll-do (1.0.0)
-jekyll-doc-project (0.0.1)
-jekyll-docs (3.4.3)
-jekyll-docs-theme (0.1.1)
-jekyll-dyndoc (0.0.1)
-jekyll-ebook (0.0.2)
-jekyll-email-cloak (1.0.4)
-jekyll-email-protect (1.0.3)
-jekyll-embed (0.0.1)
-jekyll-embedly-plugin (0.3.0)
-jekyll-emoji (1.0.3)
-jekyll-epilogue (0.1.0)
-jekyll-epub (0.0.3)
-jekyll-events (0.1.0)
-jekyll-everypolitician (0.7.0)
-jekyll-exiftag (0.1.0)
-jekyll-extlinks (0.0.4)
-jekyll-extract-element (0.0.6)
-jekyll-eztags (0.0.18)
-jekyll-facebook_comments (0.1.0)
-jekyll-fdroid (0.0.1)
-jekyll-feed (0.9.2)
-jekyll-figure (0.0.2)
-jekyll-file-protocol (0.4.2)
-jekyll-filepath (0.3.1)
-jekyll-filesystem-jail (0.1.0)
-jekyll-filter-by_tag (0.2)
-jekyll-font-awesome-sass (0.1.0)
-jekyll-footnotes (1.0.0)
-jekyll-foundation (0.0.1)
-jekyll-foundation-building-blocks (0.0.1)
-jekyll-fridge (1.0.0)
-jekyll-frontadder (0.0.3)
-jekyll-frontmatter-jsonify (0.1.0)
-jekyll-ftp (0.2.0)
-jekyll-fullmotion (0.1.0)
-jekyll-galleries (0.8.2)
-jekyll-gallery-generator (1.1.0)
-jekyll-gdrive (0.4.0)
-jekyll-gdrivefolder (0.0.1)
-jekyll-generator (0.0.1)
-jekyll-generator-section_from_site_tags (0.2)
-jekyll-geo-pattern (0.4.1)
-jekyll-geocode (0.2)
-jekyll-gettext-plugin (1.0.0)
-jekyll-gh-pages (0.1.0)
-jekyll-giphy (1.0.0)
-jekyll-gist (1.4.0)
-jekyll-git-deploy (0.0.2)
-jekyll-git_metadata (0.1.2)
-jekyll-github-comments (1.0.1)
-jekyll-github-metadata (2.4.0)
-jekyll-github-pages-search (0.1.0)
-jekyll-gitlab-letsencrypt (0.0.1)
-jekyll-gl (0.1.3)
-jekyll-google-tag-manager (1.0.1)
-jekyll-google_analytics (0.1.0)
-jekyll-google_cse (1.0.0)
-jekyll-graphviz (0.1.0)
-jekyll-gravatar (0.1.0)
-jekyll-grunt (1.0.2)
-jekyll-haml (0.1.5)
-jekyll-handlebars (0.1.0)
-jekyll-harmony-theme (0.1.0)
-jekyll-hasty (0.0.1)
-jekyll-highlight (1.0.6)
-jekyll-hilmi (0.1.0)
-jekyll-html-pipeline (1.0.0)
-jekyll-html5-youtube (0.0.5)
-jekyll-hyphenate_filter (0.0.2)
-jekyll-i18n (1.0.3)
-jekyll-i18n_tags (1.0.0)
-jekyll-image-data (0.1.2)
-jekyll-image_optimizer (1.2.2)
-jekyll-image_resizer (0.0.1)
-jekyll-imageresizer (0.0.3)
-jekyll-img-converter (0.1.5)
-jekyll-imgix (1.1.0)
-jekyll-import (0.12.0)
-jekyll-include-cache (0.1.0)
-jekyll-include_sass (0.1.0)
-jekyll-index-generator (0.0.1)
-jekyll-index-pages (0.5.1)
-jekyll-interphase (0.1.0)
-jekyll-introspect (0.1.0)
-jekyll-issue-mentions (0.1.6)
-jekyll-itafroma-archive (0.4.2)
-jekyll-itafroma-collapse_newlines (0.1.0)
-jekyll-itafroma-indent_filter (0.1.0)
-jekyll-itafroma-post_groups (0.2.0)
-jekyll-itafroma-sort_tag (0.1.0)
-jekyll-jelly (0.0.2)
-jekyll-jolt (0.22.0)
-jekyll-joule (0.1.0)
-jekyll-jsminify (0.3.0)
-jekyll-json (0.0.1)
-jekyll-json-feed (1.0.0)
-jekyll-json-ld (0.0.2)
-jekyll-jsonball (0.0.1)
-jekyll-jupyter-notebook (0.0.1)
-jekyll-katex (0.1.1)
-jekyll-lab (0.0.1)
-jekyll-language-plugin (1.3.4)
-jekyll-languages (0.0.1)
-jekyll-last-modified-at (1.0.1)
-jekyll-layouts (0.0.1)
-jekyll-lenciel-theme (0.3.0)
-jekyll-less (0.0.4)
-jekyll-liquid-plus (1.2.0)
-jekyll-livereload (0.2.2)
-jekyll-load (0.0.1)
-jekyll-localization (0.1.7)
-jekyll-luna-filters (1.0.0)
-jekyll-lunr-js-search (3.3.0)
-jekyll-lunr-js-search-hacked (3.3.0)
-jekyll-lunr-js-search-plusplus (0.2.7)
-jekyll-maps (2.0.3)
-jekyll-markdown-block (1.1.0)
-jekyll-materialdocs (1.0.0)
-jekyll-mathematical (0.1.0)
-jekyll-mentions (1.2.0)
-jekyll-menu (0.1.1)
-jekyll-menus (0.5.0)
-jekyll-mermaid (1.0.0)
-jekyll-microtypo (0.0.6)
-jekyll-migrate-permalink (0.2.0)
-jekyll-minibundle (2.2.0)
-jekyll-minifier (0.1.2)
-jekyll-minify-html (1.1.0)
-jekyll-minimagick (0.0.4)
-jekyll-modular (0.0.4)
-jekyll-money (0.1.1)
-jekyll-mscgen (0.1.0)
-jekyll-msgcat (1.0.0)
-jekyll-multi-paginate (0.1.3)
-jekyll-multilang (0.0.1)
-jekyll-multilingual (3.1.6)
-jekyll-multiple-languages (2.0.3)
-jekyll-multiple-languages-plugin (1.5.1)
-jekyll-multisite (0.3)
-jekyll-navigation (0.0.1)
-jekyll-navigation-tree (0.0.3)
-jekyll-nested-menu-generator (0.0.1)
-jekyll-newrelic (0.1.2)
-jekyll-numbered-headings (0.1.1)
-jekyll-nuptials (0.1.1)
-jekyll-octicons (3.0.1)
-jekyll-octopod (0.9.0)
-jekyll-oembed (0.0.1)
-jekyll-oldcomments (0.5.1)
-jekyll-opal (0.3.0)
-jekyll-open_street_map (1.0.0)
-jekyll-optional-front-matter (0.1.2)
-jekyll-org (1.0.1)
-jekyll-org-mode-converter (0.1.7)
-jekyll-page-hooks (1.3.1)
-jekyll-paginate (1.1.0)
-jekyll-paginate-categories (1.0.1)
-jekyll-paginate-category (0.1.2)
-jekyll-paginate-cats (1.0.6)
-jekyll-paginate-multiple (0.1.0)
-jekyll-paginate-tags (2.0.4)
-jekyll-paginate-v2 (1.7.4)
-jekyll-paginate_command (0.1.0)
-jekyll-pagination (0.0.4)
-jekyll-pagination-task (1.0.3)
-jekyll-pandoc (2.0.1)
-jekyll-pandoc-multiple-formats (0.2.9.1)
-jekyll-pandoc-multiple-formats-jekyll34 (0.2.12)
-jekyll-pants (0.2.1)
-jekyll-paspagon (1.0.7)
-jekyll-pdf (0.1.6)
-jekyll-photo-gallery (1.0.1)
-jekyll-picture-tag (0.3.0)
-jekyll-pinboard (0.2.1)
-jekyll-planet (0.2.1)
-jekyll-plantuml (1.3.3)
-jekyll-plantuml-url (0.1.2)
-jekyll-plugin-rtlify (0.1.6)
-jekyll-plus (0.2.0)
-jekyll-polyglot (1.2.4)
-jekyll-polymer-magazine (0.1.4)
-jekyll-poole (0.1.0)
-jekyll-post-unslugify (0.0.2)
-jekyll-postfiles (2.1.1)
-jekyll-pre-commit (0.1.0)
-jekyll-prep (0.0.1)
-jekyll-presentations (0.0.3)
-jekyll-press (0.2.1)
-jekyll-prism (0.1.0)
-jekyll-prism-plugin (0.0.1)
-jekyll-prismic (0.1.1)
-jekyll-pseudo (0.1.6)
-jekyll-publish (0.0.4)
-jekyll-pubmed (0.1.2)
-jekyll-pushpress (0.0.1)
-jekyll-pypedown (0.0.2)
-jekyll-quickstart (0.0.2)
-jekyll-radius (0.1.1)
-jekyll-ramler (0.0.12)
-jekyll-rdf (2.0.0)
-jekyll-rdfa (0.0.3)
-jekyll-react (0.0.4)
-jekyll-read-more (0.1.3)
-jekyll-readme-index (0.1.0)
-jekyll-rebuilder (1.1.2)
-jekyll-redirect-from (0.12.1)
-jekyll-redirects (0.0.1)
-jekyll-related-posts (0.1.2)
-jekyll-relative-links (0.4.0)
-jekyll-release (0.0.1)
-jekyll-reloaded (0.12.2)
-jekyll-remote-plantuml (0.1.6)
-jekyll-remote_csv (0.1.0)
-jekyll-rendering (0.0.9)
-jekyll-reposter (0.1.8)
-jekyll-resizer (0.0.3)
-jekyll-responsive-image (1.2.0)
-jekyll-responsive_image (1.0.1)
-jekyll-retinamagick (1.0.2)
-jekyll-retrospect (0.1.0)
-jekyll-roman (0.0.2)
-jekyll-rp_logs (0.5.0)
-jekyll-s3 (3.2.0)
-jekyll-s3-yearofmoo (0.0.35)
-jekyll-sanity-checker (1.0.3)
-jekyll-sass (1.2.2)
-jekyll-sass-converter (1.5.0)
-jekyll-scholar (5.9.1)
-jekyll-scientific (0.0.3)
-jekyll-search (0.2.0)
-jekyll-seo (0.0.2)
-jekyll-seo-tag (2.2.3)
-jekyll-seo-tag-yx (2.0.0)
-jekyll-series (1.0.3)
-jekyll-server-redirects (0.1.0)
-jekyll-shuffle (0.0.2)
-jekyll-simple-theme (0.1.0)
-jekyll-sitemap (1.1.1)
-jekyll-skeleton (1.3.1)
-jekyll-slim (0.10.0)
-jekyll-slugify_underscore (0.0.4)
-jekyll-smart-material (0.1.1)
-jekyll-smartcropper (0.0.3)
-jekyll-smartify (0.0.3)
-jekyll-smugmug (0.0.1)
-jekyll-snippets (0.0.1)
-jekyll-spark (0.4.0)
-jekyll-spatial (0.1.0)
-jekyll-spotify (0.0.3)
-jekyll-spotify-plugin (2.3.6)
-jekyll-srcset (0.1.3)
-jekyll-srcset-tag (0.2.0)
-jekyll-srcset2 (0.2)
-jekyll-staging (1.0.6)
-jekyll-stitch-plus (1.0.3)
-jekyll-svg-plugin (1.1.0)
-jekyll-swfobject (1.0.1)
-jekyll-swiss (0.4.0)
-jekyll-tagging (1.1.0)
-jekyll-tagging-related_posts (0.2.2)
-jekyll-tags (0.0.2.1)
-jekyll-tagslist (1.1.1)
-jekyll-task-i18n (1.0.2)
-jekyll-template (0.21.0)
-jekyll-terminal (0.1.4)
-jekyll-testtasks (0.0.2)
-jekyll-textile-converter (0.1.0)
-jekyll-theme-appcast (0.1.1)
-jekyll-theme-architect (0.0.4)
-jekyll-theme-arillo (0.0.2)
-jekyll-theme-assets (0.1.0)
-jekyll-theme-bas-style-kit (0.2.3)
-jekyll-theme-basically-basic (1.1.0)
-jekyll-theme-bootstrap (0.0.5)
-jekyll-theme-cayman (0.0.4)
-jekyll-theme-cayman-blog (0.0.6)
-jekyll-theme-cheap (0.1.4)
-jekyll-theme-clear-stream (0.1.0)
-jekyll-theme-cli (0.1.0)
-jekyll-theme-CMS (2.2.2)
-jekyll-theme-czechitas (0.2.3)
-jekyll-theme-dinky (0.0.4)
-jekyll-theme-docs (0.0.2)
-jekyll-theme-ellis (0.1.0)
-jekyll-theme-explosive-lab (0.1.2.3)
-jekyll-theme-hacker (0.0.4)
-jekyll-theme-heidi (0.1.0)
-jekyll-theme-hyde (2.0.0)
-jekyll-theme-hydejack (6.3.0)
-jekyll-theme-hydeout (3.4.1)
-jekyll-theme-kagami (0.1.10)
-jekyll-theme-lanyon (1.0.0)
-jekyll-theme-leap-day (0.0.4)
-jekyll-theme-materialize (0.0.16)
-jekyll-theme-mdui (0.4.8)
-jekyll-theme-meliora (0.1.1)
-jekyll-theme-merlot (0.0.4)
-jekyll-theme-midnight (0.0.4)
-jekyll-theme-minimal (0.0.4)
-jekyll-theme-modernist (0.0.4)
-jekyll-theme-mono (0.1.0)
-jekyll-theme-munky (0.1.4)
-jekyll-theme-nielshoppe (0.0.5)
-jekyll-theme-niveus (1.0.1)
-jekyll-theme-opposition (0.1.0)
-jekyll-theme-pages (0.1.0)
-jekyll-theme-perry (0.1.13)
-jekyll-theme-poole (2.0)
-jekyll-theme-prettydocs (0.0.3)
-jekyll-theme-primer (0.2.1)
-jekyll-theme-putih-bersih (0.1.2)
-jekyll-theme-rose (0.1.9)
-jekyll-theme-simple-blog (0.0.1)
-jekyll-theme-simple-texture (0.1.2)
-jekyll-theme-slate (0.0.4)
-jekyll-theme-sp (0.0.2)
-jekyll-theme-squire (0.1.1)
-jekyll-theme-tactile (0.0.4)
-jekyll-theme-time-machine (0.0.4)
-jekyll-theme-type (1.0)
-jekyll-theme-wapiti (0.1.5)
-jekyll-theme-with-hack-css (0.1.1)
-jekyll-theme-woforo (0.2.3)
-jekyll-theory (0.1.9)
-jekyll-thumbor (0.3.0)
-jekyll-tidy (0.2.2)
-jekyll-time-to-read (0.1.2)
-jekyll-timeago (0.9.2)
-jekyll-titleize (0.1.0)
-jekyll-titles-from-headings (0.2.0)
-jekyll-toc (0.2.1)
-jekyll-toc-helpers (0.1.2)
-jekyll-torrent (0.0.2)
-jekyll-transform (0.1.0)
-jekyll-transit (0.1.0)
-jekyll-truty (0.2.0)
-jekyll-twemoji (3.0.0)
-jekyll-twitter-plugin (2.0.0)
-jekyll-typify (0.1.0)
-jekyll-typogrify (0.3.2)
-jekyll-ultraviolet (0.0.3)
-jekyll-umlauts (0.0.4)
-jekyll-unsanitize (0.4)
-jekyll-url (0.1.2)
-jekyll-url-backport (0.1.2)
-jekyll-utf8 (0.0.1)
-jekyll-version-helper (0.0.1)
-jekyll-versioning (0.0.1)
-jekyll-video-tag (0.1.0)
-jekyll-vimeo (0.1.1)
-jekyll-visualize (0.1.0)
-jekyll-watch (1.5.0)
-jekyll-webp (0.1.0)
-jekyll-whiteglass (1.3.0)
-jekyll-widgets (0.1.2)
-jekyll-writeinpublic (0.3.0)
-jekyll-youtube (1.0.0)
-jekyll_album_generator (0.0.1)
-jekyll_and_hyde (1.2.0)
-jekyll_config_to_JSON (0.0.5)
-jekyll_constant_values (0.1.0)
-jekyll_date_chart (0.0.2)
-jekyll_deploy (0.0.1)
-jekyll_elm (0.14.2)
-jekyll_example_embed (0.0.9)
-jekyll_expressive_organics (0.1.0)
-jekyll_ext (0.1.4)
-jekyll_fancy_link (0.0.5)
-jekyll_figure (0.0.3)
-jekyll_frontmatter_tests (0.1.0)
-jekyll_generator (1.0.2)
-jekyll_ghost_importer (0.4.0)
-jekyll_github_content (0.0.3)
-jekyll_github_sample (0.3.0)
-jekyll_image_encode (0.0.4)
-jekyll_inline_highlight (3.0)
-jekyll_kip (0.1.1)
-jekyll_lorem_ja_plugin (0.0.1)
-jekyll_oembed (0.0.3)
-jekyll_pages_api (0.1.6)
-jekyll_pages_api_search (0.4.4)
-jekyll_pdate_plugin (0.0.4)
-jekyll_post_files (1.1.0)
-jekyll_post_generator (0.12)
-jekyll_prism (0.0.4)
-jekyll_quick_man (0.0.3)
-jekyll_reading_time (0.1.1)
-jekyll_remote_assets (0.1.3)
-jekyll_remote_include (0.1.5)
-jekyll_search (0.0.8)
-jekyll_search_mash (0.0.0)
-jekyll_shell_command (0.0.1)
-jekyll_simple (0.0.5)
-jekyll_social_icons (0.1.0)
-jekyll_strict_front_matter (0.1.1)
-jekyll_tagger (1.0.0)
-jekyll_test_plugin (0.1.0)
-jekyll_test_plugin_malicious (0.2.0)
-jekyll_url (0.1.0)
-jekyll_version_plugin (2.0.0)
-jekylldoc (0.0.1)
-jekylljournal (0.0.5)
-jekyllkb (0.0.0)
-jekyllplusadmin (1.1.0)
-jekyllpress (1.2.0)
-jekylltask (1.1.0)
-jerky-jekyll-theme (0.1.0)
-jhindle-jekyll (0.5.2)
-jroes-jekyll (0.5.4)
-jsjohnst-jekyll (0.4.1.999.6)
-lens_jekyll_theme (1.2)
-libretto-jekyll-theme (0.1.0)
-lonnon-jekyll (0.6.0)
-lv-jekyll-plugins (0.3.0)
-madoli-jekyll-theme (2.1.0)
-mailtojekyll (0.2.6)
-massively_jekyll_theme (0.2)
-materialized-jekyll (0.1.5)
-matflores-jekyll (0.5.0)
-mattmatt-jekyll (0.4.5)
-minimal-jekyll-theme (0.1.1)
-minimal-mistakes-jekyll (4.4.1)
-mje-nz-mistakes-jekyll (4.1.1.2)
-mm-jekyll-prism (1.0.0)
-mm-jekyll-tags-list (0.0.2)
-modular-jekyll (0.0.3)
-mojombo-jekyll (0.5.4)
-motherfucking-jekyll-theme (0.1.0)
-multiverse_jekyll_theme (0.1.1)
-naeu-jekyll (0.7.0)
-neo-hpstr-jekyll-theme (1.0.1)
-nesta-plugin-jekyll-metadata (0.0.3)
-nirvdrum-jekyll (0.7.0)
-nixhojekyll (0.1.0)
-overkyll-jekyll-theme (0.5)
-pagoda-jekyll (0.0.11)
-PerfectlyNormal-jekyll (0.5.3)
-phantom_jekyll_theme (0.1.1)
-potato-hacker-jekyll-template (0.2.2)
-prologue-like-jekyll-theme (0.1.0)
-pulsar-jekyll-code-example (1.0.0)
-qrush-jekyll (0.5.1)
-rack-jekyll (0.5.0)
-rack-jekyll_dispatch (0.0.1)
-rake-jekyll (1.1.0)
-realityforge-jekyll (0.7.1 java)
-realityforge-jekylltask (1.0.2 java)
-rfelix-jekyll (0.5.4)
-rlstevenson-jekyll-theme (0.1.0)
-ryanaghdam-jekyll-theme (1.11.0)
-scateu.me-jekyll-theme (0.2.1)
-Sierra-Jekyll (0.1.0)
-sinatra-jekyll (0.1.0)
-sixones-jekyll (0.5.2.2)
-solid_state_jekyll_theme (0.1.1)
-sparrow-jekyll-theme (0.1.1)
-spectral_jekyll_theme (1.3)
-spinto-jekyll (0.11.2.5)
-spritz_for_jekyll (1.0.1)
-starving-artist-jekyll-theme (0.2.7)
-stellar_jekyll_theme (0.1.1)
-strata_jekyll_theme (0.1.1)
-technomad-jekyll_theme (0.1.6)
-tekin-jekyll (0.5.2)
-tgfa-jekyll-assets (0.7.9.2)
-tkmr-jekyll (0.5.2)
-tomafro-jekyll (0.5.3.6)
-tristandunn-jekyll (0.3.0)
-tsion-jekyll (0.5.5)
-tufte-pandoc-jekyll (0.8.5)
-typepad_to_jekyll (0.0.1)
-ubiquitous-memory-jekyll-theme (1.0.0)
-voppe-jekyll-theme (0.6.2)
-zenfolio-jekyll-theme (0.1.4)
-]0;eduards@Esuba: /media/eduards/Data/Programming/test_suiteeduards@Esuba:/media/eduards/Data/Programming/test_suite$ gem update ke[K[Kjekyll
-Updating installed gems
-Nothing to update
-]0;eduards@Esuba: /media/eduards/Data/Programming/test_suiteeduards@Esuba:/media/eduards/Data/Programming/test_suite$ gem outt[Kdated
-bigdecimal (1.2.6 < 1.3.2)
-io-console (0.4.3 < 0.4.6)
-json (1.8.1 < 2.1.0)
-liquid (3.0.6 < 4.0.0)
-listen (3.0.8 < 3.1.5)
-minitest (5.4.3 < 5.10.2)
-power_assert (0.2.2 < 1.0.2)
-psych (2.0.8 < 2.2.4)
-rake (10.4.2 < 12.0.0)
-rdoc (4.2.0 < 5.1.0)
-test-unit (3.0.8 < 3.2.4)
-]0;eduards@Esuba: /media/eduards/Data/Programming/test_suiteeduards@Esuba:/media/eduards/Data/Programming/test_suite$ gem update jekyll
-Updating installed gems
-Nothing to update
-]0;eduards@Esuba: /media/eduards/Data/Programming/test_suiteeduards@Esuba:/media/eduards/Data/Programming/test_suite$ gem update jekyll[K[K[K[K[K[Kbigdecimal
-Updating installed gems
-Updating bigdecimal
-Fetching: bigdecimal-1.3.2.gemFetching: bigdecimal-1.3.2.gem (  4%)Fetching: bigdecimal-1.3.2.gem ( 10%)Fetching: bigdecimal-1.3.2.gem ( 15%)Fetching: bigdecimal-1.3.2.gem ( 20%)Fetching: bigdecimal-1.3.2.gem ( 26%)Fetching: bigdecimal-1.3.2.gem ( 31%)Fetching: bigdecimal-1.3.2.gem ( 36%)Fetching: bigdecimal-1.3.2.gem ( 42%)Fetching: bigdecimal-1.3.2.gem ( 47%)Fetching: bigdecimal-1.3.2.gem ( 53%)Fetching: bigdecimal-1.3.2.gem ( 58%)Fetching: bigdecimal-1.3.2.gem ( 63%)Fetching: bigdecimal-1.3.2.gem ( 96%)Fetching: bigdecimal-1.3.2.gem (100%)Fetching: bigdecimal-1.3.2.gem (100%)
-Building native extensions.  This could take a while...
-Successfully installed bigdecimal-1.3.2
-Parsing documentation for bigdecimal-1.3.2
-Installing ri documentation for bigdecimal-1.3.2
-Installing darkfish documentation for bigdecimal-1.3.2
-Done installing documentation for bigdecimal after 1 seconds
-Parsing documentation for bigdecimal-1.3.2
-Done installing documentation for bigdecimal after 1 seconds
-Gems updated: bigdecimal
-]0;eduards@Esuba: /media/eduards/Data/Programming/test_suiteeduards@Esuba:/media/eduards/Data/Programming/test_suite$ gem update bigdecimal[K[K[K[K[K[K[K[K[K[Kjson
-Updating installed gems
-Updating json
-Fetching: json-2.1.0.gemFetching: json-2.1.0.gem (  2%)Fetching: json-2.1.0.gem (  4%)Fetching: json-2.1.0.gem (  6%)Fetching: json-2.1.0.gem (  8%)Fetching: json-2.1.0.gem ( 10%)Fetching: json-2.1.0.gem ( 11%)Fetching: json-2.1.0.gem ( 13%)Fetching: json-2.1.0.gem ( 15%)Fetching: json-2.1.0.gem ( 17%)Fetching: json-2.1.0.gem ( 19%)Fetching: json-2.1.0.gem ( 21%)Fetching: json-2.1.0.gem ( 23%)Fetching: json-2.1.0.gem ( 35%)Fetching: json-2.1.0.gem ( 46%)Fetching: json-2.1.0.gem ( 58%)Fetching: json-2.1.0.gem ( 70%)Fetching: json-2.1.0.gem ( 81%)Fetching: json-2.1.0.gem ( 93%)Fetching: json-2.1.0.gem (100%)Fetching: json-2.1.0.gem (100%)
-Building native extensions.  This could take a while...
-Successfully installed json-2.1.0
-Parsing documentation for json-2.1.0
-Installing ri documentation for json-2.1.0
-Installing darkfish documentation for json-2.1.0
-(eval):7: warning: circular argument reference - max_nesting
-(eval):64: warning: circular argument reference - match_string
-(eval):64: warning: circular argument reference - match_string
-Done installing documentation for json after 2 seconds
-Parsing documentation for json-2.1.0
-Done installing documentation for json after 0 seconds
-Gems updated: json
-]0;eduards@Esuba: /media/eduards/Data/Programming/test_suiteeduards@Esuba:/media/eduards/Data/Programming/test_suite$ gem update json[K[K[K[Kpower_asser t
-Updating installed gems
-Updating power_assert
-Fetching: power_assert-1.0.2.gemFetching: power_assert-1.0.2.gem ( 13%)Fetching: power_assert-1.0.2.gem ( 33%)Fetching: power_assert-1.0.2.gem ( 52%)Fetching: power_assert-1.0.2.gem ( 71%)Fetching: power_assert-1.0.2.gem ( 90%)Fetching: power_assert-1.0.2.gem (100%)Fetching: power_assert-1.0.2.gem (100%)
-Successfully installed power_assert-1.0.2
-Parsing documentation for power_assert-1.0.2
-Installing ri documentation for power_assert-1.0.2
-Installing darkfish documentation for power_assert-1.0.2
-Done installing documentation for power_assert after 0 seconds
-Parsing documentation for power_assert-1.0.2
-Done installing documentation for power_assert after 0 seconds
-Gems updated: power_assert
-]0;eduards@Esuba: /media/eduards/Data/Programming/test_suiteeduards@Esuba:/media/eduards/Data/Programming/test_suite$ gem update power_assertt[A]0;eduards@Esuba: /media/eduards/Data/Programming/test_suiteeduards@Esuba:/media/eduards/Data/Programming/test_suite$ [C[C[C[C[C[C[C[C[C[C[C[7Pjson
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cbigdecimal[4Pjekyll[5Poutdated
-io-console (0.4.3 < 0.4.6)
-liquid (3.0.6 < 4.0.0)
-listen (3.0.8 < 3.1.5)
-minitest (5.4.3 < 5.10.2)
-psych (2.0.8 < 2.2.4)
-rake (10.4.2 < 12.0.0)
-rdoc (4.2.0 < 5.1.0)
-test-unit (3.0.8 < 3.2.4)
-]0;eduards@Esuba: /media/eduards/Data/Programming/test_suiteeduards@Esuba:/media/eduards/Data/Programming/test_suite$ gem outdatedupdate power_assertt[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[Kio-console  liquid liste [Kn minitest
-Updating installed gems
-Updating io-console
-Fetching: io-console-0.4.6.gemFetching: io-console-0.4.6.gem (  9%)Fetching: io-console-0.4.6.gem ( 22%)Fetching: io-console-0.4.6.gem ( 35%)Fetching: io-console-0.4.6.gem ( 48%)Fetching: io-console-0.4.6.gem ( 61%)Fetching: io-console-0.4.6.gem ( 73%)Fetching: io-console-0.4.6.gem ( 85%)Fetching: io-console-0.4.6.gem ( 98%)Fetching: io-console-0.4.6.gem (100%)Fetching: io-console-0.4.6.gem (100%)
-Building native extensions.  This could take a while...
-Successfully installed io-console-0.4.6
-Parsing documentation for io-console-0.4.6
-Installing ri documentation for io-console-0.4.6
-Installing darkfish documentation for io-console-0.4.6
-Done installing documentation for io-console after 0 seconds
-Parsing documentation for io-console-0.4.6
-Done installing documentation for io-console after 0 seconds
-Updating liquid
-Fetching: liquid-4.0.0.gemFetching: liquid-4.0.0.gem (  3%)Fetching: liquid-4.0.0.gem (  7%)Fetching: liquid-4.0.0.gem ( 11%)Fetching: liquid-4.0.0.gem ( 15%)Fetching: liquid-4.0.0.gem ( 19%)Fetching: liquid-4.0.0.gem ( 22%)Fetching: liquid-4.0.0.gem ( 26%)Fetching: liquid-4.0.0.gem ( 30%)Fetching: liquid-4.0.0.gem ( 34%)Fetching: liquid-4.0.0.gem ( 38%)Fetching: liquid-4.0.0.gem ( 42%)Fetching: liquid-4.0.0.gem ( 45%)Fetching: liquid-4.0.0.gem ( 68%)Fetching: liquid-4.0.0.gem ( 91%)Fetching: liquid-4.0.0.gem (100%)Fetching: liquid-4.0.0.gem (100%)
-Successfully installed liquid-4.0.0
-Parsing documentation for liquid-4.0.0
-Installing ri documentation for liquid-4.0.0
-Installing darkfish documentation for liquid-4.0.0
-Done installing documentation for liquid after 2 seconds
-Parsing documentation for liquid-4.0.0
-Done installing documentation for liquid after 0 seconds
-Updating listen
-Fetching: ruby_dep-1.5.0.gemFetching: ruby_dep-1.5.0.gem ( 16%)Fetching: ruby_dep-1.5.0.gem ( 40%)Fetching: ruby_dep-1.5.0.gem ( 63%)Fetching: ruby_dep-1.5.0.gem ( 87%)Fetching: ruby_dep-1.5.0.gem (100%)Fetching: ruby_dep-1.5.0.gem (100%)
-ERROR:  Error installing listen:
-	ruby_dep requires Ruby version >= 2.2.5, ~> 2.2.
-Updating minitest
-Fetching: minitest-5.10.2.gemFetching: minitest-5.10.2.gem (  3%)Fetching: minitest-5.10.2.gem (  7%)Fetching: minitest-5.10.2.gem ( 10%)Fetching: minitest-5.10.2.gem ( 14%)Fetching: minitest-5.10.2.gem ( 18%)Fetching: minitest-5.10.2.gem ( 21%)Fetching: minitest-5.10.2.gem ( 25%)Fetching: minitest-5.10.2.gem ( 28%)Fetching: minitest-5.10.2.gem ( 32%)Fetching: minitest-5.10.2.gem ( 36%)Fetching: minitest-5.10.2.gem ( 39%)Fetching: minitest-5.10.2.gem ( 43%)Fetching: minitest-5.10.2.gem ( 65%)Fetching: minitest-5.10.2.gem ( 86%)Fetching: minitest-5.10.2.gem (100%)Fetching: minitest-5.10.2.gem (100%)
-Successfully installed minitest-5.10.2
-Parsing documentation for minitest-5.10.2
-Installing ri documentation for minitest-5.10.2
-Installing darkfish documentation for minitest-5.10.2
-Done installing documentation for minitest after 2 seconds
-Parsing documentation for minitest-5.10.2
-Done installing documentation for minitest after 0 seconds
-Gems updated: io-console liquid ruby_dep minitest
-Gems already up-to-date: listen
-]0;eduards@Esuba: /media/eduards/Data/Programming/test_suiteeduards@Esuba:/media/eduards/Data/Programming/test_suite$ gem update io-console lliquid listen minitest[A]0;eduards@Esuba: /media/eduards/Data/Programming/test_suiteeduards@Esuba:/media/eduards/Data/Programming/test_suite$ [C[C[C[C[10Poutdated
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-listen (3.0.8 < 3.1.5)
-psych (2.0.8 < 2.2.4)
-rake (10.4.2 < 12.0.0)
-rdoc (4.2.0 < 5.1.0)
-test-unit (3.0.8 < 3.2.4)
-]0;eduards@Esuba: /media/eduards/Data/Programming/test_suiteeduards@Esuba:/media/eduards/Data/Programming/test_suite$ gem outdatedupdate io-console lliquid listen minitest[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[Klisten psyc h rake rdoc test-unit
-Updating installed gems
-Updating listen
-ERROR:  Error installing listen:
-	ruby_dep requires Ruby version >= 2.2.5, ~> 2.2.
-Updating psych
-Fetching: psych-2.2.4.gemFetching: psych-2.2.4.gem (  2%)Fetching: psych-2.2.4.gem (  5%)Fetching: psych-2.2.4.gem (  8%)Fetching: psych-2.2.4.gem ( 11%)Fetching: psych-2.2.4.gem ( 14%)Fetching: psych-2.2.4.gem ( 17%)Fetching: psych-2.2.4.gem ( 20%)Fetching: psych-2.2.4.gem ( 23%)Fetching: psych-2.2.4.gem ( 25%)Fetching: psych-2.2.4.gem ( 28%)Fetching: psych-2.2.4.gem ( 31%)Fetching: psych-2.2.4.gem ( 34%)Fetching: psych-2.2.4.gem ( 51%)Fetching: psych-2.2.4.gem ( 68%)Fetching: psych-2.2.4.gem ( 86%)Fetching: psych-2.2.4.gem (100%)Fetching: psych-2.2.4.gem (100%)
-Building native extensions.  This could take a while...
-Successfully installed psych-2.2.4
-Parsing documentation for psych-2.2.4
-Installing ri documentation for psych-2.2.4
-Installing darkfish documentation for psych-2.2.4
-Done installing documentation for psych after 2 seconds
-Parsing documentation for psych-2.2.4
-Done installing documentation for psych after 1 seconds
-Updating rake
-Fetching: rake-12.0.0.gemFetching: rake-12.0.0.gem (  3%)Fetching: rake-12.0.0.gem (  6%)Fetching: rake-12.0.0.gem (  9%)Fetching: rake-12.0.0.gem ( 12%)Fetching: rake-12.0.0.gem ( 16%)Fetching: rake-12.0.0.gem ( 19%)Fetching: rake-12.0.0.gem ( 22%)Fetching: rake-12.0.0.gem ( 25%)Fetching: rake-12.0.0.gem ( 29%)Fetching: rake-12.0.0.gem ( 32%)Fetching: rake-12.0.0.gem ( 35%)Fetching: rake-12.0.0.gem ( 38%)Fetching: rake-12.0.0.gem ( 58%)Fetching: rake-12.0.0.gem ( 77%)Fetching: rake-12.0.0.gem ( 96%)Fetching: rake-12.0.0.gem (100%)Fetching: rake-12.0.0.gem (100%)
-rake's executable "rake" conflicts with /home/eduards/.rbenv/versions/2.2.0/bin/rake
-Overwrite the executable? [yN]  y
-Successfully installed rake-12.0.0
-Parsing documentation for rake-12.0.0
-Installing ri documentation for rake-12.0.0
-Installing darkfish documentation for rake-12.0.0
-Done installing documentation for rake after 1 seconds
-Parsing documentation for rake-12.0.0
-Done installing documentation for rake after 0 seconds
-Updating rdoc
-Fetching: rdoc-5.1.0.gemFetching: rdoc-5.1.0.gem (  1%)Fetching: rdoc-5.1.0.gem (  2%)Fetching: rdoc-5.1.0.gem (  3%)Fetching: rdoc-5.1.0.gem (  4%)Fetching: rdoc-5.1.0.gem (  5%)Fetching: rdoc-5.1.0.gem (  6%)Fetching: rdoc-5.1.0.gem (  8%)Fetching: rdoc-5.1.0.gem ( 11%)Fetching: rdoc-5.1.0.gem ( 14%)Fetching: rdoc-5.1.0.gem ( 17%)Fetching: rdoc-5.1.0.gem ( 19%)Fetching: rdoc-5.1.0.gem ( 22%)Fetching: rdoc-5.1.0.gem ( 25%)Fetching: rdoc-5.1.0.gem ( 27%)Fetching: rdoc-5.1.0.gem ( 30%)Fetching: rdoc-5.1.0.gem ( 33%)Fetching: rdoc-5.1.0.gem ( 36%)Fetching: rdoc-5.1.0.gem ( 38%)Fetching: rdoc-5.1.0.gem ( 41%)Fetching: rdoc-5.1.0.gem ( 44%)Fetching: rdoc-5.1.0.gem ( 46%)Fetching: rdoc-5.1.0.gem ( 49%)Fetching: rdoc-5.1.0.gem ( 52%)Fetching: rdoc-5.1.0.gem ( 55%)Fetching: rdoc-5.1.0.gem ( 57%)Fetching: rdoc-5.1.0.gem ( 60%)Fetching: rdoc-5.1.0.gem ( 63%)Fetching: rdoc-5.1.0.gem ( 65%)Fetching: rdoc-5.1.0.gem ( 68%)Fetching: rdoc-5.1.0.gem ( 71%)Fetching: rdoc-5.1.0.gem ( 74%)Fetching: rdoc-5.1.0.gem ( 76%)Fetching: rdoc-5.1.0.gem ( 79%)Fetching: rdoc-5.1.0.gem ( 82%)Fetching: rdoc-5.1.0.gem ( 84%)Fetching: rdoc-5.1.0.gem ( 87%)Fetching: rdoc-5.1.0.gem ( 90%)Fetching: rdoc-5.1.0.gem ( 92%)Fetching: rdoc-5.1.0.gem ( 95%)Fetching: rdoc-5.1.0.gem ( 98%)Fetching: rdoc-5.1.0.gem (100%)Fetching: rdoc-5.1.0.gem (100%)
-rdoc's executable "rdoc" conflicts with /home/eduards/.rbenv/versions/2.2.0/bin/rdoc
-Overwrite the executable? [yN]  y
-rdoc's executable "ri" conflicts with /home/eduards/.rbenv/versions/2.2.0/bin/ri
-Overwrite the executable? [yN]  y
-Successfully installed rdoc-5.1.0
-Parsing documentation for rdoc-5.1.0
-Installing ri documentation for rdoc-5.1.0
-Installing darkfish documentation for rdoc-5.1.0
-(eval):3: warning: string literal in condition
-(eval):2: warning: string literal in condition
-Done installing documentation for rdoc after 14 seconds
-Parsing documentation for rdoc-5.1.0
-Done installing documentation for rdoc after 8 seconds
-Updating test-unit
-Fetching: test-unit-3.2.4.gemFetching: test-unit-3.2.4.gem (  2%)Fetching: test-unit-3.2.4.gem (  4%)Fetching: test-unit-3.2.4.gem (  5%)Fetching: test-unit-3.2.4.gem (  7%)Fetching: test-unit-3.2.4.gem (  8%)Fetching: test-unit-3.2.4.gem ( 10%)Fetching: test-unit-3.2.4.gem ( 11%)Fetching: test-unit-3.2.4.gem ( 13%)Fetching: test-unit-3.2.4.gem ( 14%)Fetching: test-unit-3.2.4.gem ( 16%)Fetching: test-unit-3.2.4.gem ( 17%)Fetching: test-unit-3.2.4.gem ( 19%)Fetching: test-unit-3.2.4.gem ( 21%)Fetching: test-unit-3.2.4.gem ( 23%)Fetching: test-unit-3.2.4.gem ( 24%)Fetching: test-unit-3.2.4.gem ( 26%)Fetching: test-unit-3.2.4.gem ( 27%)Fetching: test-unit-3.2.4.gem ( 29%)Fetching: test-unit-3.2.4.gem ( 30%)Fetching: test-unit-3.2.4.gem ( 32%)Fetching: test-unit-3.2.4.gem ( 34%)Fetching: test-unit-3.2.4.gem ( 37%)Fetching: test-unit-3.2.4.gem ( 39%)Fetching: test-unit-3.2.4.gem ( 41%)Fetching: test-unit-3.2.4.gem ( 43%)Fetching: test-unit-3.2.4.gem ( 45%)Fetching: test-unit-3.2.4.gem ( 47%)Fetching: test-unit-3.2.4.gem ( 49%)Fetching: test-unit-3.2.4.gem ( 52%)Fetching: test-unit-3.2.4.gem ( 54%)Fetching: test-unit-3.2.4.gem ( 56%)Fetching: test-unit-3.2.4.gem ( 69%)Fetching: test-unit-3.2.4.gem ( 81%)Fetching: test-unit-3.2.4.gem ( 94%)Fetching: test-unit-3.2.4.gem (100%)Fetching: test-unit-3.2.4.gem (100%)
-Successfully installed test-unit-3.2.4
-Parsing documentation for test-unit-3.2.4
-Installing ri documentation for test-unit-3.2.4
-Installing darkfish documentation for test-unit-3.2.4
-Done installing documentation for test-unit after 3 seconds
-Parsing documentation for test-unit-3.2.4
-Done installing documentation for test-unit after 1 seconds
-Gems updated: ruby_dep psych rake rdoc test-unit
-Gems already up-to-date: listen
-]0;eduards@Esuba: /media/eduards/Data/Programming/test_suiteeduards@Esuba:/media/eduards/Data/Programming/test_suite$ c[Kcd ../\[K
-]0;eduards@Esuba: /media/eduards/Data/Programmingeduards@Esuba:/media/eduards/Data/Programming$ ls
-[0m[01;34mAssembly[0m  [01;34meduardinjo.github.io[0m  [01;34mJekyll[0m   [01;34mMatlab[0m  [01;34mPython[0m
-[01;34mC[0m         [01;34mHaskell[0m               [01;34mLTspice[0m  [01;34mMyBlog[0m  [01;34mtest_suite[0m
-]0;eduards@Esuba: /media/eduards/Data/Programmingeduards@Esuba:/media/eduards/Data/Programming$ rm -r test_suite/
-]0;eduards@Esuba: /media/eduards/Data/Programmingeduards@Esuba:/media/eduards/Data/Programming$ rm -r test_suite/ls[Kcd ../gem update listen psych rake rdoc  test-unit[A]0;eduards@Esuba: /media/eduards/Data/Programmingeduards@Esuba:/media/eduards/Data/Programming$ [C[C[C[Coutdated[K
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cupdate io-console liquid listeen minitest[A]0;eduards@Esuba: /media/eduards/Data/Programmingeduards@Esuba:/media/eduards/Data/Programming$ [C[C[C[Coutdated[K
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cupdate power_assert[8Pjsonbigdecimal[4Pjekyll[5Poutdatedupdate jekyllsearch jekyll --remote[11Plist jekylljekyll --version[8Prubygems[1P -vgemsjekyll --version[8Prubygems[1P -v[Kmake -v[1@-[C[C[C[C[C[C[C[2Pgcc[C[C[Cem install jekyll bundler[Kxcode-select --installsudo apt-get install ruby ruby-alll-dev[A]0;eduards@Esuba: /media/eduards/Data/Programmingeduards@Esuba:/media/eduards/Data/Programming$ [9Pbundle exec jekyll serve
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[10Pcd test_suite/jekyll new test_suite
-/var/lib/gems/2.2.0/gems/safe_yaml-1.0.4/lib/safe_yaml/psych_resolver.rb:4:in `<class:PsychResolver>': uninitialized constant Psych::Nodes (NameError)
-	from /var/lib/gems/2.2.0/gems/safe_yaml-1.0.4/lib/safe_yaml/psych_resolver.rb:2:in `<module:SafeYAML>'
-	from /var/lib/gems/2.2.0/gems/safe_yaml-1.0.4/lib/safe_yaml/psych_resolver.rb:1:in `<top (required)>'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /var/lib/gems/2.2.0/gems/safe_yaml-1.0.4/lib/safe_yaml/load.rb:131:in `<module:SafeYAML>'
-	from /var/lib/gems/2.2.0/gems/safe_yaml-1.0.4/lib/safe_yaml/load.rb:26:in `<top (required)>'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /var/lib/gems/2.2.0/gems/jekyll-3.4.3/lib/jekyll.rb:29:in `<top (required)>'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /var/lib/gems/2.2.0/gems/jekyll-3.4.3/exe/jekyll:6:in `<top (required)>'
-	from /usr/local/bin/jekyll:23:in `load'
-	from /usr/local/bin/jekyll:23:in `<main>'
-]0;eduards@Esuba: /media/eduards/Data/Programmingeduards@Esuba:/media/eduards/Data/Programming$ [K]0;eduards@Esuba: /media/eduards/Data/Programmingeduards@Esuba:/media/eduards/Data/Programming$ jekyll new test_suite
-/var/lib/gems/2.2.0/gems/safe_yaml-1.0.4/lib/safe_yaml/psych_resolver.rb:4:in `<class:PsychResolver>': uninitialized constant Psych::Nodes (NameError)
-	from /var/lib/gems/2.2.0/gems/safe_yaml-1.0.4/lib/safe_yaml/psych_resolver.rb:2:in `<module:SafeYAML>'
-	from /var/lib/gems/2.2.0/gems/safe_yaml-1.0.4/lib/safe_yaml/psych_resolver.rb:1:in `<top (required)>'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /var/lib/gems/2.2.0/gems/safe_yaml-1.0.4/lib/safe_yaml/load.rb:131:in `<module:SafeYAML>'
-	from /var/lib/gems/2.2.0/gems/safe_yaml-1.0.4/lib/safe_yaml/load.rb:26:in `<top (required)>'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /var/lib/gems/2.2.0/gems/jekyll-3.4.3/lib/jekyll.rb:29:in `<top (required)>'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /var/lib/gems/2.2.0/gems/jekyll-3.4.3/exe/jekyll:6:in `<top (required)>'
-	from /usr/local/bin/jekyll:23:in `load'
-	from /usr/local/bin/jekyll:23:in `<main>'
-]0;eduards@Esuba: /media/eduards/Data/Programmingeduards@Esuba:/media/eduards/Data/Programming$ sudo apt-get update
-[sudo] password for eduards: 
-Sorry, try again.
-[sudo] password for eduards: 
-Sorry, try again.
-[sudo] password for eduards: 
-Sorry, try again.
-sudo: 3 incorrect password attempts
-]0;eduards@Esuba: /media/eduards/Data/Programmingeduards@Esuba:/media/eduards/Data/Programming$ sudo apt-get update
-[sudo] password for eduards: 
-Sorry, try again.
-[sudo] password for eduards: 
-0% [Working]            Ign http://dl.google.com stable InRelease
-            3% [Connecting to cran.cnr.berkeley.edu] [Connecting to lv.archive.ubuntu.com (                                                                               Hit http://dl.google.com stable Release.gpg
-10% [Connecting to cran.cnr.berkeley.edu] [Waiting for headers] [Connecting to                                                                                Hit http://ppa.launchpad.net trusty InRelease
-10% [Connecting to cran.cnr.berkeley.edu] [Waiting for headers] [Connecting to                                                                                Ign http://extras.ubuntu.com trusty InRelease
-14% [Connecting to cran.cnr.berkeley.edu] [Waiting for headers] [Connecting to 14% [InRelease gpgv 20,9 kB] [Connecting to cran.cnr.berkeley.edu] [Waiting for16% [Connecting to cran.cnr.berkeley.edu] [Waiting for headers] [Connecting to                                                                                Hit http://dl.google.com stable Release
-16% [Connecting to cran.cnr.berkeley.edu] [Waiting for headers] [Connecting to 16% [Release gpgv 1 189 B] [Connecting to cran.cnr.berkeley.edu] [Waiting for 18% [Connecting to cran.cnr.berkeley.edu] [Waiting for headers] [Connecting to                                                                                Ign http://lv.archive.ubuntu.com trusty InRelease
-21% [Connecting to cran.cnr.berkeley.edu] [Connecting to security.ubuntu.com (9                                                                               Hit http://dl.google.com stable/main amd64 Packages
-21% [Connecting to cran.cnr.berkeley.edu] [Waiting for headers] [Waiting for he                                                                               Hit http://ppa.launchpad.net trusty InRelease
-21% [Connecting to cran.cnr.berkeley.edu] [Waiting for headers] [Waiting for he21% [Packages 4 451 B] [Connecting to cran.cnr.berkeley.edu] [Waiting for head                                                                               Hit http://extras.ubuntu.com trusty Release.gpg
-100% [InRelease gpgv 16,0 kB] [Connecting to cran.cnr.berkeley.edu] [Waiting fo99% [Connecting to cran.cnr.berkeley.edu] [Waiting for headers] [Waiting for he                                                                               Hit http://lv.archive.ubuntu.com trusty-updates InRelease
-99% [Connecting to cran.cnr.berkeley.edu] [Waiting for headers] [Waiting for he99% [InRelease gpgv 65,9 kB] [Connecting to cran.cnr.berkeley.edu] [Waiting for99% [Connecting to cran.cnr.berkeley.edu] [Waiting for headers] [Waiting for he                                                                               Hit http://ppa.launchpad.net trusty InRelease
-99% [Connecting to cran.cnr.berkeley.edu] [Waiting for headers] [Waiting for he99% [InRelease gpgv 15,5 kB] [Connecting to cran.cnr.berkeley.edu] [Waiting for99% [Connecting to cran.cnr.berkeley.edu] [Waiting for headers] [Waiting for he                                                                               Hit http://extras.ubuntu.com trusty Release
-99% [Connecting to cran.cnr.berkeley.edu] [Waiting for headers] [Waiting for he99% [Release gpgv 11,9 kB] [Connecting to cran.cnr.berkeley.edu] [Waiting for h                                                                               Hit http://storage.googleapis.com stable InRelease
-99% [Release gpgv 11,9 kB] [Connecting to cran.cnr.berkeley.edu] [Waiting for h                                                                               Hit http://lv.archive.ubuntu.com trusty-backports InRelease
-99% [Release gpgv 11,9 kB] [Connecting to cran.cnr.berkeley.edu] [Waiting for h99% [Connecting to cran.cnr.berkeley.edu] [Waiting for headers] [Waiting for he99% [InRelease gpgv 3 855 B] [Connecting to cran.cnr.berkeley.edu] [Waiting fo99% [Connecting to cran.cnr.berkeley.edu] [Waiting for headers] [Waiting for he99% [InRelease gpgv 65,9 kB] [Connecting to cran.cnr.berkeley.edu] [Waiting for99% [Connecting to cran.cnr.berkeley.edu] [Waiting for headers] [Waiting for he                                                                               Hit http://ppa.launchpad.net trusty InRelease
-99% [Connecting to cran.cnr.berkeley.edu] [Waiting for headers] [Waiting for he99% [InRelease gpgv 15,5 kB] [Connecting to cran.cnr.berkeley.edu] [Waiting for99% [Connecting to cran.cnr.berkeley.edu] [Waiting for headers] [Waiting for he                                                                               Hit http://security.ubuntu.com trusty-security InRelease
-99% [Connecting to cran.cnr.berkeley.edu] [Waiting for headers] [Waiting for he99% [InRelease gpgv 65,9 kB] [Connecting to cran.cnr.berkeley.edu] [Waiting for                                                                               Hit http://lv.archive.ubuntu.com trusty Release.gpg
-99% [InRelease gpgv 65,9 kB] [Connecting to cran.cnr.berkeley.edu] [Waiting for98% [Connecting to cran.cnr.berkeley.edu] [Waiting for headers] [Waiting for he                                                                               Hit http://extras.ubuntu.com trusty/main Sources
-98% [Connecting to cran.cnr.berkeley.edu] [Waiting for headers] [Waiting for he98% [Connecting to cran.cnr.berkeley.edu] [Waiting for headers] [Waiting for he                                                                               Ign http://cran.rstudio.com trusty/ InRelease
-98% [Connecting to cran.cnr.berkeley.edu] [Waiting for headers] [Waiting for he                                                                               Ign http://ppa.launchpad.net trusty InRelease
-98% [Connecting to cran.cnr.berkeley.edu] [Waiting for headers] [Waiting for he                                                                               Hit http://cran.rstudio.com trusty/ Release.gpg
-98% [Connecting to cran.cnr.berkeley.edu] [Waiting for headers] [Waiting for he                                                                               Hit http://lv.archive.ubuntu.com trusty-updates/main Sources
-98% [Connecting to cran.cnr.berkeley.edu] [Waiting for headers] [Waiting for he98% [Sources 2 178 kB] [Connecting to cran.cnr.berkeley.edu] [Waiting for head                                                                               Hit http://extras.ubuntu.com trusty/main amd64 Packages
-98% [Sources 2 178 kB] [Connecting to cran.cnr.berkeley.edu] [Waiting for head                                                                               Hit http://cran.rstudio.com trusty/ Release
-98% [Sources 2 178 kB] [Connecting to cran.cnr.berkeley.edu] [Waiting for head98% [Sources 2 178 kB] [Release gpgv 3 066 B] [Connecting to cran.cnr.berkele98% [Sources 2 178 kB] [Connecting to cran.cnr.berkeley.edu] [Waiting for head                                                                               Hit https://apt.dockerproject.org ubuntu-trusty InRelease
-98% [Sources 2 178 kB] [Connecting to cran.cnr.berkeley.edu] [Waiting for head98% [Sources 2 178 kB] [InRelease gpgv 48,7 kB] [Connecting to cran.cnr.berkel98% [Sources 2 178 kB] [Connecting to cran.cnr.berkeley.edu] [Waiting for head100% [Connecting to cran.cnr.berkeley.edu] [Waiting for headers] [Waiting for h100% [Packages 0 B] [Connecting to cran.cnr.berkeley.edu] [Waiting for headers]100% [Connecting to cran.cnr.berkeley.edu] [Waiting for headers] [Waiting for h                                                                               Hit http://ppa.launchpad.net trusty InRelease
-100% [Connecting to cran.cnr.berkeley.edu] [Waiting for headers] [Waiting for h100% [InRelease gpgv 15,5 kB] [Connecting to cran.cnr.berkeley.edu] [Waiting fo                                                                               Hit http://lv.archive.ubuntu.com trusty-updates/restricted Sources
-100% [InRelease gpgv 15,5 kB] [Connecting to cran.cnr.berkeley.edu] [Waiting fo100% [Sources 35,5 kB] [InRelease gpgv 15,5 kB] [Connecting to cran.cnr.berkele100% [InRelease gpgv 15,5 kB] [Connecting to cran.cnr.berkeley.edu] [Waiting fo100% [Connecting to cran.cnr.berkeley.edu] [Waiting for headers] [Waiting for h                                                                               Hit http://extras.ubuntu.com trusty/main i386 Packages
-100% [Connecting to cran.cnr.berkeley.edu] [Waiting for headers] [Waiting for h100% [Packages 0 B] [Connecting to cran.cnr.berkeley.edu] [Waiting for headers]100% [Connecting to cran.cnr.berkeley.edu] [Waiting for headers] [Waiting for h                                                                               Hit https://apt.dockerproject.org ubuntu-trusty/main amd64 Packages
-100% [Connecting to cran.cnr.berkeley.edu] [Waiting for headers] [Waiting for h100% [Packages 50,9 kB] [Connecting to cran.cnr.berkeley.edu] [Waiting for head100% [Connecting to cran.cnr.berkeley.edu] [Waiting for headers] [Waiting for h                                                                               Hit http://security.ubuntu.com trusty-security/main Sources
-100% [Connecting to cran.cnr.berkeley.edu] [Waiting for headers] [Waiting for h100% [Sources 665 kB] [Connecting to cran.cnr.berkeley.edu] [Waiting for header                                                                               Hit http://lv.archive.ubuntu.com trusty-updates/universe Sources
-100% [Sources 665 kB] [Connecting to cran.cnr.berkeley.edu] [Waiting for header                                                                               Hit http://ppa.launchpad.net trusty InRelease
-100% [Sources 665 kB] [Connecting to cran.cnr.berkeley.edu (169.229.201.201)] [100% [Sources 665 kB] [InRelease gpgv 15,5 kB] [Connecting to cran.cnr.berkeley                                                                               Hit https://apt.dockerproject.org ubuntu-trusty/main i386 Packages
-100% [Sources 665 kB] [InRelease gpgv 15,5 kB] [Connecting to cran.cnr.berkeley100% [Sources 665 kB] [Connecting to cran.cnr.berkeley.edu (169.229.201.201)] [                                                                               Hit http://repository.spotify.com stable InRelease
-100% [Sources 665 kB] [Connecting to cran.cnr.berkeley.edu (169.229.201.201)] [100% [Sources 665 kB] [InRelease gpgv 3 302 B] [Connecting to cran.cnr.berkele100% [InRelease gpgv 3 302 B] [Connecting to cran.cnr.berkeley.edu (169.229.20100% [Sources 871 kB] [InRelease gpgv 3 302 B] [Connecting to cran.cnr.berkele                                                                               Hit http://storage.googleapis.com stable/jdk1.8 amd64 Packages
-100% [Sources 871 kB] [InRelease gpgv 3 302 B] [Connecting to cran.cnr.berkele100% [Sources 871 kB] [Connecting to cran.cnr.berkeley.edu (169.229.201.201)] [                                                                               Get:1 https://apt.dockerproject.org ubuntu-trusty/main Translation-en_US
-100% [Sources 871 kB] [Connecting to cran.cnr.berkeley.edu (169.229.201.201)] [100% [Connecting to cran.cnr.berkeley.edu (169.229.201.201)] [Waiting for heade100% [Packages 0 B] [Connecting to cran.cnr.berkeley.edu (169.229.201.201)] [Wa100% [Connecting to cran.cnr.berkeley.edu (169.229.201.201)] [Waiting for heade100% [Packages 908 B] [Connecting to cran.cnr.berkeley.edu (169.229.201.201)] [100% [Connecting to cran.cnr.berkeley.edu (169.229.201.201)] [Waiting for heade                                                                               Ign http://dl.google.com stable/main Translation-en_US
-100% [Connecting to cran.cnr.berkeley.edu (169.229.201.201)] [Waiting for heade                                                                               Hit http://lv.archive.ubuntu.com trusty-updates/multiverse Sources
-100% [Connecting to cran.cnr.berkeley.edu (169.229.201.201)] [Waiting for heade100% [Sources 31,7 kB] [Connecting to cran.cnr.berkeley.edu (169.229.201.201)] 100% [Connecting to cran.cnr.berkeley.edu (169.229.201.201)] [Waiting for heade                                                                               Hit http://ppa.launchpad.net trusty/main amd64 Packages
-100% [Connecting to cran.cnr.berkeley.edu (169.229.201.201)] [Waiting for heade100% [Packages 30,3 kB] [Connecting to cran.cnr.berkeley.edu (169.229.201.201)]100% [Connecting to cran.cnr.berkeley.edu (169.229.201.201)] [Waiting for heade                                                                               Ign http://dl.google.com stable/main Translation-en
-100% [Connecting to cran.cnr.berkeley.edu (169.229.201.201)] [Waiting for heade                                                                               Hit http://lv.archive.ubuntu.com trusty-updates/main amd64 Packages
-100% [Connecting to cran.cnr.berkeley.edu (169.229.201.201)] [Waiting for heade100% [Packages 6 894 kB] [Connecting to cran.cnr.berkeley.edu (169.229.201.201                                                                               Hit http://ppa.launchpad.net trusty/main i386 Packages
-100% [Packages 6 894 kB] [Connecting to cran.cnr.berkeley.edu (169.229.201.201                                                                               Hit http://security.ubuntu.com trusty-security/restricted Sources
-100% [Packages 6 894 kB] [Connecting to cran.cnr.berkeley.edu (169.229.201.201                                                                               Hit http://lv.archive.ubuntu.com trusty-updates/restricted amd64 Packages
-100% [Packages 6 894 kB] [Connecting to cran.cnr.berkeley.edu (169.229.201.201                                                                               Hit http://ppa.launchpad.net trusty/main Translation-en
-100% [Packages 6 894 kB] [Connecting to cran.cnr.berkeley.edu (169.229.201.201                                                                               Hit http://cran.rstudio.com trusty/ Packages
-100% [Packages 6 894 kB] [Connecting to cran.cnr.berkeley.edu (169.229.201.201                                                                               Hit http://lv.archive.ubuntu.com trusty-updates/universe amd64 Packages
-100% [Packages 6 894 kB] [Connecting to cran.cnr.berkeley.edu (169.229.201.201                                                                               Hit http://ppa.launchpad.net trusty/main amd64 Packages
-100% [Packages 6 894 kB] [Connecting to cran.cnr.berkeley.edu (169.229.201.201                                                                               Hit http://lv.archive.ubuntu.com trusty-updates/multiverse amd64 Packages
-100% [Packages 6 894 kB] [Waiting for headers] [Waiting for headers] [Waiting 100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting                                                                               Hit http://security.ubuntu.com trusty-security/universe Sources
-100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Packages 30,3 kB] [Waiting for headers] [Waiting for headers] [Waiting fo100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting                                                                               Hit http://ppa.launchpad.net trusty/main i386 Packages
-100% [Sources 30,3 kB] [Waiting for headers] [Waiting for headers] [Waiting for100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Packages 166 kB] [Waiting for headers] [Waiting for headers] [Waiting for100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Translation-en 25,1 kB] [Waiting for headers] [Waiting for headers] [Wait100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Packages 1 216 kB] [Waiting for headers] [Waiting for headers] [Waiting                                                                                Hit http://lv.archive.ubuntu.com trusty-updates/main i386 Packages
-100% [Packages 1 216 kB] [Waiting for headers] [Waiting for headers] [Waiting 100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Packages 2 469 kB] [Waiting for headers] [Waiting for headers] [Waiting                                                                                Hit http://ppa.launchpad.net trusty/main Translation-en
-100% [Packages 2 469 kB] [Waiting for headers] [Waiting for headers] [Waiting                                                                                Hit http://lv.archive.ubuntu.com trusty-updates/restricted i386 Packages
-100% [Packages 2 469 kB] [Waiting for headers] [Waiting for headers] [Waiting 100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Packages 0 B] [Waiting for headers] [Waiting for headers] [Waiting for he100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Packages 77,5 kB] [Waiting for headers] [Waiting for headers] [Waiting fo100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Sources 248 kB] [Waiting for headers] [Waiting for headers] [Waiting for 100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Packages 0 B] [Waiting for headers] [Waiting for headers] [Waiting for he100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Packages 6 522 kB] [Waiting for headers] [Waiting for headers] [Waiting                                                                                Hit http://ppa.launchpad.net trusty/main amd64 Packages
-100% [Packages 6 522 kB] [Waiting for headers] [Waiting for headers] [Waiting                                                                                Hit http://repository.spotify.com stable/non-free amd64 Packages
-100% [Packages 6 522 kB] [Waiting for headers] [Waiting for headers] [Waiting                                                                                Hit http://lv.archive.ubuntu.com trusty-updates/universe i386 Packages
-100% [Packages 6 522 kB] [Waiting for headers] [Waiting for headers] [Waiting                                                                                Hit http://security.ubuntu.com trusty-security/multiverse Sources
-100% [Packages 6 522 kB] [Waiting for headers] [Waiting for headers] [Waiting                                                                                Hit http://ppa.launchpad.net trusty/main i386 Packages
-100% [Packages 6 522 kB] [Waiting for headers] [Waiting for headers] [Waiting                                                                                Ign https://apt.dockerproject.org ubuntu-trusty/main Translation-en_US
-100% [Packages 6 522 kB] [Waiting for headers] [Waiting for headers] [Waiting                                                                                Hit http://lv.archive.ubuntu.com trusty-updates/multiverse i386 Packages
-100% [Packages 6 522 kB] [Waiting for headers] [Waiting for headers] [Waiting                                                                                Ign https://apt.dockerproject.org ubuntu-trusty/main Translation-en
-100% [Packages 6 522 kB] [Waiting for headers] [Waiting for headers] [Waiting                                                                                Ign http://cran.cnr.berkeley.edu trusty/ InRelease
-100% [Packages 6 522 kB] [Waiting for headers] [Waiting for headers] [Waiting                                                                                Ign http://extras.ubuntu.com trusty/main Translation-en_US
-100% [Packages 6 522 kB] [Waiting for headers] [Waiting for headers] [Waiting                                                                                Hit http://ppa.launchpad.net trusty/main Translation-en
-100% [Packages 6 522 kB] [Waiting for headers] [Waiting for headers] [Waiting                                                                                Hit http://lv.archive.ubuntu.com trusty-updates/main Translation-en
-100% [Packages 6 522 kB] [Waiting for headers] [Waiting for headers] [Waiting 100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Translation-en 0 B] [Waiting for headers] [Waiting for headers] [Waiting 100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Packages 165 kB] [Waiting for headers] [Waiting for headers] [Waiting for100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Packages 1 017 B] [Waiting for headers] [Waiting for headers] [Waiting f100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Packages 4 002 B] [Waiting for headers] [Waiting for headers] [Waiting f100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Packages 2 476 kB] [Waiting for headers] [Waiting for headers] [Waiting                                                                                Hit http://security.ubuntu.com trusty-security/main amd64 Packages
-100% [Packages 2 476 kB] [Waiting for headers] [Waiting for headers] [Waiting                                                                                Hit http://ppa.launchpad.net trusty/main amd64 Packages
-100% [Packages 2 476 kB] [Waiting for headers] [Waiting for headers] [Waiting                                                                                Ign http://extras.ubuntu.com trusty/main Translation-en
-100% [Packages 2 476 kB] [Waiting for headers] [Waiting for headers] [Waiting                                                                                Hit http://lv.archive.ubuntu.com trusty-updates/multiverse Translation-en
-100% [Packages 2 476 kB] [Waiting for headers] [Waiting for headers] [Waiting 100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Sources 9 364 B] [Waiting for headers] [Waiting for headers] [Waiting fo100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Packages 1 015 B] [Waiting for headers] [Waiting for headers] [Waiting f100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Packages 79,3 kB] [Waiting for headers] [Waiting for headers] [Waiting fo100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Translation-en 447 B] [Waiting for headers] [Waiting for headers] [Waitin100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Translation-en 6 716 kB] [Waiting for headers] [Waiting for headers] [Wa                                                                               Hit http://security.ubuntu.com trusty-security/restricted amd64 Packages
-100% [Translation-en 6 716 kB] [Waiting for headers] [Waiting for headers] [Wa100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Packages 4 325 kB] [Waiting for headers] [Waiting for headers] [Waiting                                                                                Hit http://lv.archive.ubuntu.com trusty-updates/restricted Translation-en
-100% [Packages 4 325 kB] [Waiting for headers] [Waiting for headers] [Waiting                                                                                Hit http://ppa.launchpad.net trusty/main i386 Packages
-100% [Packages 4 325 kB] [Waiting for headers] [Waiting for headers] [Waiting                                                                                Hit http://cran.cnr.berkeley.edu trusty/ Release.gpg
-100% [Packages 4 325 kB] [Waiting for headers] [Waiting for headers] [Waiting                                                                                Hit http://repository.spotify.com stable/non-free i386 Packages
-100% [Packages 4 325 kB] [Waiting for headers] [Waiting for headers] [Waiting                                                                                Hit http://lv.archive.ubuntu.com trusty-updates/universe Translation-en
-100% [Packages 4 325 kB] [Waiting for headers] [Waiting for headers] [Waiting                                                                                Hit http://ppa.launchpad.net trusty/main Translation-en
-100% [Packages 4 325 kB] [Waiting for headers] [Waiting for headers] [Waiting 100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Packages 15,1 kB] [Waiting for headers] [Waiting for headers] [Waiting fo100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Translation-en 31,6 kB] [Waiting for headers] [Waiting for headers] [Wait100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Packages 131 kB] [Waiting for headers] [Waiting for headers] [Waiting for100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Translation-en 28,6 kB] [Waiting for headers] [Waiting for headers] [Wait100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Packages 15,1 kB] [Waiting for headers] [Waiting for headers] [Waiting fo100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Packages 2 599 B] [Waiting for headers] [Waiting for headers] [Waiting f100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Translation-en 1 132 kB] [Waiting for headers] [Waiting for headers] [Wa                                                                               Hit http://lv.archive.ubuntu.com trusty-backports/main Sources
-100% [Translation-en 1 132 kB] [Waiting for headers] [Waiting for headers] [Wa                                                                               Hit http://ppa.launchpad.net trusty Release.gpg
-100% [Translation-en 1 132 kB] [Waiting for headers] [Waiting for headers] [Wa100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Translation-en 8 651 B] [Waiting for headers] [Waiting for headers] [Wai100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Sources 34,0 kB] [Waiting for headers] [Waiting for headers] [Waiting for100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting                                                                               Hit http://security.ubuntu.com trusty-security/universe amd64 Packages
-100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Packages 1 004 kB] [Waiting for headers] [Waiting for headers] [Waiting 100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting                                                                               Hit http://lv.archive.ubuntu.com trusty-backports/restricted Sources
-100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Sources 0 B] [Waiting for headers] [Waiting for headers] [Waiting for hea100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting                                                                               Hit http://ppa.launchpad.net trusty/main amd64 Packages
-100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Packages 773 B] [Waiting for headers] [Waiting for headers] [Waiting for 100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting                                                                               Hit http://lv.archive.ubuntu.com trusty-backports/universe Sources
-100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Sources 141 kB] [Waiting for headers] [Waiting for headers] [Waiting for 100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting                                                                               Hit http://ppa.launchpad.net trusty/main i386 Packages
-100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Packages 771 B] [Waiting for headers] [Waiting for headers] [Waiting for 100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting                                                                               Hit http://cran.cnr.berkeley.edu trusty/ Release
-100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Release gpgv 3 066 B] [Waiting for headers] [Waiting for headers] [Waiti100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting                                                                               Hit http://lv.archive.ubuntu.com trusty-backports/multiverse Sources
-100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting                                                                               Hit http://security.ubuntu.com trusty-security/multiverse amd64 Packages
-100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting                                                                               Hit http://ppa.launchpad.net trusty/main Translation-en
-100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Translation-en 397 B] [Waiting for headers] [Waiting for headers] [Waitin100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting                                                                               Hit http://lv.archive.ubuntu.com trusty-backports/main amd64 Packages
-100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Packages 59,1 kB] [Waiting for headers] [Waiting for headers] [Waiting fo100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting                                                                               Hit http://ppa.launchpad.net trusty/main amd64 Packages
-100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting                                                                               Hit http://lv.archive.ubuntu.com trusty-backports/restricted amd64 Packages
-100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Packages 0 B] [Waiting for headers] [Waiting for headers] [Waiting for he100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting                                                                               Hit http://ppa.launchpad.net trusty/main i386 Packages
-100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Packages 19,8 kB] [Waiting for headers] [Waiting for headers] [Waiting fo100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting                                                                               Hit http://security.ubuntu.com trusty-security/main i386 Packages
-100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Packages 3 967 kB] [Waiting for headers] [Waiting for headers] [Waiting                                                                                Hit http://lv.archive.ubuntu.com trusty-backports/universe amd64 Packages
-100% [Packages 3 967 kB] [Waiting for headers] [Waiting for headers] [Waiting                                                                                Hit http://ppa.launchpad.net trusty/main Translation-en
-100% [Packages 3 967 kB] [Waiting for headers] [Waiting for headers] [Waiting                                                                                Hit http://lv.archive.ubuntu.com trusty-backports/multiverse amd64 Packages
-100% [Packages 3 967 kB] [Waiting for headers] [Waiting for headers] [Waiting                                                                                Hit http://cran.cnr.berkeley.edu trusty/ Packages
-100% [Packages 3 967 kB] [Waiting for headers] [Waiting for headers] [Waiting                                                                                Hit http://ppa.launchpad.net trusty Release
-100% [Packages 3 967 kB] [Waiting for headers] [Waiting for headers] [Waiting 100% [Packages 3 967 kB] [Release gpgv 15,1 kB] [Waiting for headers] [Waiting100% [Packages 3 967 kB] [Waiting for headers] [Waiting for headers] [Waiting                                                                                Hit http://lv.archive.ubuntu.com trusty-backports/main i386 Packages
-100% [Packages 3 967 kB] [Waiting for headers] [Waiting for headers] [Waiting 100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Packages 220 kB] [Waiting for headers] [Waiting for headers] [Waiting for100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Translation-en 6 192 B] [Waiting for headers] [Waiting for headers] [Wai100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Packages 3 396 B] [Waiting for headers] [Waiting for headers] [Waiting f100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Packages 1 216 kB] [Waiting for headers] [Waiting for headers] [Waiting                                                                                Hit http://security.ubuntu.com trusty-security/restricted i386 Packages
-100% [Packages 1 216 kB] [Waiting for headers] [Waiting for headers] [Waiting                                                                                Hit http://ppa.launchpad.net trusty/main amd64 Packages
-100% [Packages 1 216 kB] [Waiting for headers] [Waiting for headers] [Waiting 100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Packages 59,0 kB] [Waiting for headers] [Waiting for headers] [Waiting fo                                                                               Hit http://lv.archive.ubuntu.com trusty-backports/restricted i386 Packages
-100% [Packages 59,0 kB] [Waiting for headers] [Waiting for headers] [Waiting fo100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Packages 129 kB] [Waiting for headers] [Waiting for headers] [Waiting for100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Packages 1 020 B] [Waiting for headers] [Waiting for headers] [Waiting f100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Packages 0 B] [Waiting for headers] [Waiting for headers] [Waiting for he100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting                                                                               Hit http://ppa.launchpad.net trusty/main i386 Packages
-100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Packages 1 020 B] [Waiting for headers] [Waiting for headers] [Waiting f100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting                                                                               Hit http://lv.archive.ubuntu.com trusty-backports/universe i386 Packages
-100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Packages 219 kB] [Waiting for headers] [Waiting for headers] [Waiting for100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting                                                                               Hit http://ppa.launchpad.net trusty/main Translation-en
-100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Translation-en 444 B] [Waiting for headers] [Waiting for headers] [Waitin100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting                                                                               Hit http://lv.archive.ubuntu.com trusty-backports/multiverse i386 Packages
-100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Packages 3 341 B] [Waiting for headers] [Waiting for headers] [Waiting f100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting                                                                               Hit http://security.ubuntu.com trusty-security/universe i386 Packages
-100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Packages 1 004 kB] [Waiting for headers] [Waiting for headers] [Waiting 100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting                                                                               Hit http://lv.archive.ubuntu.com trusty-backports/main Translation-en
-100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Translation-en 28,1 kB] [Waiting for headers] [Waiting for headers] [Wait100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting                                                                               Hit http://lv.archive.ubuntu.com trusty-backports/multiverse Translation-en
-100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Translation-en 2 242 B] [Waiting for headers] [Waiting for headers] [Wai100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting                                                                               Hit http://lv.archive.ubuntu.com trusty-backports/restricted Translation-en
-100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting                                                                               Hit http://security.ubuntu.com trusty-security/multiverse i386 Packages
-100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting                                                                               Hit http://security.ubuntu.com trusty-security/main Translation-en
-100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Translation-en 5 583 kB] [Waiting for headers] [Waiting for headers] [Wa                                                                               Hit http://lv.archive.ubuntu.com trusty-backports/universe Translation-en
-100% [Translation-en 5 583 kB] [Waiting for headers] [Waiting for headers] [Wa                                                                               Hit http://lv.archive.ubuntu.com trusty Release
-100% [Translation-en 5 583 kB] [Waiting for headers] [Waiting for headers] [Wa100% [Translation-en 5 583 kB] [Release gpgv 58,5 kB] [Waiting for headers] [W100% [Translation-en 5 583 kB] [Waiting for headers] [Waiting for headers] [Wa                                                                               Hit http://lv.archive.ubuntu.com trusty/main Sources
-100% [Translation-en 5 583 kB] [Waiting for headers] [Waiting for headers] [Wa                                                                               Ign http://cran.rstudio.com trusty/ Translation-en_US
-100% [Translation-en 5 583 kB] [Waiting for headers] [Waiting for headers] [Wa                                                                               Hit http://security.ubuntu.com trusty-security/multiverse Translation-en
-100% [Translation-en 5 583 kB] [Waiting for headers] [Waiting for headers] [Wa                                                                               Hit http://lv.archive.ubuntu.com trusty/restricted Sources
-100% [Translation-en 5 583 kB] [Waiting for headers] [Waiting for headers] [Wa100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Translation-en 155 kB] [Waiting for headers] [Waiting for headers] [Waiti100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Sources 5 000 kB] [Waiting for headers] [Waiting for headers] [Waiting f                                                                               Hit http://lv.archive.ubuntu.com trusty/universe Sources
-100% [Sources 5 000 kB] [Waiting for headers] [Waiting for headers] [Waiting f                                                                               Hit http://lv.archive.ubuntu.com trusty/multiverse Sources
-100% [Sources 5 000 kB] [Waiting for headers] [Waiting for headers] [Waiting f                                                                               Hit http://security.ubuntu.com trusty-security/restricted Translation-en
-100% [Sources 5 000 kB] [Waiting for headers] [Waiting for headers] [Waiting f100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Translation-en 7 412 B] [Waiting for headers] [Waiting for headers] [Wai100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Sources 22,9 kB] [Waiting for headers] [Waiting for headers] [Waiting for100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting100% [Sources 27,9 MB] [Waiting for headers] [Waiting for headers] [Waiting for                                                                               Hit http://lv.archive.ubuntu.com trusty/main amd64 Packages
-100% [Sources 27,9 MB] [Waiting for headers] [Waiting for headers] [Waiting for                                                                               Ign http://cran.rstudio.com trusty/ Translation-en
-100% [Sources 27,9 MB] [Waiting for headers] [Waiting for headers] [Waiting for                                                                               Hit http://lv.archive.ubuntu.com trusty/restricted amd64 Packages
-100% [Sources 27,9 MB] [Waiting for headers] [Waiting for headers] [Waiting for                                                                               Ign http://repository.spotify.com stable/non-free Translation-en_US
-100% [Sources 27,9 MB] [Waiting for headers] [Waiting for headers] [Waiting for                                                                               Hit http://security.ubuntu.com trusty-security/universe Translation-en
-100% [Sources 27,9 MB] [Waiting for headers] [Waiting for headers] [Waiting for                                                                               Hit http://lv.archive.ubuntu.com trusty/universe amd64 Packages
-100% [Sources 27,9 MB] [Waiting for headers] [Waiting for headers] [Waiting for                                                                               Hit http://lv.archive.ubuntu.com trusty/multiverse amd64 Packages
-100% [Sources 27,9 MB] [Waiting for headers] [Waiting for headers] [Waiting for                                                                               Hit http://lv.archive.ubuntu.com trusty/main i386 Packages
-100% [Sources 27,9 MB] [Waiting for headers] [Waiting for headers] [Waiting for                                                                               Ign http://repository.spotify.com stable/non-free Translation-en
-100% [Sources 27,9 MB] [Waiting for headers] [Waiting for headers] [Waiting for                                                                               Hit http://lv.archive.ubuntu.com trusty/restricted i386 Packages
-100% [Sources 27,9 MB] [Waiting for headers] [Waiting for headers] [Waiting for                                                                               Hit http://lv.archive.ubuntu.com trusty/universe i386 Packages
-                                                                               100% [Sources 27,9 MB] [Waiting for headers] [Waiting for headers]                                                                  Hit http://lv.archive.ubuntu.com trusty/multiverse i386 Packages
-100% [Sources 27,9 MB] [Waiting for headers] [Waiting for headers]                                                                  Hit http://lv.archive.ubuntu.com trusty/main Translation-en
-100% [Sources 27,9 MB] [Waiting for headers] [Waiting for headers]                                                                  100% [Waiting for headers] [Waiting for headers] [Waiting for headers]                                                                      100% [Sources 711 kB] [Waiting for headers] [Waiting for headers] [Waiting for                                                                                100% [Waiting for headers] [Waiting for headers] [Waiting for headers]                                                                      100% [Translation-en 25,9 kB] [Waiting for headers] [Waiting for headers] [Wait                                                                               100% [Waiting for headers] [Waiting for headers] [Waiting for headers]                                                                      100% [Packages 8 235 kB] [Waiting for headers] [Waiting for headers] [Waiting                                                                                Hit http://lv.archive.ubuntu.com trusty/multiverse Translation-en
-100% [Packages 8 235 kB] [Waiting for headers] [Waiting for headers] [Waiting                                                                                100% [Waiting for headers] [Waiting for headers] [Waiting for headers]                                                                      100% [Packages 184 kB] [Waiting for headers] [Waiting for headers] [Waiting for                                                                               100% [Waiting for headers] [Waiting for headers] [Waiting for headers]                                                                      100% [Translation-en 510 kB] [Waiting for headers] [Waiting for headers] [Waiti                                                                               100% [Waiting for headers] [Waiting for headers] [Waiting for headers]                                                                      100% [Packages 31,7 MB] [Waiting for headers] [Waiting for headers] [Waiting fo                                                                               Hit http://lv.archive.ubuntu.com trusty/restricted Translation-en
-                                                                               100% [Packages 31,7 MB] [Waiting for headers] [Waiting for headers]                                                                   Hit http://lv.archive.ubuntu.com trusty/universe Translation-en
-100% [Packages 31,7 MB] [Waiting for headers] [Waiting for headers]                                                                   Ign http://cran.cnr.berkeley.edu trusty/ Translation-en_US
-100% [Packages 31,7 MB] [Waiting for headers] [Waiting for headers]                                                                   100% [Waiting for headers] [Waiting for headers] [Waiting for headers]                                                                      100% [Packages 664 kB] [Waiting for headers] [Waiting for headers] [Waiting for                                                                               100% [Waiting for headers] [Waiting for headers] [Waiting for headers]                                                                      100% [Packages 8 205 kB] [Waiting for headers] [Waiting for headers] [Waiting                                                                                Ign http://storage.googleapis.com stable/jdk1.8 Translation-en_US
-                                                                               100% [Packages 8 205 kB] [Waiting for headers] [Waiting for headers]                                                                     Ign http://lv.archive.ubuntu.com trusty/main Translation-en_US
-100% [Packages 8 205 kB] [Waiting for headers] [Waiting for headers]                                                                     100% [Waiting for headers] [Waiting for headers] [Waiting for headers]                                                                      100% [Packages 185 kB] [Waiting for headers] [Waiting for headers] [Waiting for                                                                               100% [Waiting for headers] [Waiting for headers] [Waiting for headers]                                                                      100% [Packages 31,7 MB] [Waiting for headers] [Waiting for headers] [Waiting fo                                                                               Ign http://lv.archive.ubuntu.com trusty/multiverse Translation-en_US
-                                                                               100% [Packages 31,7 MB] [Waiting for headers] [Waiting for headers]                                                                   Ign http://cran.cnr.berkeley.edu trusty/ Translation-en
-100% [Packages 31,7 MB] [Waiting for headers] [Waiting for headers]                                                                   Ign http://lv.archive.ubuntu.com trusty/restricted Translation-en_US
-                                                                   100% [Packages 31,7 MB] [Waiting for headers]                                             Ign http://lv.archive.ubuntu.com trusty/universe Translation-en_US
-100% [Packages 31,7 MB] [Waiting for headers]                                             Ign http://storage.googleapis.com stable/jdk1.8 Translation-en
-                                             100% [Packages 31,7 MB]                       100% [Working]              100% [Packages 674 kB]                      100% [Working]              100% [Translation-en 4 149 kB]                               100% [Working]              100% [Translation-en 409 kB]                            100% [Working]              100% [Translation-en 21,2 kB]                             100% [Working]              100% [Translation-en 18,6 MB]                             100% [Working]              Reading package lists... 0%Reading package lists... 0%Reading package lists... 0%Reading package lists... 0%Reading package lists... 1%Reading package lists... 6%Reading package lists... 6%Reading package lists... 6%Reading package lists... 6%Reading package lists... 23%Reading package lists... 26%Reading package lists... 26%Reading package lists... 27%Reading package lists... 27%Reading package lists... 32%Reading package lists... 32%Reading package lists... 32%Reading package lists... 32%Reading package lists... 53%Reading package lists... 53%Reading package lists... 53%Reading package lists... 53%Reading package lists... 55%Reading package lists... 56%Reading package lists... 56%Reading package lists... 56%Reading package lists... 56%Reading package lists... 56%Reading package lists... 56%Reading package lists... 68%Reading package lists... 68%Reading package lists... 73%Reading package lists... 73%Reading package lists... 73%Reading package lists... 73%Reading package lists... 74%Reading package lists... 74%Reading package lists... 74%Reading package lists... 74%Reading package lists... 79%Reading package lists... 79%Reading package lists... 79%Reading package lists... 79%Reading package lists... 80%Reading package lists... 80%Reading package lists... 80%Reading package lists... 80%Reading package lists... 83%Reading package lists... 85%Reading package lists... 85%Reading package lists... 85%Reading package lists... 85%Reading package lists... 85%Reading package lists... 85%Reading package lists... 86%Reading package lists... 86%Reading package lists... 86%Reading package lists... 86%Reading package lists... 86%Reading package lists... 86%Reading package lists... 86%Reading package lists... 86%Reading package lists... 86%Reading package lists... 86%Reading package lists... 86%Reading package lists... 86%Reading package lists... 86%Reading package lists... 86%Reading package lists... 86%Reading package lists... 86%Reading package lists... 86%Reading package lists... 86%Reading package lists... 86%Reading package lists... 86%Reading package lists... 86%Reading package lists... 86%Reading package lists... 86%Reading package lists... 86%Reading package lists... 86%Reading package lists... 86%Reading package lists... 89%Reading package lists... 89%Reading package lists... 89%Reading package lists... 89%Reading package lists... 90%Reading package lists... 90%Reading package lists... 90%Reading package lists... 90%Reading package lists... 92%Reading package lists... 92%Reading package lists... 92%Reading package lists... 92%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 97%Reading package lists... 97%Reading package lists... 97%Reading package lists... 97%Reading package lists... 97%Reading package lists... 97%Reading package lists... 97%Reading package lists... 97%Reading package lists... 97%Reading package lists... 97%Reading package lists... 97%Reading package lists... 97%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... Done
-]0;eduards@Esuba: /media/eduards/Data/Programmingeduards@Esuba:/media/eduards/Data/Programming$ sudo apt-get install ruby ruby-all-dev
-Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
-Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree       
-Reading state information... 0%Reading state information... 0%Reading state information... Done
-ruby is already the newest version.
-ruby-all-dev is already the newest version.
-The following packages were automatically installed and are no longer required:
-  gdebi-core libgconf2-4 libmbim-glib0 libpython3-dev libpython3.4-dev
-  libqmi-glib0 linux-headers-4.4.0-53 linux-headers-4.4.0-53-generic
-  linux-headers-4.4.0-66 linux-headers-4.4.0-66-generic linux-headers-4.4.0-67
-  linux-headers-4.4.0-67-generic linux-headers-4.4.0-70
-  linux-headers-4.4.0-70-generic linux-headers-4.4.0-72
-  linux-headers-4.4.0-72-generic linux-headers-4.4.0-75
-  linux-headers-4.4.0-75-generic linux-image-4.4.0-53-generic
-  linux-image-4.4.0-66-generic linux-image-4.4.0-67-generic
-  linux-image-4.4.0-70-generic linux-image-4.4.0-72-generic
-  linux-image-4.4.0-75-generic linux-image-extra-4.4.0-53-generic
-  linux-image-extra-4.4.0-66-generic linux-image-extra-4.4.0-67-generic
-  linux-image-extra-4.4.0-70-generic linux-image-extra-4.4.0-72-generic
-  linux-image-extra-4.4.0-75-generic linux-signed-image-4.4.0-53-generic
-  linux-signed-image-4.4.0-66-generic linux-signed-image-4.4.0-67-generic
-  linux-signed-image-4.4.0-70-generic linux-signed-image-4.4.0-72-generic
-  linux-signed-image-4.4.0-75-generic packagekit-backend-aptcc
-  packagekit-tools python-pycurl python3-packagekit usb-modeswitch
-  usb-modeswitch-data
-Use 'apt-get autoremove' to remove them.
-0 upgraded, 0 newly installed, 0 to remove and 3 not upgraded.
-]0;eduards@Esuba: /media/eduards/Data/Programmingeduards@Esuba:/media/eduards/Data/Programming$ sudo apt-get install ruby2.3-dev
-Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
-Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree       
-Reading state information... 0%Reading state information... 0%Reading state information... Done
-The following packages were automatically installed and are no longer required:
-  gdebi-core libgconf2-4 libmbim-glib0 libpython3-dev libpython3.4-dev
-  libqmi-glib0 linux-headers-4.4.0-53 linux-headers-4.4.0-53-generic
-  linux-headers-4.4.0-66 linux-headers-4.4.0-66-generic linux-headers-4.4.0-67
-  linux-headers-4.4.0-67-generic linux-headers-4.4.0-70
-  linux-headers-4.4.0-70-generic linux-headers-4.4.0-72
-  linux-headers-4.4.0-72-generic linux-headers-4.4.0-75
-  linux-headers-4.4.0-75-generic linux-image-4.4.0-53-generic
-  linux-image-4.4.0-66-generic linux-image-4.4.0-67-generic
-  linux-image-4.4.0-70-generic linux-image-4.4.0-72-generic
-  linux-image-4.4.0-75-generic linux-image-extra-4.4.0-53-generic
-  linux-image-extra-4.4.0-66-generic linux-image-extra-4.4.0-67-generic
-  linux-image-extra-4.4.0-70-generic linux-image-extra-4.4.0-72-generic
-  linux-image-extra-4.4.0-75-generic linux-signed-image-4.4.0-53-generic
-  linux-signed-image-4.4.0-66-generic linux-signed-image-4.4.0-67-generic
-  linux-signed-image-4.4.0-70-generic linux-signed-image-4.4.0-72-generic
-  linux-signed-image-4.4.0-75-generic packagekit-backend-aptcc
-  packagekit-tools python-pycurl python3-packagekit usb-modeswitch
-  usb-modeswitch-data
-Use 'apt-get autoremove' to remove them.
-The following extra packages will be installed:
-  libruby2.3
-The following NEW packages will be installed:
-  libruby2.3 ruby2.3-dev
-0 upgraded, 2 newly installed, 0 to remove and 3 not upgraded.
-Need to get 5 015 kB of archives.
-After this operation, 21,4 MB of additional disk space will be used.
-Do you want to continue? [Y/n] y
-0% [Working]            Get:1 http://ppa.launchpad.net/brightbox/ruby-ng/ubuntu/ trusty/main libruby2.3 amd64 2.3.4-1bbox1~trusty2 [3 985 kB]
-            0% [1 libruby2.3 1 153 B/3 985 kB 0%]14% [1 libruby2.3 703 kB/3 985 kB 18%]                                       39% [1 libruby2.3 1 951 kB/3 985 kB 49%]73% [1 libruby2.3 3 662 kB/3 985 kB 92%]                                          79% [Working]             Get:2 http://ppa.launchpad.net/brightbox/ruby-ng/ubuntu/ trusty/main ruby2.3-dev amd64 2.3.4-1bbox1~trusty2 [1 030 kB]
-             79% [2 ruby2.3-dev 1 154 B/1 030 kB 0%]                                         100% [Working]              Fetched 5 015 kB in 2s (2 464 kB/s)
-Selecting previously unselected package libruby2.3:amd64.
-(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 697922 files and directories currently installed.)
-Preparing to unpack .../libruby2.3_2.3.4-1bbox1~trusty2_amd64.deb ...
-Unpacking libruby2.3:amd64 (2.3.4-1bbox1~trusty2) ...
-Selecting previously unselected package ruby2.3-dev:amd64.
-Preparing to unpack .../ruby2.3-dev_2.3.4-1bbox1~trusty2_amd64.deb ...
-Unpacking ruby2.3-dev:amd64 (2.3.4-1bbox1~trusty2) ...
-Setting up libruby2.3:amd64 (2.3.4-1bbox1~trusty2) ...
-Setting up ruby2.3-dev:amd64 (2.3.4-1bbox1~trusty2) ...
-Processing triggers for libc-bin (2.19-0ubuntu6.11) ...
-]0;eduards@Esuba: /media/eduards/Data/Programmingeduards@Esuba:/media/eduards/Data/Programming$ sudo apt-get install ruby2.3-dev ruby-all-devupdate[Kjekyll new test_suite[4Prm -r test_suite/jekyll new test_suite
-/var/lib/gems/2.2.0/gems/safe_yaml-1.0.4/lib/safe_yaml/psych_resolver.rb:4:in `<class:PsychResolver>': uninitialized constant Psych::Nodes (NameError)
-	from /var/lib/gems/2.2.0/gems/safe_yaml-1.0.4/lib/safe_yaml/psych_resolver.rb:2:in `<module:SafeYAML>'
-	from /var/lib/gems/2.2.0/gems/safe_yaml-1.0.4/lib/safe_yaml/psych_resolver.rb:1:in `<top (required)>'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /var/lib/gems/2.2.0/gems/safe_yaml-1.0.4/lib/safe_yaml/load.rb:131:in `<module:SafeYAML>'
-	from /var/lib/gems/2.2.0/gems/safe_yaml-1.0.4/lib/safe_yaml/load.rb:26:in `<top (required)>'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /var/lib/gems/2.2.0/gems/jekyll-3.4.3/lib/jekyll.rb:29:in `<top (required)>'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /var/lib/gems/2.2.0/gems/jekyll-3.4.3/exe/jekyll:6:in `<top (required)>'
-	from /usr/local/bin/jekyll:23:in `load'
-	from /usr/local/bin/jekyll:23:in `<main>'
-]0;eduards@Esuba: /media/eduards/Data/Programmingeduards@Esuba:/media/eduards/Data/Programming$ gem update jekyll
-Updating installed gems
-Nothing to update
-]0;eduards@Esuba: /media/eduards/Data/Programmingeduards@Esuba:/media/eduards/Data/Programming$ gem update jekylljekyll new test_suitesudo apt-get install ruby2.3-dev ruby-all-devupdate[Kjekyll new test_suite
-/var/lib/gems/2.2.0/gems/safe_yaml-1.0.4/lib/safe_yaml/psych_resolver.rb:4:in `<class:PsychResolver>': uninitialized constant Psych::Nodes (NameError)
-	from /var/lib/gems/2.2.0/gems/safe_yaml-1.0.4/lib/safe_yaml/psych_resolver.rb:2:in `<module:SafeYAML>'
-	from /var/lib/gems/2.2.0/gems/safe_yaml-1.0.4/lib/safe_yaml/psych_resolver.rb:1:in `<top (required)>'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /var/lib/gems/2.2.0/gems/safe_yaml-1.0.4/lib/safe_yaml/load.rb:131:in `<module:SafeYAML>'
-	from /var/lib/gems/2.2.0/gems/safe_yaml-1.0.4/lib/safe_yaml/load.rb:26:in `<top (required)>'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /var/lib/gems/2.2.0/gems/jekyll-3.4.3/lib/jekyll.rb:29:in `<top (required)>'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /var/lib/gems/2.2.0/gems/jekyll-3.4.3/exe/jekyll:6:in `<top (required)>'
-	from /usr/local/bin/jekyll:23:in `load'
-	from /usr/local/bin/jekyll:23:in `<main>'
-]0;eduards@Esuba: /media/eduards/Data/Programmingeduards@Esuba:/media/eduards/Data/Programming$ ls
-[0m[01;34mAssembly[0m  [01;34mC[0m  [01;34meduardinjo.github.io[0m  [01;34mHaskell[0m  [01;34mJekyll[0m  [01;34mLTspice[0m  [01;34mMatlab[0m  [01;34mMyBlog[0m  [01;34mPython[0m
-]0;eduards@Esuba: /media/eduards/Data/Programmingeduards@Esuba:/media/eduards/Data/Programming$ gem install jekyll bundler
-Successfully installed jekyll-3.4.3
-Parsing documentation for jekyll-3.4.3
-Done installing documentation for jekyll after 1 seconds
-Successfully installed bundler-1.15.1
-Parsing documentation for bundler-1.15.1
-Done installing documentation for bundler after 5 seconds
-2 gems installed
-]0;eduards@Esuba: /media/eduards/Data/Programmingeduards@Esuba:/media/eduards/Data/Programming$ ge[K[Kjekyll new blog
-/var/lib/gems/2.2.0/gems/safe_yaml-1.0.4/lib/safe_yaml/psych_resolver.rb:4:in `<class:PsychResolver>': uninitialized constant Psych::Nodes (NameError)
-	from /var/lib/gems/2.2.0/gems/safe_yaml-1.0.4/lib/safe_yaml/psych_resolver.rb:2:in `<module:SafeYAML>'
-	from /var/lib/gems/2.2.0/gems/safe_yaml-1.0.4/lib/safe_yaml/psych_resolver.rb:1:in `<top (required)>'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /var/lib/gems/2.2.0/gems/safe_yaml-1.0.4/lib/safe_yaml/load.rb:131:in `<module:SafeYAML>'
-	from /var/lib/gems/2.2.0/gems/safe_yaml-1.0.4/lib/safe_yaml/load.rb:26:in `<top (required)>'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /var/lib/gems/2.2.0/gems/jekyll-3.4.3/lib/jekyll.rb:29:in `<top (required)>'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /var/lib/gems/2.2.0/gems/jekyll-3.4.3/exe/jekyll:6:in `<top (required)>'
-	from /usr/local/bin/jekyll:23:in `load'
-	from /usr/local/bin/jekyll:23:in `<main>'
-]0;eduards@Esuba: /media/eduards/Data/Programmingeduards@Esuba:/media/eduards/Data/Programming$ ruby -v
-ruby 2.2.0p0 (2014-12-25 revision 49005) [x86_64-linux]
-]0;eduards@Esuba: /media/eduards/Data/Programmingeduards@Esuba:/media/eduards/Data/Programming$ ^C
-]0;eduards@Esuba: /media/eduards/Data/Programmingeduards@Esuba:/media/eduards/Data/Programming$ gem outdad[Kted
-listen (3.0.8 < 3.1.5)
-]0;eduards@Esuba: /media/eduards/Data/Programmingeduards@Esuba:/media/eduards/Data/Programming$ ruby -h
-Usage: ruby [switches] [--] [programfile] [arguments]
-  -0[octal]       specify record separator (\0, if no argument)
-  -a              autosplit mode with -n or -p (splits $_ into $F)
-  -c              check syntax only
-  -Cdirectory     cd to directory before executing your script
-  -d              set debugging flags (set $DEBUG to true)
-  -e 'command'    one line of script. Several -e's allowed. Omit [programfile]
-  -Eex[:in]       specify the default external and internal character encodings
-  -Fpattern       split() pattern for autosplit (-a)
-  -i[extension]   edit ARGV files in place (make backup if extension supplied)
-  -Idirectory     specify $LOAD_PATH directory (may be used more than once)
-  -l              enable line ending processing
-  -n              assume 'while gets(); ... end' loop around your script
-  -p              assume loop like -n but print line also like sed
-  -rlibrary       require the library before executing your script
-  -s              enable some switch parsing for switches after script name
-  -S              look for the script using PATH environment variable
-  -T[level=1]     turn on tainting checks
-  -v              print version number, then turn on verbose mode
-  -w              turn warnings on for your script
-  -W[level=2]     set warning level; 0=silence, 1=medium, 2=verbose
-  -x[directory]   strip off text before #!ruby line and perhaps cd to directory
-  -h              show this message, --help for more info
-]0;eduards@Esuba: /media/eduards/Data/Programmingeduards@Esuba:/media/eduards/Data/Programming$  gem update --system  
-Updating rubygems-update
-Fetching: rubygems-update-2.6.12.gemFetching: rubygems-update-2.6.12.gem (  1%)Fetching: rubygems-update-2.6.12.gem (  2%)Fetching: rubygems-update-2.6.12.gem (  3%)Fetching: rubygems-update-2.6.12.gem (  4%)Fetching: rubygems-update-2.6.12.gem (  5%)Fetching: rubygems-update-2.6.12.gem (  6%)Fetching: rubygems-update-2.6.12.gem (  7%)Fetching: rubygems-update-2.6.12.gem (  8%)Fetching: rubygems-update-2.6.12.gem (  9%)Fetching: rubygems-update-2.6.12.gem ( 10%)Fetching: rubygems-update-2.6.12.gem ( 12%)Fetching: rubygems-update-2.6.12.gem ( 13%)Fetching: rubygems-update-2.6.12.gem ( 14%)Fetching: rubygems-update-2.6.12.gem ( 15%)Fetching: rubygems-update-2.6.12.gem ( 16%)Fetching: rubygems-update-2.6.12.gem ( 17%)Fetching: rubygems-update-2.6.12.gem ( 18%)Fetching: rubygems-update-2.6.12.gem ( 20%)Fetching: rubygems-update-2.6.12.gem ( 22%)Fetching: rubygems-update-2.6.12.gem ( 24%)Fetching: rubygems-update-2.6.12.gem ( 26%)Fetching: rubygems-update-2.6.12.gem ( 28%)Fetching: rubygems-update-2.6.12.gem ( 31%)Fetching: rubygems-update-2.6.12.gem ( 33%)Fetching: rubygems-update-2.6.12.gem ( 35%)Fetching: rubygems-update-2.6.12.gem ( 37%)Fetching: rubygems-update-2.6.12.gem ( 39%)Fetching: rubygems-update-2.6.12.gem ( 41%)Fetching: rubygems-update-2.6.12.gem ( 44%)Fetching: rubygems-update-2.6.12.gem ( 46%)Fetching: rubygems-update-2.6.12.gem ( 48%)Fetching: rubygems-update-2.6.12.gem ( 49%)Fetching: rubygems-update-2.6.12.gem ( 51%)Fetching: rubygems-update-2.6.12.gem ( 53%)Fetching: rubygems-update-2.6.12.gem ( 55%)Fetching: rubygems-update-2.6.12.gem ( 58%)Fetching: rubygems-update-2.6.12.gem ( 60%)Fetching: rubygems-update-2.6.12.gem ( 62%)Fetching: rubygems-update-2.6.12.gem ( 64%)Fetching: rubygems-update-2.6.12.gem ( 66%)Fetching: rubygems-update-2.6.12.gem ( 68%)Fetching: rubygems-update-2.6.12.gem ( 71%)Fetching: rubygems-update-2.6.12.gem ( 73%)Fetching: rubygems-update-2.6.12.gem ( 75%)Fetching: rubygems-update-2.6.12.gem ( 77%)Fetching: rubygems-update-2.6.12.gem ( 79%)Fetching: rubygems-update-2.6.12.gem ( 81%)Fetching: rubygems-update-2.6.12.gem ( 83%)Fetching: rubygems-update-2.6.12.gem ( 86%)Fetching: rubygems-update-2.6.12.gem ( 87%)Fetching: rubygems-update-2.6.12.gem ( 88%)Fetching: rubygems-update-2.6.12.gem ( 89%)Fetching: rubygems-update-2.6.12.gem ( 90%)Fetching: rubygems-update-2.6.12.gem ( 91%)Fetching: rubygems-update-2.6.12.gem ( 92%)Fetching: rubygems-update-2.6.12.gem ( 94%)Fetching: rubygems-update-2.6.12.gem ( 96%)Fetching: rubygems-update-2.6.12.gem ( 98%)Fetching: rubygems-update-2.6.12.gem (100%)Fetching: rubygems-update-2.6.12.gem (100%)
-Successfully installed rubygems-update-2.6.12
-Parsing documentation for rubygems-update-2.6.12
-Installing ri documentation for rubygems-update-2.6.12
-Installing darkfish documentation for rubygems-update-2.6.12
-Done installing documentation for rubygems-update after 41 seconds
-Parsing documentation for rubygems-update-2.6.12
-Done installing documentation for rubygems-update after 0 seconds
-Installing RubyGems 2.6.12
-RubyGems 2.6.12 installed
-Parsing documentation for rubygems-2.6.12
-Installing ri documentation for rubygems-2.6.12
-
-=== 2.6.12 / 2017-04-30
-
-Bug fixes:
-
-* Fix test_self_find_files_with_gemfile to sort expected files. Pull
-  request #1880 by Kazuaki Matsuo.
-* Fix issue for MinGW / MSYS2 builds and testing. Pull request #1879 by
-  MSP-Greg.
-* Fix gem open to open highest version number rather than lowest. Pull
-  request #1877 by Tim Pope.
-* Add a test for requiring a default spec as installed by the ruby
-  installer. Pull request #1899 by Samuel Giddins.
-* Fix broken --exact parameter to gem command. Pull request #1873 by Jason
-  Frey.
-* [Installer] Generate backwards-compatible binstubs. Pull request #1904
-  by Samuel Giddins.
-* Fix pre-existing source recognition on add action. Pull request #1883 by
-  Jonathan Claudius.
-* Prevent negative IDs in output of #inspect. Pull request #1908 by Vít
-  Ondruch.
-* Allow Gem.finish_resolve to respect already-activated specs. Pull
-  request #1910 by Samuel Giddins.
-
-=== 2.6.11 / 2017-03-16
-
-Bug fixes:
-
-* Fixed broken tests on ruby-head. Pull request #1841 by
-  SHIBATA Hiroshi.
-* Update vendored Molinillo to 0.5.7. Pull request #1859 by Samuel
-  Giddins.
-* Avoid activating Ruby 2.5 default gems when possible. Pull request #1843
-  by Samuel Giddins.
-* Use improved resolver sorting algorithm. Pull request #1856 by
-  Samuel Giddins.
-
-=== 2.6.10 / 2017-01-23
-
-Bug fixes:
-
-* Fix `require` calling the wrong `gem` method when it is overridden.
-  Pull request #1822 by Samuel Giddins.
-
-=== 2.6.9 / 2017-01-20
-
-Bug fixes:
-
-* Allow initializing versions with empty strings. Pull request #1767 by
-  Luis Sagastume.
-* Fix TypeError on 2.4. Pull request #1788 by Nobuyoshi Nakada.
-* Don't output mkmf.log message if compilation didn't fail. Pull request
-  #1808 by Jeremy Evans.
-* Fixed broken links and overzealous URL encoding in gem server. Pull
-  request #1809 by Nicole Orchard.
-* Update vendored Molinillo to 0.5.5. Pull request #1812 by Samuel
-  Giddins.
-* RakeBuilder: avoid frozen string issue. Pull request #1819 by Olle
-  Jonsson.
-
-=== 2.6.8 / 2016-10-29
-
-Bug fixes:
-
-* Improve SSL verification failure message. Pull request #1751
-  by Eric Hodel.
-* Ensure `to_spec` falls back on prerelease specs. Pull request
-  #1755 by André Arko.
-* Update vendored Molinillo to 0.5.3. Pull request #1763 by
-  Samuel Giddins.
-
-=== 2.6.7 / 2016-09-26
-
-Bug fixes:
-
-* Install native extensions in the correct location when using the
-  `--user-install` flag. Pull request #1683 by Noah Kantrowitz.
-* When calling `Gem.sources`, load sources from `configuration`
-  if present, else use the default sources. Pull request #1699
-  by Luis Sagastume.
-* Fail gracefully when attempting to redirect without a Location.
-  Pull request #1711 by Samuel Giddins.
-* Update vendored Molinillo to 0.5.1. Pull request #1714 by
-  Samuel Giddins.
-
-=== 2.6.6 / 2016-06-22
-
-Bug fixes:
-
-* Sort installed versions to make sure we install the latest version when
-  running `gem update --system`. As a one-time fix, run
-  `gem update --system=2.6.6`. Pull request #1601 by David Radcliffe.
-
-=== 2.6.5 / 2016-06-21
-
-Minor enhancements:
-
-* Support for unified Integer in Ruby 2.4. Pull request #1618
-  by SHIBATA Hiroshi.
-* Update vendored Molinillo to 0.5.0 for performance improvements.
-  Pull request #1638 by Samuel Giddins.
-
-Bug fixes:
-
-* Raise an explicit error if Signer#sign is called with no certs. Pull
-  request #1605 by Daniel Berger.
-* Update `update_bundled_ca_certificates` utility script for directory
-  nesting. Pull request #1583 by James Wen.
-* Fix broken symlink support in tar writer (+ fix broken test). Pull
-  request #1578 by Cezary Baginski.
-* Remove extension directory before (re-)installing. Pull request #1576
-  by Jeremy Hinegardner.
-* Regenerate test CA certificates with appropriate extensions. Pull
-  request #1611 by rhenium.
-* Rubygems does not terminate on failed file lock when not superuser. Pull
-  request #1582 by Ellen Marie Dash.
-* Fix tar headers with a 101 character name. Pull request #1612 by Paweł
-  Tomulik.
-* Add Gem.platform_defaults to allow implementations to override defaults.
-  Pull request #1644 by Charles Oliver Nutter.
-* Run Bundler tests on TravisCI. Pull request #1650 by Samuel Giddins.
-
-=== 2.6.4 / 2016-04-26
-
-Minor enhancements:
-
-* Use Gem::Util::NULL_DEVICE instead of hard coded strings. Pull request #1588
-  by Chris Charabaruk.
-* Use File.symlink on MS Windows if supported. Pull request #1418
-  by Nobuyoshi Nakada.
-
-Bug fixes:
-
-* Redact uri password from error output when gem fetch fails. Pull request
-  #1565 by Brian Fletcher.
-* Suppress warnings. Pull request #1594 by Nobuyoshi Nakada.
-* Escape user-supplied content served on web pages by `gem server` to avoid
-  potential XSS vulnerabilities. Samuel Giddins.
-
-=== 2.6.3 / 2016-04-05
-
-Minor enhancements:
-
-* Lazily calculate Gem::LoadError exception messages. Pull request #1550
-  by Aaron Patterson.
-* New fastly cert. Pull request #1548 by David Radcliffe.
-* Organize and cleanup SSL certs. Pull request #1555 by James Wen.
-* [RubyGems] Make deprecation message for paths= more helpful. Pull
-  request #1562 by Samuel Giddins.
-* Show default gems when using "gem list". Pull request #1570 by Luis
-  Sagastume.
-
-Bug fixes:
-
-* Stub ordering should be consistent regardless of how cache is populated.
-  Pull request #1552 by Aaron Patterson.
-* Handle cases when the @@stubs variable contains non-stubs. Pull request
-  #1558 by Per Lundberg.
-* Fix test on Windows for inconsistent temp path. Pull request #1554 by
-  Hiroshi Shirosaki.
-* Fix `Gem.find_spec_for_exe` picks oldest gem. Pull request #1566 by
-  Shinichi Maeshima.
-* [Owner] Fallback to email and userid when owner email is missing. Pull
-  request #1569 by Samuel Giddins.
-* [Installer] Handle nil existing executable. Pull request #1561 by Samuel
-  Giddins.
-* Allow two digit version numbers in the tests. Pull request #1575 by unak.
-
-=== 2.6.2 / 2016-03-12
-
-Bug fixes:
-
-* Fix wrong version of gem activation for bin stub. Pull request #1527 by
-  Aaron Patterson.
-* Speed up gem activation failures. Pull request #1539 by Aaron Patterson.
-* Fix platform sorting in the resolver. Pull request #1542 by Samuel E.
-  Giddins.
-* Ensure we unlock the monitor even if try_activate throws. Pull request
-  #1538 by Charles Oliver Nutter.
-
-
-=== 2.6.1 / 2016-02-28
-
-Bug fixes:
-
-* Ensure `default_path` and `home` are set for paths. Pull request #1513
-  by Aaron Patterson.
-* Restore but deprecate support for Array values on `Gem.paths=`. Pull
-  request #1514 by Aaron Patterson.
-* Fix invalid gem file preventing gem install from working. Pull request
-  #1499 by Luis Sagastume.
-
-=== 2.6.0 / 2016-02-26
-
-Minor enhancements:
-
-* RubyGems now defaults the `gem push` to the gem's "allowed_push_host"
-  metadata setting.  Pull request #1486 by Josh Lane.
-* Update bundled Molinillo to 0.4.3. Pull request #1493 by Samuel E. Giddins.
-* Add version option to gem open command. Pull request #1483 by Hrvoje
-  Šimić.
-* Feature/add silent flag. Pull request #1455 by Luis Sagastume.
-* Allow specifying gem requirements via env variables. Pull request #1472
-  by Samuel E. Giddins.
-
-Bug fixes:
-
-* RubyGems now stores `gem push` credentials under the host you signed-in for.
-  Pull request #1485 by Josh Lane.
-* Move `coding` location to first line. Pull request #1471 by SHIBATA
-  Hiroshi.
-* [PathSupport] Handle a regexp path separator. Pull request #1469 by
-  Samuel E. Giddins.
-* Clean up the PathSupport object. Pull request #1094 by Aaron Patterson.
-* Join with File::PATH_SEPARATOR in Gem.use_paths. Pull request #1476 by
-  Samuel E. Giddins.
-* Handle when the gem home and gem path arent set in the config file. Pull
-  request #1478 by Samuel E. Giddins.
-* Terminate TimeoutHandler. Pull request #1479 by Nobuyoshi Nakada.
-* Remove redundant cache. Pull request #1482 by Eileen M. Uchitelle.
-* Freeze `Gem::Version@segments` instance variable. Pull request #1487 by
-  Ben Dean.
-* Gem cleanup is trying to uninstall gems outside GEM_HOME and reporting
-  an error after it tries. Pull request #1353 by Luis Sagastume.
-* Avoid duplicated sources. Pull request #1489 by Luis Sagastume.
-* Better description for quiet flag. Pull request #1491 by Luis Sagastume.
-* Raise error if find_by_name returns with nil. Pull request #1494 by
-  Zoltán Hegedüs.
-* Find_files only from loaded_gems when using gemdeps. Pull request #1277
-  by Michal Papis.
-
-=== 2.5.2 / 2016-01-31
-
-Bug fixes:
-
-* Fix memoization of Gem::Version#prerelease? Pull request #1125 by Matijs van
-  Zuijlen.
-* Handle trailing colons in GEM_PATH, by Damien Robert.
-* Improve the Gemfile `gemspec` method, fixing #1204 and #1033. Pull request
-  #1276 by Michael Papis.
-* Warn only once when a gemspec license is invalid. Pull request #1414 by Samuel
-  E. Giddins.
-* Check for exact constants before using them, fixing Ruby bug #11940. Pull
-  request #1438 by Nobuyoshi Nakada.
-* Fix building C extensions on Ruby 1.9.x on Windows. Pull request #1453 by Marie
-  Markwell.
-* Handle symlinks containing ".." correctly. Pull request #1457 by Samuel E.
-  Giddins.
-
-Minor enhancements:
-
-* Add `--no-rc` flag, which skips loading `.gemrc`. Pull request #1329 by Luis
-  Sagastume.
-* Allow basic auth to be excluded from `allowed_push_host`. By Josh Lane.
-* Add `gem list --exact`, which finds gems by string match instead of regex. Pull
-  request #1344 by Luis Sagastume.
-* Suggest alternatives when gem license is unknown. Pull request #1443 by Samuel
-  E. Giddins.
-* Print a useful error if a binstub expects a newer version of a gem than is
-  installed. Pull request #1407 by Samuel E. Giddins.
-* Allow the (supported) s3:// scheme to be used with `--source`. Pull request
-  #1416 by Dave Adams.
-* Add `--[no-]post-install-message` to `install` and `update`. Pull request #1162
-  by Josef Šimánek.
-* Add `--host` option to `yank`, providing symmetry with `pull`. Pull request
-  #1361 by Mike Virata-Stone.
-* Update bundled Molinillo to 0.4.1. Pull request #1452 by Samuel E. Giddins.
-* Allow calling `build` without '.gemspec'. Pull request #1454 by Stephen
-  Blackstone.
-* Add support for `source` option on gems in Gemfile. Pull request #1355 by
-  Michael Papis.
-* Function correctly when string literals are frozen on Ruby 2.3. Pull request
-  #1408 by Samuel E. Giddins.
-
-=== 2.5.1 / 2015-12-10
-
-Bug fixes:
-
-* Ensure platform sorting only uses strings. Affected binary installs on Windows.
-  Issue #1369 reported by Ryan Atball (among others).
-  Pull request #1375 by Samuel E. Giddins.
-* Revert PR #1332. Unable to reproduce, and nil should be impossible.
-* Gem::Specification#to_fullpath now returns .rb extensions when such a file
-  exists.  Pull request #1114 by y-yagi.
-* RubyGems now handles Net::HTTPFatalError instead of crashing.  Pull
-  request #1314 by Samuel E. Giddins.
-* Updated bundled Molinillo to 0.4.0.  Pull request #1322, #1396 by Samuel E.
-  Giddins.
-* Improved performance of spec loading by reducing likelihood of loading the
-  complete specification.  Pull request #1373 by Aaron Patterson.
-* Improved caching of requirable files  Pull request #1377 by Aaron Patterson.
-* Fixed activation of gems with development dependencies.  Pull request #1388
-  by Samuel E. Giddins.
-* RubyGems now uses the same Molinillo vendoring strategy as Bundler.  Pull
-  request #1397 by Samuel E. Giddins.
-* Fixed documentation of Gem::Requirement.parse.  Pull request #1398 by
-  Juanito Fatas.
-* RubyGems no longer warns when a prerelease gem has prerelease dependencies.
-  Pull request #1399 by Samuel E. Giddins.
-* Fixed Gem::Version documentation example.  Pull request #1401 by Guilherme
-  Goettems Schneider.
-* Updated documentation links to https://.  Pull request #1404 by Suriyaa
-  Kudo.
-* Fixed double word typo.  Pull request #1411 by Jake Worth.
-
-=== 2.5.0 / 2015-11-03
-
-Major enhancements:
-
-* Added the Gem::Licenses class which provides a set of standard license
-  identifiers as set by spdx.org. This is now used by the
-  Gem::Specification#license attribute to try to standardize (though not
-  enforce) licenses set by gem authors.
-
-  Pull request #1249 by Kyle Mitchell.
-
-Minor enhancements:
-
-* Use Molinillo as the resolver library.  This is the same resolver as used by
-  Bundler.  Pull request #1189 by Samuel E. Giddins.
-* Add `--skip=gem_name` to Pristine command.  Pull request #1018 by windwiny.
-* The parsed gem dependencies file is now available via Gem.gemdeps following
-  Gem.use_gemdeps.  Pull request #1224 by Hsing-Hui Hsu, issue #1213 by
-  Michal Papis.
-* Moved description attribute to recommended for Gem::Specification.
-  Pull request #1046 by Michal Papis
-* Moved `Gem::Indexer#abbreviate` and `#sanitize` to `Gem::Specification`.
-  Pull request #1145 by Arthur Nogueira Neves
-* Cache Gem::Version segments for `#bump` and `#release`.
-  Pull request #1131 by Matijs van Zuijlen
-* Fix edge case in `levenshtein_distance` for comparing longer strings.
-  Pull request #1173 by Richard Schneeman
-* Remove duplication from List#to_a, improving from O(n^2) to O(n) time.
-  Pull request #1200 by Marc Siegel.
-* Gem::Specification.add_specs is deprecated and will be removed from version
-  3.0 with no replacement.  To add specs, install the gem, then reset the
-  cache.
-* Gem::Specification.add_spec is deprecated and will be removed from version
-  3.0 with no replacement.  To add specs, install the gem, then reset the
-  cache.
-* Gem::Specification.remove_spec is deprecated and will be removed from version
-  3.0 with no replacement.  To remove specs, uninstall the gem, then reset the
-  cache by calling Gem::Specification.reset.
-* Call Array#compact before calling Array#uniq for minor speed improvement in
-  the Gem::Specification#files method.
-  Pull request #1253 by Marat Amerov.
-* Use stringio instead of custom String classes.
-  Pull request #1250 by Petr Skocik.
-* Use URI#host instead of URI#hostname to retain backwards compatibility with
-  Ruby 1.9.2 and earlier in util library.
-  Pull request #1288 by Joe Rafaniello.
-* Documentation update for gem sources.
-  Pull request #1324 by Ilya Vassilevsky.
-* Documentation update for required_ruby_version.
-  Pull request #1321 by Matt Patterson.
-* Documentation update for gem update.
-  Pull request #1306 by Tim Blair.
-* Emit a warning on SRV resolve failure.
-  Pull request #1023 by Ivan Kuchin.
-* Allow duplicate dependencies between runtime and development.
-  Pull request #1032 by Murray Steele.
-* The gem env command now shows the user installation directory.
-  Pull request #1343 by Luis Sagastume.
-* The Gem::Platform#=== method now treats a nil cpu arch the same as 'universal'.
-  Pull request #1356 by Daniel Berger.
-* Improved memory performance in Gem::Specification.traverse.  Pull request
-  #1188 by Aaron Patterson.
-* RubyGems packages now support symlinks.  Pull request #1209 by Samuel E.
-  Giddins.
-* RubyGems no longer outputs mkmf.log if it does not exist.  Pull request
-  #1222 by Andrew Hooker.
-* Added Bitrig platform.  Pull request #1233 by John C. Vernaleo.
-* Improved error message for first-time RubyGems developers.  Pull request
-  #1241 by André Arko
-* Improved performance of Gem::Specification#load with cached specs.  Pull
-  request #1297 by Samuel E. Giddins.
-* Gem::RemoteFetcher allows users to set HTTP headers.  Pull request #1363 by
-  Agis Anastasopoulos.
-
-Bug fixes:
-
-* Fixed Rake homepage url in example for Gem::Specification#homepage.
-  Pull request #1171 by Arthur Nogueira Neves
-* Don't crash if partially uninstalled gem can't be found.
-  Pull request #1283 by Cezary Baginski.
-* Test warning cleanup.
-  Pull request #1298 by Samuel E. Giddins.
-* Documentation fix for GemDependencyAPI.
-  Pull request #1308 by Michael Papis.
-* Fetcher now ignores ENOLCK errors in single threaded environments. This
-  handles an issue with gem installation on NFS as best we can. Addresses
-  issue #1176 by Ryan Moore.
-  Pull request #1327 by Daniel Berger.
-* Fix some path quoting issues in the test suite.
-  Pull request #1328 by Gavin Miller.
-* Fix NoMethodError in running ruby processes when gems are uninstalled.
-  Pull request #1332 by Peter Drake.
-* Fixed a potential NoMethodError for gem cleanup.
-  Pull request #1333 by Peter Drake.
-* Fixed gem help bug.
-  Issue #1352 reported by bogem, pull request #1357 by Luis Sagastume.
-* Remove temporary directories after tests finish.  Pull request #1181 by
-  Nobuyoshi Nokada.
-* Update links in RubyGems documentation.  Pull request #1185 by Darío Hereñú.
-* Prerelease gem executables can now be run.  Pull request #1186 by Samuel E.
-  Giddins.
-* Updated RubyGems travis-ci ruby versions.  Pull request #1187 by Samuel E.
-  Giddins.
-* Fixed release date of RubyGems 2.4.6.  Pull request #1190 by Frieder
-  Bluemle.
-* Fixed bugs in gem activation.  Pull request #1202 by Miklós Fazekas.
-* Fixed documentation for `gem list`.  Pull request #1228 by Godfrey Chan.
-* Fixed #1200 history entry.  Pull request #1234 by Marc Siegel.
-* Fixed synchronization issue when resetting the Gem::Specification gem list.
-  Pull request #1239 by Samuel E. Giddins.
-* Fixed running tests in parallel.  Pull request #1257 by SHIBATA Hiroshi.
-* Fixed running tests with `--program-prefix` or `--program-suffix` for ruby.
-  Pull request #1258 by Shane Gibbs.
-* Fixed Gem::Specification#to_yaml.  Pull request #1262 by Hiroaki Izu.
-* Fixed taintedness of Gem::Specification#raw_require_paths.  Pull request
-  #1268 by Sam Ruby.
-* Fixed sorting of platforms when installing gems.  Pull request #1271 by
-  nonsequitur.
-* Use `--no-document` over deprecated documentation options when installing
-  dependencies on travis.  Pull request #1272 by takiy33.
-* Improved support for IPv6 addresses in URIs.  Pull request #1275 by Joe
-  Rafaniello.
-* Spec validation no longer crashes if a file does not exist.  Pull request
-  #1278 by Samuel E. Giddins.
-* Gems can now be installed within `rescue`.  Pull request #1282 by Samuel E.
-  Giddins.
-* Increased Diffie-Hellman key size for tests for modern OpenSSL.  Pull
-  request #1290 by Vít Ondruch.
-* RubyGems handles invalid config files better.  Pull request #1367 by Agis
-  Anastasopoulos.
-
-=== 2.4.8 / 2015-06-08
-
-Bug fixes:
-
-* Tightened API endpoint checks for CVE-2015-3900
-
-=== 2.4.7 / 2015-05-14
-
-Bug fixes:
-
-* Limit API endpoint to original security domain for CVE-2015-3900.
-  Fix by claudijd
-
-=== 2.4.6 / 2015-02-05
-
-Bug fixes:
-
-* Fixed resolving gems with both upper and lower requirement boundaries.
-  Issue #1141 by Jakub Jirutka.
-* Moved extension directory after require_paths to fix missing constant bugs
-  in some gems with C extensions.  Issue #784 by André Arko, pull request
-  #1137 by Barry Allard.
-* Use Gem::Dependency#requirement when adding a dependency to an existing
-  dependency instance.  Pull request #1101 by Josh Cheek.
-* Fixed warning of shadowed local variable in Gem::Specification.  Pull request
-  #1109 by Rohit Arondekar
-* Gem::Requirement should always sort requirements before coercion to Hash.
-  Pull request #1139 by Eito Katagiri.
-* The `gem open` command should change the current working directory before
-  opening the editor.  Pull request #1142 by Alex Wood.
-* Ensure quotes are stripped from the Windows launcher script used to install
-  gems.  Pull request #1115 by Youngjun Song.
-* Fixed errors when writing to NFS to to 0444 files.  Issue #1161 by Emmanuel
-  Hadoux.
-* Removed dead code in Gem::StreamUI.  Pull request #1117 by mediaslave24.
-* Fixed typos.  Pull request #1096 by hakeda.
-* Relaxed CMake dependency for RHEL 6 and CentOS 6.  Pull request #1124 by Vít
-  Ondruch.
-* Relaxed Psych dependency.  Pull request #1128 by Vít Ondruch.
-
-=== 2.4.5 / 2014-12-03
-
-Bug fixes:
-
-* Improved speed of requiring gems.  (Around 25% for a 60 gem test).  Pull
-  request #1060 by unak.
-* RubyGems no longer attempts to look up gems remotely with the --local flag.
-  Pull request #1084 by Jeremy Evans.
-* Executable stubs use the correct gem version when RUBYGEMS_GEMDEPS is
-  active.  Issue #1072 by Michael Kaiser-Nyman.
-* Fixed handling of pinned gems in lockfiles with versions.  Issue #1078 by
-  Ian Ker-Seymer.
-* Fixed handling of git@example:gem.git URIs.  Issue #1054 by Mogutan Mogu.
-* Fixed handling of platforms retrieved from the dependencies API.  Issue
-  #1058 and patch suggestion by tux-mind.
-* RubyGems now suggests a copy-pasteable `gem pristine` command when
-  extensions are missing.  Pull request #1057 by Shannon Skipper.
-* Improved errors for long file names when packaging.  Pull request #1016 by
-  Piotrek Bator.
-* `gem pristine` now skips gems cannot be found remotely.  Pull request #1064
-  by Tuomas Kareinen.
-* `gem pristine` now caches gems to the proper directory.  Pull request #1064
-  by Tuomas Kareinen.
-* `gem pristine` now skips bundled gems properly.  Pull request #1064 by
-  Tuomas Kareinen.
-* Improved interoperability of Vagrant with RubyGems.  Pull request #1057 by
-  Vít Ondruch.
-* Renamed CONTRIBUTING to CONTRIBUTING.rdoc to allow markup.  Pull request
-  #1090 by Roberto Miranda.
-* Switched from #partition to #reject as only one collection is used.  Pull
-  request #1074 by Tuomas Kareinen.
-* Fixed installation of gems on systems using memory-mapped files.  Pull
-  request #1038 by Justin Li.
-* Fixed bug in Gem::Text#min3 where `a == b < c`.  Pull request #1026 by
-  fortissimo1997.
-* Fixed uninitialized variable warning in BasicSpecification.  Pull request
-  #1019 by Piotr Szotkowski.
-* Removed unneeded exception handling for cyclic dependencies.  Pull request
-  #1043 by Jens Wille.
-* Fixed grouped expression warning.  Pull request #1081 by André Arko.
-* Fixed handling of platforms when writing lockfiles.
-
-
-------------------------------------------------------------------------------
-
-RubyGems installed the following executables:
-	/home/eduards/.rbenv/versions/2.2.0/bin/gem
-
-Ruby Interactive (ri) documentation was installed. ri is kind of like man 
-pages for ruby libraries. You may access it like this:
-  ri Classname
-  ri Classname.class_method
-  ri Classname#instance_method
-If you do not wish to install this documentation in the future, use the
---no-document flag, or set it as the default in your ~/.gemrc file. See
-'gem help env' for details.
-
-RubyGems system software updated
-]0;eduards@Esuba: /media/eduards/Data/Programmingeduards@Esuba:/media/eduards/Data/Programming$ ruby -hgem outdated[5Pruby -vjekyll new bloggem install jekyll bundlerls[Kjekyll new test_suite
-/var/lib/gems/2.2.0/gems/safe_yaml-1.0.4/lib/safe_yaml/psych_resolver.rb:4:in `<class:PsychResolver>': uninitialized constant Psych::Nodes (NameError)
-	from /var/lib/gems/2.2.0/gems/safe_yaml-1.0.4/lib/safe_yaml/psych_resolver.rb:2:in `<module:SafeYAML>'
-	from /var/lib/gems/2.2.0/gems/safe_yaml-1.0.4/lib/safe_yaml/psych_resolver.rb:1:in `<top (required)>'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /var/lib/gems/2.2.0/gems/safe_yaml-1.0.4/lib/safe_yaml/load.rb:131:in `<module:SafeYAML>'
-	from /var/lib/gems/2.2.0/gems/safe_yaml-1.0.4/lib/safe_yaml/load.rb:26:in `<top (required)>'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /var/lib/gems/2.2.0/gems/jekyll-3.4.3/lib/jekyll.rb:29:in `<top (required)>'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /var/lib/gems/2.2.0/gems/jekyll-3.4.3/exe/jekyll:6:in `<top (required)>'
-	from /usr/local/bin/jekyll:23:in `load'
-	from /usr/local/bin/jekyll:23:in `<main>'
-]0;eduards@Esuba: /media/eduards/Data/Programmingeduards@Esuba:/media/eduards/Data/Programming$ ls .rubies
-ls: cannot access .rubies: No such file or directory
-]0;eduards@Esuba: /media/eduards/Data/Programmingeduards@Esuba:/media/eduards/Data/Programming$ [K]0;eduards@Esuba: /media/eduards/Data/Programmingeduards@Esuba:/media/eduards/Data/Programming$ ls .rubiesjekyll new test_suite
-/var/lib/gems/2.2.0/gems/safe_yaml-1.0.4/lib/safe_yaml/psych_resolver.rb:4:in `<class:PsychResolver>': uninitialized constant Psych::Nodes (NameError)
-	from /var/lib/gems/2.2.0/gems/safe_yaml-1.0.4/lib/safe_yaml/psych_resolver.rb:2:in `<module:SafeYAML>'
-	from /var/lib/gems/2.2.0/gems/safe_yaml-1.0.4/lib/safe_yaml/psych_resolver.rb:1:in `<top (required)>'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /var/lib/gems/2.2.0/gems/safe_yaml-1.0.4/lib/safe_yaml/load.rb:131:in `<module:SafeYAML>'
-	from /var/lib/gems/2.2.0/gems/safe_yaml-1.0.4/lib/safe_yaml/load.rb:26:in `<top (required)>'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /var/lib/gems/2.2.0/gems/jekyll-3.4.3/lib/jekyll.rb:29:in `<top (required)>'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /var/lib/gems/2.2.0/gems/jekyll-3.4.3/exe/jekyll:6:in `<top (required)>'
-	from /usr/local/bin/jekyll:23:in `load'
-	from /usr/local/bin/jekyll:23:in `<main>'
-]0;eduards@Esuba: /media/eduards/Data/Programmingeduards@Esuba:/media/eduards/Data/Programming$ jekyll new test_suite[K[K[K[K[K[K
-/var/lib/gems/2.2.0/gems/safe_yaml-1.0.4/lib/safe_yaml/psych_resolver.rb:4:in `<class:PsychResolver>': uninitialized constant Psych::Nodes (NameError)
-	from /var/lib/gems/2.2.0/gems/safe_yaml-1.0.4/lib/safe_yaml/psych_resolver.rb:2:in `<module:SafeYAML>'
-	from /var/lib/gems/2.2.0/gems/safe_yaml-1.0.4/lib/safe_yaml/psych_resolver.rb:1:in `<top (required)>'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /var/lib/gems/2.2.0/gems/safe_yaml-1.0.4/lib/safe_yaml/load.rb:131:in `<module:SafeYAML>'
-	from /var/lib/gems/2.2.0/gems/safe_yaml-1.0.4/lib/safe_yaml/load.rb:26:in `<top (required)>'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /var/lib/gems/2.2.0/gems/jekyll-3.4.3/lib/jekyll.rb:29:in `<top (required)>'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /var/lib/gems/2.2.0/gems/jekyll-3.4.3/exe/jekyll:6:in `<top (required)>'
-	from /usr/local/bin/jekyll:23:in `load'
-	from /usr/local/bin/jekyll:23:in `<main>'
-]0;eduards@Esuba: /media/eduards/Data/Programmingeduards@Esuba:/media/eduards/Data/Programming$ ls
-[0m[01;34mAssembly[0m  [01;34mC[0m  [01;34meduardinjo.github.io[0m  [01;34mHaskell[0m  [01;34mJekyll[0m  [01;34mLTspice[0m  [01;34mMatlab[0m  [01;34mMyBlog[0m  [01;34mPython[0m
-]0;eduards@Esuba: /media/eduards/Data/Programmingeduards@Esuba:/media/eduards/Data/Programming$ lsjekyll new test[K[K[K[K[K[K[K[K[K[K[K[K[Kkyll
-/var/lib/gems/2.2.0/gems/safe_yaml-1.0.4/lib/safe_yaml/psych_resolver.rb:4:in `<class:PsychResolver>': uninitialized constant Psych::Nodes (NameError)
-	from /var/lib/gems/2.2.0/gems/safe_yaml-1.0.4/lib/safe_yaml/psych_resolver.rb:2:in `<module:SafeYAML>'
-	from /var/lib/gems/2.2.0/gems/safe_yaml-1.0.4/lib/safe_yaml/psych_resolver.rb:1:in `<top (required)>'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /var/lib/gems/2.2.0/gems/safe_yaml-1.0.4/lib/safe_yaml/load.rb:131:in `<module:SafeYAML>'
-	from /var/lib/gems/2.2.0/gems/safe_yaml-1.0.4/lib/safe_yaml/load.rb:26:in `<top (required)>'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /var/lib/gems/2.2.0/gems/jekyll-3.4.3/lib/jekyll.rb:29:in `<top (required)>'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /var/lib/gems/2.2.0/gems/jekyll-3.4.3/exe/jekyll:6:in `<top (required)>'
-	from /usr/local/bin/jekyll:23:in `load'
-	from /usr/local/bin/jekyll:23:in `<main>'
-]0;eduards@Esuba: /media/eduards/Data/Programmingeduards@Esuba:/media/eduards/Data/Programming$ jeki[Kull[K[K[Kyll - v[K[Kv
-/var/lib/gems/2.2.0/gems/safe_yaml-1.0.4/lib/safe_yaml/psych_resolver.rb:4:in `<class:PsychResolver>': uninitialized constant Psych::Nodes (NameError)
-	from /var/lib/gems/2.2.0/gems/safe_yaml-1.0.4/lib/safe_yaml/psych_resolver.rb:2:in `<module:SafeYAML>'
-	from /var/lib/gems/2.2.0/gems/safe_yaml-1.0.4/lib/safe_yaml/psych_resolver.rb:1:in `<top (required)>'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /var/lib/gems/2.2.0/gems/safe_yaml-1.0.4/lib/safe_yaml/load.rb:131:in `<module:SafeYAML>'
-	from /var/lib/gems/2.2.0/gems/safe_yaml-1.0.4/lib/safe_yaml/load.rb:26:in `<top (required)>'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /var/lib/gems/2.2.0/gems/jekyll-3.4.3/lib/jekyll.rb:29:in `<top (required)>'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /usr/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:69:in `require'
-	from /var/lib/gems/2.2.0/gems/jekyll-3.4.3/exe/jekyll:6:in `<top (required)>'
-	from /usr/local/bin/jekyll:23:in `load'
-	from /usr/local/bin/jekyll:23:in `<main>'
-]0;eduards@Esuba: /media/eduards/Data/Programmingeduards@Esuba:/media/eduards/Data/Programming$ gem uninstall jekyll
-Remove executables:
-	jekyll
-
-in addition to the gem? [Yn]  y
-Removing jekyll
-Successfully uninstalled jekyll-3.4.3
-]0;eduards@Esuba: /media/eduards/Data/Programmingeduards@Esuba:/media/eduards/Data/Programming$ gem install je[Kekyll
-Fetching: jekyll-3.4.3.gemFetching: jekyll-3.4.3.gem (  3%)Fetching: jekyll-3.4.3.gem (  6%)Fetching: jekyll-3.4.3.gem (  7%)Fetching: jekyll-3.4.3.gem ( 10%)Fetching: jekyll-3.4.3.gem ( 13%)Fetching: jekyll-3.4.3.gem ( 16%)Fetching: jekyll-3.4.3.gem ( 19%)Fetching: jekyll-3.4.3.gem ( 22%)Fetching: jekyll-3.4.3.gem ( 25%)Fetching: jekyll-3.4.3.gem ( 28%)Fetching: jekyll-3.4.3.gem ( 31%)Fetching: jekyll-3.4.3.gem ( 34%)Fetching: jekyll-3.4.3.gem ( 37%)Fetching: jekyll-3.4.3.gem ( 40%)Fetching: jekyll-3.4.3.gem ( 43%)Fetching: jekyll-3.4.3.gem ( 61%)Fetching: jekyll-3.4.3.gem ( 79%)Fetching: jekyll-3.4.3.gem ( 97%)Fetching: jekyll-3.4.3.gem (100%)Fetching: jekyll-3.4.3.gem (100%)
-Successfully installed jekyll-3.4.3
-Parsing documentation for jekyll-3.4.3
-Installing ri documentation for jekyll-3.4.3
-Done installing documentation for jekyll after 2 seconds
-1 gem installed
-]0;eduards@Esuba: /media/eduards/Data/P

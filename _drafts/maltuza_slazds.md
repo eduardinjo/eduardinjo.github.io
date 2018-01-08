@@ -4,17 +4,37 @@ title: Politika ir pagātnes važas
 permalink: /politika_ir_sekas/
 comments: true
 ---
-# Pieturpunkti
-* Sociālā un politiskā iesaiste
-
-
 >The real problem of humanity is the following: we have paleolithic emotions; medieval institutions; and god-like technology.
 > -E. O. Wilson
 
-Šobrīd mēs dzīvojam netipiskā cilvēces laika posmā [ar rekordzemu vardardarbību](https://ourworldindata.org/war-and-peace/), augstāko pieredzēto labklājību un nepārtrauktu tehnoloģisko izaugsmi (skat. zemāk). Kādam dzīves apstākļu uzlabojums ar gadiem var likties pašsaprotams, bet vēsture neliecina ka tas ir vienlīdzīgs un neatgriezenisks. Zemāk redzamajā attēlā redzams [IKP](https://en.wikipedia.org/wiki/Gross_domestic_product) uz vienu iedzīvotāju dažādos gadsimtos un tikai ar industriālo revolūciju novērojams patstāvīgs pieaugums. Līdz tam IKP bija relatīvi konstants un to sauc par [Maltūza slazdu](https://en.wikipedia.org/wiki/Malthusian_trap) - palielinoties pārtikas daudzumam, palielinās arī cilvēku skaits. Zem šī līdzsvara punkta ir bads, karš vai cits populāciju ierobežojošs faktors.
+Kā jau visticamāk daudziem cilvēkiem, man patīk lasīt par dažādiem vēstures notikumiem, kuri manā gadījumā pārsvarā ir par kara tematiku. Ja neskaita nesenos 20.gs. notikumus, tad parasti šiem faktiem, it īpaši, 1000 gadus seniem, pārāk būtisku ietekmi mūsu laika norisēs es nepiešķīru. Manas domas mainījās pēc [The Origins of Political Order]  izlasīšanas, kura ir masīva un detalizēta grāmata par pasaules politisko attīstību no pirmsākumiem līdz Franču revolūcijai un [sekojošu grāmatu][3] par vēsturi līdz mūsdienām. Pamatmotivācijai šai grāmatu sērijai ir jautājums, kuru daudzi ir prātojuši: *"Kā nokļūt līdz Dānijai?"* jeb kā kļūt par attīstītu un labi pārvaldītu valsti nevis Zimbabvi. Atbildot uz šo jautājumu tiek paskaidroti daudzi citi jautājumi: Kā no [egilitārām] jeb vienlīdzīgām pirmatnējām cilvēku ciltīm radās nevienlīdzīga sabiedrība ar darba dalīšanu? Kāpēc moderna valsts Ķīnā radās gandrīz 2000 gadus atpakaļ, bet lielā daļā Āfrikas pat šobrīd grūti īstenot? Kāpēc kristiešu baznīca bija vienīgā reliģiskā instūcija vēsturē, kura bija globāli spēcīgs un neatkarīgs politiskais spēks? Kāpēc Ķīnā neizveidojās sava spēcīga reliģiskā institūcija? Kāpēc Indija nespēj sakārtot un realizēt ekonomisko attīstību līdzīgi kā Ķīna? Kāpēc Ziemeļamerika, Dienvidamerika un Āfrika ir krasi atšķirīgas politiskajā un ekonomiskajā attīstībā, lai gan visas ir bijušās kolonijas ar netriviālu pirmiedzīvotāju populāciju? Kāpēc Eiropas karaļi savās vizītēs aprīnoja Osmaņu Impērijas pārvaldi tās pilnbriedā, lai gan administrācijas augstākajos amatos bija vergi? Kā 200 gadus Japānas apzināti īstenoto izolācijas politiku pārtrauca daži [ASV flotes kuģi][4] un noveda pie ātras industrializācijas, nevis to okupēja. [Veiksme][1] jeb sakrītības radīja šos dažādos attīstības scenārijus, kuri tad ļauj spriest par likumsakarībām, kuras veido veiksmīgas un neizdevušās valstis. Šis būs ievadraksts par politiku: kāpēc tā ir svarīga, sarežģīta un mūsdienās maz diskutēta.
 
-![Maltūza slazds]({{ site.url }}/assets/pictures/GDP-per-capita-in-the-uk-since-1270.png)
-{:height="500px" width=600px"}
+## Kāpēc ir politiskās sistēmas
+
+Lai gan daudziem cilvēkiem ir dedzīgas politiskās pārliecības, tomēr krietni lielai daļai arī tā nemaz neinteresē, sakot ka tur tāpat neko nevar ietekmēt. Bet jebkuru cilvēku, kurš ir ciešā saskarē ar citiem, ietekmē pastāvošais politiskais režīms un ,manuprāt, ir vērts saprast kāpēc tas pastāv un ir vajadzīgs. Cilvēkiem patīk būt autonomiem un pieņemt pašiem savus lēmumums - tas nevienam netraucēs, ja šodien izvēlēšos doties uz atpūsties pie upes, nevis strādāt, bet ja izdomāšu patvaļīgu uzcelt māju kāpās un izmest atkritumus upē, tad šaubos ka citiem būs vienalga. Toties visi var vienoties savā starpā, ka atkritumus upē nedrīkst mest un kāpu rajonā celt nedrīkst, bet ja kāds pārkāpj noteikumus, tad atbilstošs sods. Lai gan katrs brīvprātīgi ierobežo savu personīgo brīvību, tomēr tā nav augsta cena par tīru ūdeni arī tālā nākotnē. Bez šādas savstarpējas vienošanās, ir izdēvīgi iedzīvoties uz savu apzinīgo kaimiņu rēķina un piesārņot upi. Bet šādas [vienošanās][5] ir grūti panākt. Tehniski tās sauc par [kolektīvās rīcības problēmām][6], jo individuāli nav risināmas, bet sniedz kopīgu labumu: neatkarīga tiesu sistēma, pārtikas drošības kontrole, armija (kurš savā pagalmā uzstādīs ballistisko raķešu aizsardzības sistēmu?) vai piesārņojuma ierobežojumi (pilsētās gaiss mazāk smirdētu, ja aizliegtu privāto transportu). Tāpēc ir grūti iedomāties, ka tūkstošiem cilvēku sanāca kopā, vienojās par šiem noteikumiem un izdomāja: "Hei, dibinam valsti!". Vēsture liecina, ka valstis radās mazāk cēlu iemeslu dēļ - vardarbības rezultātā - un laika gaitā ar smagām pulēm un asinīm ir pielāgotas pilsoņu nevis šauras vadošās elites interesēm. Agrākās paaudzes ir cīnījušās par šīm tiesībām un tāpēc šobrīd dzīve ir labāka, bet bez papildus pūlēm, savstarpējās solidaritātes un konfliktiem, politiskais progress nav garantēts.
+
+Nereti izskan viedoklis, ka šī birokrātiskā tirānija ir cilvēku izdomāta un labāk būtu atgriezties brīvībā un [anarhijā][8]. Grāmatā [Guns, Germs and Steel][7], kura fokusējas tieši uz agrīnējo cilvēku sabiedrību, nav liecību par šādas anarhistiskas sabiedrības eksistenci. Lai gan pirmatnējās ciltis bija vienlīdzīgas un lēmumus pieņēma kopīgās sanāksmēs, tas nenozīmē, ka nepastāvēja zināmi likumi un ierobežojumi. Piemēram, zināms privātīpašums pastāvēja un katrai ģimenei varēja būt savs zemes pleķis, bet tā patiesībā piederēja visai [komūnai][9] un pilnībā brīvi ar to rīkoties nevarēja. Un strīdus risināja bez autoritāras tiesu varas - ar vidutāju, kurš palīdzēja rast kompromisu starp iesaistītajām pusēm. Bet tie kuri ir redzējuši nopietnu konfliktu starp diviem cilvēkiem sapratīs, ka abi iesaistītie var būt nepiekāpīgi savā taisnībā un nekad nesalīgt. Risinājums? Ciltī konfliktā iesaistās visa ģimene, kura ir ieinteresēta kompromisā, lai neveidotos "*[blood feud][10]*":
+>"Well," says Buck, "a feud is this way: A man has a quarrel with another man, and kills him; then that other man's brother kills HIM; then the other brothers, on both sides, goes for one another; then the COUSINS chip in—and by and by everybody's killed off, and there ain't no more feud. But it's kind of slow, and takes a long time."
+><br>
+<p style="text-align:right"> &mdash;Mark Twain, <cite>Huckleberry Finn</cite>, Ch18.26</p>
+
+Šādas stabilitātes cena ir individuālās izpausmes ierobežotība, jo katram jāpielāgojas ģimenes socio-politiskajam stāvoklim, bet bez ģimenes nevar izdzīvot. Ne velti viens no augstākajiem sodiem daudzās sabiedrībās un grupās ir izraidīšana, kas principā nozīmēja nāves spriedumu agrīnā sabiedrībā, jo vientuļnieki ir viegli upuri. Tāpēc drošs individuālisms var rasties, ja ir garantēta drošība ar neatkarīgu un taisnīgu strīdu risināšanu. Modernās valstīs to sniedz neatkarīga tiesu vara, kurai vienīgaijai arī ir leģitīmas tiesības pielietot vardarbību, tādējādi apturot konflikta eskalāciju. Bet ja spriedumi nešķiet taisnīgi vai šīs varas klātbūtne ir neadekvāta, kā sliktos mikrorajonos / getto vai noziedzīgajā pasaulē, tad parādās vendetas un citas iespaidīgas, bet nežēlīgas izpausmes. Ne velti sicīliešu mafija dēvēja sevi par "ģimeni". Varbūt nedaudz ironiski, ka daudzas partijas piemin stipru ģimeņu veidošanu kā mērķa uzdevumu, jo tas praktiski nozīmē vāju valsti ar zemu individuālismu.
+
+## Grūtības
+
+Dziļāk par birokrātiju un kuras no funckijām ir lietderīgas, atstāšu citai reizei. Pamatdoma ir, ka veiksmīgā valstī ir paredzama kārtība, personīgā drošība un tirgus regulējums veicina uzticību. Lielākā problēma ir ka šāda sistēma paļaujas nevis uz viszinošu, godīgu un altruistisku būtni, bet uz cilvēku ar visiem viņa trūkumiem. Katrs vēlas uzlabot savu materiālo, sociālo vai kādu citu stāvokli un to var darīt divos veidos - 1) radot kaut ko vērtīgu un iespējams to tirgojot vai 2) atņemot to citiem. Abos gadījumos ir izdevīgi apvienoties ar citiem lielākās organizētās grupās, jo rodas specializācija, var risināt sarežģītākas kolektīvās problēmas un priekšrocība pret relatīvi lielākām neorganizētām grupām. Viens piemērs būtu tirgotāju asociācija un otrs sicīliešu mafija. Bet problēma ar lielām organizācijām un uzņēmumiem ir ka tie bieži var pārslēgties no vērtības radīšanas uz tās atsavināšanu vai tirgus manipulāciju. Ne velti lieli uzņēmumi mīl papildus birokrātiju - tā ierobežo mazos uzņēmumus un samazina konkurenci. Ar mazāku konkurenci ir lielāka iespēja, ka nākamais darbs būs šādā lielā privātā organizācijā, kurai ir sava politiskā organizācija (pārsvarā autokrātija) un nekādu dižo vienlīdzību attalgojumā var necerēt. Lielas organizācijas sabiedrībā nebūtu problēma, ja tās neizjauktu ekonomisko un politisko balansu un tas nav neiespējami...
+
+>I, against my brothers. I and my brothers against my cousins. I and my brothers and my cousins against the world.
+><br>
+<p style="text-align:right"> &mdash;sena arābu paruna</p>
+
+Šī paruna raksturo kā ļoti ātri spēj izveidoties tiešām liela cilvēku organizācija, balstoties uz radniecības pakāpēm un kopīgu mērķi, bet joprojām saglabāt individuālu autonomiju. Piemēram, simtiem cilšu var apvienoties pret kopīgu pretinieku, bet ja tā brīža vadoņa plāns kādam nešķiet gana labs, tad ciltis var bez sankcijām tajā nepiedalīties. Bet mūsdienu hierarhiskajās organizācijās ir asimetrisks spēku samērs un šādas autonomijas nav.
+
+Ja kādu nepārliecina arguments, ka lielas organizētas grupas sistemātiski iznīcina konkurenci (konsolidācija) un samazina indivīdu autonomiju, tad var pieminēt, ka ne visas vērtīgās idejas un objekti ir viegli monitzējami. Ja tev liekas, ka uzņēmumu var vadīt labāk, izveido savējo, bet veiksmi ar jaunas valsts dibināšanu. Cik vērtīgas ir [Ruso] liberālisma idejas, kuras veicināja demokrātisku sabiedrību un pilsoniskās tiesības? Cik vērtīgs ir draudzīgs kaimiņš vai iespēja bez bailēm jautāt pēc naktsmītnes attālā nostūrī? Cik daudz vērtības pienestu pareizas sociālās, ekonomiskās un politiskās reformas - ļoti daudz, bet pakāpeniski ilgā laika termiņā. Taču neviens premjers/filozofs/aktīvists tādējādi nekļūst stāvus bagāts atšķirībā no uzņēmumu vadītājiem. Un īsti nevar izveidot lielu uzņēmumu, kurš pelna ar cilvēku savstarpējās uzticības veicināšanu (izņemot, ja tās ir kādas tabletes) Ja godīgi, es nezinu cik tieši vērtīgs ir mans viedtālrunis, bet vismaz tam ir cena un to varu nopirkt. Es nevaru nopirkt uzticamu draugu vai kaimiņu.
+
+Šobrīd mēs dzīvojam netipiskā cilvēces laika posmā [ar rekordzemu vardardarbību][2], augstāko pieredzēto labklājību un nepārtrauktu tehnoloģisko izaugsmi (skat. zemāk). Kādam dzīves apstākļu uzlabojums ar gadiem var likties pašsaprotams, bet vēsture neliecina ka tas ir vienlīdzīgs un neatgriezenisks. Zemāk redzamajā attēlā redzams [IKP](https://en.wikipedia.org/wiki/Gross_domestic_product) uz vienu iedzīvotāju dažādos gadsimtos un tikai ar industriālo revolūciju novērojams patstāvīgs pieaugums. Līdz tam IKP bija relatīvi konstants un to sauc par [Maltūza slazdu](https://en.wikipedia.org/wiki/Malthusian_trap) - palielinoties pārtikas daudzumam, palielinās arī cilvēku skaits. Zem šī līdzsvara punkta ir bads, karš vai cits populāciju ierobežojošs faktors.
+
+![Maltūza slazds][img1]{:height="500px" width=600px"}
 
 Tad kā izskaidrojams cilvēku skaita piegaugums pasaulē un šī brīža pārticība? Tehnoloģiskās un politiskās inovācijas pasaules vēsturē, kuras uzlaboja ražīgumu ir bijušas daudz - lopkopība un zemkopība, rakstība, ritenis, metalurģija u.t.t. Tomēr pārāk reti, lai nodrošinātu straujāku progresu par populācijas piegaugumu - līdz nākamajai inovācijai var paiet gadu desmiti vai simti, bet izdzīvojušo pēcnācēju skaits jau būs pielāgojies pārtikas pieejamībai.
 
@@ -30,126 +50,19 @@ Ar industriālo revolūciju IKP pieaugumam ir vairāki skaidrojumi - 1)patstāv�
 - Industriālā revolūcija palielināja IKP, jo katrs cilvēks ātri spēja apgūt šauru uzdevumu un būt produktīvs. Agrāk bija jāapgūst amats, kas prasīja lielus ieguldījumus. Tādējādi daži gudri/situāti cilvēki spēja dot produktivitāti dauziem mazāk kvalificētiem cilvēkiem. Mūsdienās tas vairs nestrādā, jo IT uzņēmumi spēj automatizēt darbību un ir ļoti specializēti amati. Viss ieguvums no dažiem prasmīgiem cilvēkiem nokļūst šajā pašā šaurajā personu lokā. Ir grūti produktīvi izmantot cilvēkus bez specializētām iemaņām.
 - Tehnoloģiskais un produktivitātes/sabiedrības uzlabojums nemaz nenozīmē, ka cilvēku dzīve kļūst labāka. Mednieku un vācēju ciltis savā hierarhijā ir ļoti eģilitāras un nav piespiedu darbs/verdzība. Augstāka civilizācija ar darba dalīšanu - augstmaņi, karotāji, zemnieki - ir kopumā produktīvāka un tehnoloģiski attīstītāka, bet zemniekiem ir jāstrādā daudz vairāk ar mazāku pašnoteikšanos. Šāda sistēma noteikti nav patīkamāka. Mūsdienu sabiedrībā daudzas lietas, kuras ir plaši izplatītas, nav obligāti uzlabojumi - sociālie tīkli patērēt daudz laika un mazu atdevi?; vairāk strādāt lai nopelnītu vs mazāk pelnīt un baudīt dzīves priekus
 
+[1]:{{ site.baseurl }}{% post_url 2017-12-18-veiksme %}
+[2]:https://ourworldindata.org/war-and-peace/)
+[3]:https://www.goodreads.com/book/show/20575435-political-order-and-political-decay
+[4]:https://en.wikipedia.org/wiki/Perry_Expedition
+[5]:https://www.economist.com/news/middle-east-and-africa/21688360-largest-hydroelectric-project-africa-has-so-far-produced-only-discord-egypt
+[6]:https://en.wikipedia.org/wiki/Collective_action#Collective_action_problem
+[7]:https://en.wikipedia.org/wiki/Guns,_Germs,_and_Steel
+[8]:https://en.wikipedia.org/wiki/List_of_anarchist_communities
+[9]:https://en.wikipedia.org/wiki/Common_land
+[10]:https://en.wikipedia.org/wiki/Feud#Blood_feuds
 
+[The Origins of Political Order]: https://en.wikipedia.org/wiki/The_Origins_of_Political_Order
+[egilitārām]:https://en.wikipedia.org/wiki/Egalitarianism
+[Ruso]:https://lv.wikipedia.org/wiki/%C5%BDans_%C5%BDaks_Ruso
 
-
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](another-page).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# [](#header-1)Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## [](#header-2)Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### [](#header-3)Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### [](#header-4)Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### [](#header-5)Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### [](#header-6)Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+[img1]:{{ site.url }}/assets/pictures/GDP-per-capita-in-the-uk-since-1270.png
